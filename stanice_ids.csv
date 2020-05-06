@@ -1,0 +1,803 @@
+"id";"X";"Y";"ELEVATION";"NAME";"FNAME";"STATION_TYP";"T";"SRA";"SCE";"SCEa";"SSV";"P";"F";"RGLB";"tmean";"tmax";"tmin";"humid";"prec";"snow";"solr";"wind";"pres";"params"
+"B1BLAT01";17.4611;48.9465;211;"Blatnice";"Blatnice pod svat˝m AntonÌnkem";"MSS";NA;"SRA";"SCE";NA;NA;NA;NA;NA;NA;NA;NA;NA;"prec";"snow";NA;NA;NA;2
+"B1BOJK01";17.81;49.0402;310;"Bojkovice";"Bojkovice";"AKS3";TRUE;"SRA";"SCE";NA;NA;NA;NA;NA;"tmean";"tmax";"tmin";"humid";"prec";"snow";NA;NA;NA;6
+"B1BUCH01";17.335389;49.089008;257;"Buchlovice";"Buchlovice";"MSS";NA;"SRA";"SCE";NA;NA;NA;NA;NA;NA;NA;NA;NA;"prec";"snow";NA;NA;NA;2
+"B1BYSH01";17.6706;49.3964;314;"Byst¯ice pod Host˝nem";"Byst¯ice pod Host˝nem";"AKS2";TRUE;"SRA";"SCE";NA;NA;NA;FALSE;NA;"tmean";"tmax";"tmin";"humid";"prec";"snow";"solr";"wind";NA;8
+"B1BZEN01";17.3055;48.9816;182;"Bzenec";"Bzenec";"MSS";NA;"SRA";"SCE";NA;NA;NA;NA;NA;"tmean";"tmax";"tmin";"humid";"prec";"snow";"solr";"wind";NA;8
+"B1DREV01";17.586111;49.424444;238;"D¯evohostice";"D¯evohostice";"ASS";NA;"SRA";"SCE";NA;NA;NA;NA;NA;NA;NA;NA;NA;"prec";"snow";NA;NA;NA;2
+"B1HLHO01";17.8033;49.155;348;"HornÌ Lhota";"HornÌ Lhota";"ASS";NA;"SRA";"SCE";NA;NA;NA;NA;NA;NA;NA;NA;NA;"prec";"snow";NA;NA;NA;2
+"B1HLUK01";17.538;48.9863;225;"Hluk";"Hluk";"ASS";NA;"SRA";"SCE";NA;NA;NA;NA;NA;NA;NA;NA;NA;"prec";"snow";NA;NA;NA;2
+"B1HODO01";17.104872;48.854292;172;"HodonÌn";"HodonÌn";"MSS";NA;"SRA";"SCE";NA;NA;NA;NA;NA;"tmean";"tmax";"tmin";"humid";"prec";"snow";"solr";"wind";NA;8
+"B1HOLE01";17.57;49.320556;222.25;"Holeöov";"Holeöov";"AMS1";TRUE;"SRA";"SCE";NA;"SSV";"P";FALSE;"RGLB_D";"tmean";"tmax";"tmin";"humid";"prec";"snow";"solr";"wind";"pres";9
+"B1IVAN01";17.0894;49.3092;243;"Ivanovice na HanÈ";"Ivanovice na HanÈ";"AKS2";TRUE;"SRA";"SCE";NA;NA;NA;FALSE;NA;"tmean";"tmax";"tmin";"humid";"prec";"snow";"solr";"wind";NA;8
+"B1KLZI01";17.7925;49.0842;329;"LuhaËovice";"LuhaËovice, Kladn·-éilÌn";"AKS2";TRUE;"SRA";"SCE";NA;NA;NA;FALSE;NA;"tmean";"tmax";"tmin";"humid";"prec";"snow";NA;"wind";NA;7
+"B1KOJE01";17.2944;49.3527;203;"KojetÌn";"KojetÌn";"ASS";NA;"SRA";"SCE";NA;NA;NA;NA;NA;"tmean";"tmax";"tmin";"humid";"prec";"snow";NA;"wind";NA;7
+"B1KRAL01";17.1827;49.4597;210;"Kralice na HanÈ";"Kralice na HanÈ";"MSS";NA;"SRA";"SCE";NA;NA;NA;NA;NA;NA;NA;NA;NA;"prec";"snow";NA;NA;NA;2
+"B1KROM01";17.3653;49.2847;233;"KromÏ¯Ìû";"KromÏ¯Ìû";"AKS1";TRUE;"SRA";"SCE";NA;"SSV";NA;FALSE;NA;"tmean";"tmax";"tmin";"humid";"prec";"snow";"solr";"wind";NA;8
+"B1KVAS01";17.4703;49.2453;190;"Kvasice";"Kvasice";"MSS";NA;"SRA";"SCE";NA;NA;NA;NA;NA;NA;NA;NA;NA;"prec";"snow";NA;NA;NA;2
+"B1LYSO01";16.968611;49.216667;275;"Lysovice";"Lysovice";"MSS";NA;"SRA";"SCE";NA;NA;NA;NA;NA;NA;NA;NA;NA;"prec";"snow";NA;NA;NA;2
+"B1MSLI01";17.2319;49.2417;289;"Morkovice-SlÌûany";"Morkovice-SlÌûany, SlÌûany";"MSS";NA;"SRA";"SCE";NA;NA;NA;NA;NA;NA;NA;NA;NA;"prec";"snow";NA;NA;NA;2
+"B1NAMH01";17.065;49.605;247;"N·mÏöù na HanÈ";"N·mÏöù na HanÈ";"MSS";NA;"SRA";"SCE";NA;NA;NA;NA;NA;NA;NA;NA;NA;"prec";"snow";NA;NA;NA;2
+"B1NAPA01";17.5167;49.1833;185;"Napajedla";"Napajedla";"MSS";NA;"SRA";"SCE";NA;NA;NA;NA;NA;NA;NA;NA;NA;"prec";"snow";NA;NA;NA;2
+"B1NIVN01";17.64502;48.98061;241;"Nivnice";"Nivnice";"MSS";NA;"SRA";"SCE";NA;NA;NA;NA;NA;NA;NA;NA;NA;"prec";"snow";NA;NA;NA;2
+"B1PLUM01";17.0128;49.4683;303;"Plumlov";"Plumlov";"MSS";NA;"SRA";"SCE";NA;NA;NA;NA;NA;NA;NA;NA;NA;"prec";"snow";NA;NA;NA;2
+"B1PODI01";17.003611;49.369444;375;"Podivice";"Podivice";"ASS";NA;"SRA";"SCE";NA;NA;NA;NA;NA;NA;NA;NA;NA;"prec";"snow";NA;NA;NA;2
+"B1PROS01";17.134722;49.4525;214.75;"ProstÏjov";"ProstÏjov";"AMS";TRUE;"SRA";"SCE";NA;"SSV";"P";FALSE;NA;"tmean";"tmax";"tmin";"humid";"prec";"snow";"solr";"wind";"pres";9
+"B1PROT01";16.83105;49.47782;675;"Protivanov";"Protivanov";"AKS1";TRUE;"SRA";"SCE";NA;"SSV";NA;FALSE;NA;"tmean";"tmax";"tmin";"humid";"prec";"snow";"solr";"wind";NA;8
+"B1RADE01";17.3348;48.8639;240;"RadÏjov";"RadÏjov";"MSS";NA;"SRA";"SCE";NA;NA;NA;NA;NA;NA;NA;NA;NA;"prec";"snow";NA;NA;NA;2
+"B1SLIN01";17.8783;49.0853;362;"SlaviËÌn";"SlaviËÌn";"MSS";NA;"SRA";"SCE";NA;NA;NA;NA;NA;NA;NA;NA;NA;"prec";"snow";NA;NA;NA;2
+"B1STHR01";17.8614;48.9681;412;"Star˝ Hrozenkov";"Star˝ Hrozenkov";"MSS";NA;"SRA";"SCE";NA;NA;NA;NA;NA;NA;NA;NA;NA;"prec";"snow";NA;NA;NA;2
+"B1STIT01";17.9711;49.0728;315;"ätÌtn· nad Vl·¯Ì - Popov";"ätÌtn· nad Vl·¯Ì - Popov";"AKS1";TRUE;"SRA";"SCE";NA;"SSV";NA;FALSE;NA;"tmean";"tmax";"tmin";"humid";"prec";"snow";"solr";"wind";NA;8
+"B1STME01";17.4322;49.0917;221;"StarÈ MÏsto";"StarÈ MÏsto";"AKS1";TRUE;"SRA";"SCE";NA;"SSV";NA;FALSE;NA;"tmean";"tmax";"tmin";"humid";"prec";"snow";"solr";"wind";NA;8
+"B1STRN01";17.7078;48.9028;383;"Str·nÌ";"Str·nÌ";"AKS1";TRUE;"SRA";"SCE";NA;"SSV";NA;FALSE;NA;"tmean";"tmax";"tmin";"humid";"prec";"snow";"solr";"wind";NA;8
+"B1STRZ01";17.3381;48.8992;176;"Str·ûnice";"Str·ûnice";"AKS1";TRUE;"SRA";"SCE";NA;"SSV";NA;FALSE;NA;"tmean";"tmax";"tmin";"humid";"prec";"snow";"solr";"wind";NA;8
+"B1UHBR01";17.6555;49.0255;222;"Uhersk˝ Brod";"Uhersk˝ Brod";"MSS";NA;"SRA";"SCE";NA;NA;NA;NA;NA;NA;NA;NA;NA;"prec";"snow";NA;NA;NA;2
+"B1UJED01";17.364444;49.211944;336;"⁄jezdsko";"⁄jezdsko";"MSS";NA;"SRA";"SCE";NA;NA;NA;NA;NA;NA;NA;NA;NA;"prec";"snow";NA;NA;NA;2
+"B1VEJATT";17.6697;48.8553;961;"Velk· Javo¯ina";"Velk· Javo¯ina";"TOTAL";NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;0
+"B1VELI01";17.7606;49.2875;392;"ZlÌn";"ZlÌn, VelÌkov·";"MSS";NA;"SRA";"SCE";NA;NA;NA;NA;NA;NA;NA;NA;NA;"prec";"snow";NA;NA;NA;2
+"B1VELV01";17.5167;48.8789;289;"Velk· nad VeliËkou";"Velk· nad VeliËkou";"MSS";NA;"SRA";"SCE";NA;NA;NA;NA;NA;NA;NA;NA;NA;"prec";"snow";NA;NA;NA;2
+"B1VIZO01";17.84361;49.22297;313;"Vizovice";"Vizovice";"AKS1";TRUE;"SRA";"SCE";NA;"SSV";NA;FALSE;NA;"tmean";"tmax";"tmin";"humid";"prec";"snow";"solr";"wind";NA;8
+"B1VKLO01";18.015;49.139167;402;"ValaöskÈ Klobouky";"ValaöskÈ Klobouky";"ASS";NA;"SRA";"SCE";NA;NA;NA;NA;NA;NA;NA;NA;NA;"prec";"snow";NA;NA;NA;2
+"B1ZLIN01";17.643333;49.236667;283;"ZlÌn";"ZlÌn";"AKS3";TRUE;"SRA";"SCE";NA;NA;NA;NA;NA;"tmean";"tmax";"tmin";"humid";"prec";"snow";NA;"wind";NA;7
+"B2BABI01";16.6958;49.2889;470;"Babice nad Svitavou";"Babice nad Svitavou";"MSS";NA;"SRA";"SCE";NA;NA;NA;NA;NA;NA;NA;NA;NA;"prec";"snow";NA;NA;NA;2
+"B2BATE01";15.355278;49.278056;643;"Batelov";"Batelov, Nov· Ves";"MSS";NA;"SRA";"SCE";NA;NA;NA;NA;NA;NA;NA;NA;NA;"prec";"snow";NA;NA;NA;2
+"B2BITO01";15.73;48.938333;425;"BÌtov";"BÌtov";"MSS";NA;"SRA";"SCE";NA;NA;NA;NA;NA;NA;NA;NA;NA;"prec";"snow";NA;NA;NA;2
+"B2BJUN01";16.5608;49.2019;260;"Brno";"Brno, Jundrov";"MSS";NA;"SRA";"SCE";NA;NA;NA;NA;NA;NA;NA;NA;NA;"prec";"snow";NA;NA;NA;2
+"B2BLAN01";16.6503;49.3597;299;"Blansko";"Blansko";"MSS";NA;"SRA";"SCE";NA;NA;NA;NA;NA;NA;NA;NA;NA;"prec";"snow";NA;NA;NA;2
+"B2BOHD01";15.871783;49.481656;583;"Bohdalov";"Bohdalov";"MSS";NA;"SRA";"SCE";NA;NA;NA;NA;NA;NA;NA;NA;NA;"prec";"snow";NA;NA;NA;2
+"B2BOZI01";16.2881;48.8344;216;"Boûice";"Boûice";"MSS";NA;"SRA";"SCE";NA;NA;NA;NA;NA;NA;NA;NA;NA;"prec";"snow";NA;NA;NA;2
+"B2BRAS01";16.4353;48.9661;200;"Braniöovice";"Braniöovice";"MSS";NA;"SRA";"SCE";NA;NA;NA;NA;NA;NA;NA;NA;NA;"prec";"snow";NA;NA;NA;2
+"B2BRES01";16.5003;49.6597;387;"B¯ezov· nad Svitavou";"B¯ezov· nad Svitavou";"MSS";NA;"SRA";"SCE";NA;NA;NA;NA;NA;NA;NA;NA;NA;"prec";"snow";NA;NA;NA;2
+"B2BROD01";16.5358;48.8733;177;"Brod nad DyjÌ";"Brod nad DyjÌ";"AKS1";TRUE;"SRA";"SCE";NA;"SSV";NA;FALSE;NA;"tmean";"tmax";"tmin";"humid";"prec";"snow";"solr";"wind";NA;8
+"B2BRTN01";15.6753;49.3069;517;"Brtnice";"Brtnice";"ASS";NA;"SRA";"SCE";NA;NA;NA;NA;NA;NA;NA;NA;NA;"prec";"snow";NA;NA;NA;2
+"B2BTUR01";16.688889;49.153056;241;"Brno";"Brno, Tu¯any";"AMS";TRUE;"SRA";"SCE";NA;"SSV";"P";FALSE;"RGLB_D";"tmean";"tmax";"tmin";"humid";"prec";"snow";"solr";"wind";"pres";9
+"B2BUCO01";17.014033;49.129881;238;"BuËovice";"BuËovice, KlobouËky";"MSS";NA;"SRA";"SCE";NA;NA;NA;NA;NA;NA;NA;NA;NA;"prec";"snow";NA;NA;NA;2
+"B2BUDI01";16.0039;49.2717;485;"Budiöov";"Budiöov";"MSS";NA;"SRA";"SCE";NA;NA;NA;NA;NA;NA;NA;NA;NA;"prec";"snow";NA;NA;NA;2
+"B2BUKA01";16.798889;49.296944;511;"Bukovinka";"Bukovinka";"ASS";NA;"SRA";"SCE";NA;NA;NA;NA;NA;NA;NA;NA;NA;"prec";"snow";NA;NA;NA;2
+"B2BYSP01";16.25401;49.52416;553;"Byst¯ice nad Pernötejnem";"Byst¯ice nad Pernötejnem";"AKS1";TRUE;"SRA";"SCE";NA;"SSV";NA;FALSE;NA;"tmean";"tmax";"tmin";"humid";"prec";"snow";"solr";"wind";NA;8
+"B2BZAB01";16.5677;49.2165;236;"Brno";"Brno, éabov¯esky";"AKS1";TRUE;"SRA";"SCE";NA;"SSV";NA;FALSE;NA;"tmean";"tmax";"tmin";"humid";"prec";"snow";"solr";"wind";NA;8
+"B2BZID01";16.631111;49.1983;200;"Brno";"Brno, éidenice";"MSS";NA;"SRA";"SCE";NA;NA;NA;NA;NA;NA;NA;NA;NA;"prec";"snow";NA;NA;NA;2
+"B2CRUD01";15.322222;49.073333;520;"»esk˝ Rudolec";"»esk˝ Rudolec";"ASS";NA;"SRA";"SCE";NA;NA;NA;NA;NA;NA;NA;NA;NA;"prec";"snow";NA;NA;NA;2
+"B2DACI01";15.4344;49.0831;486;"DaËice";"DaËice";"MSS";NA;"SRA";"SCE";NA;NA;NA;NA;NA;NA;NA;NA;NA;"prec";"snow";NA;NA;NA;2
+"B2DRNH01";16.48;48.8589;210;"Drnholec";"Drnholec";"MSS";NA;"SRA";"SCE";NA;NA;NA;NA;NA;NA;NA;NA;NA;"prec";"snow";NA;NA;NA;2
+"B2DUBN01";17.1028;48.9208;200;"DubÚany";"DubÚany";"MSS";NA;"SRA";"SCE";NA;NA;NA;NA;NA;NA;NA;NA;NA;"prec";"snow";NA;NA;NA;2
+"B2DUKO01";16.134444;49.095556;400.15;"Dukovany";"Dukovany";"AMS1";TRUE;"SRA";"SCE";NA;"SSV";"P";FALSE;NA;"tmean";"tmax";"tmin";"humid";"prec";"snow";"solr";"wind";"pres";9
+"B2DVES01";16.6414;48.8872;172;"DolnÌ VÏstonice";"DolnÌ VÏstonice";"MSS";NA;"SRA";"SCE";NA;NA;NA;NA;NA;NA;NA;NA;NA;"prec";"snow";NA;NA;NA;2
+"B2DYJA01";16.2992;48.7733;201;"Dyj·kovice";"Dyj·kovice";"AKS1";TRUE;"SRA";"SCE";NA;"SSV";NA;FALSE;NA;"tmean";"tmax";"tmin";"humid";"prec";"snow";"solr";"wind";NA;8
+"B2DZBA01";16.2092;49.0028;337;"Dûb·nice";"Dûb·nice";"ASS";NA;"SRA";"SCE";NA;NA;NA;NA;NA;NA;NA;NA;NA;"prec";"snow";NA;NA;NA;2
+"B2HAJE01";16.4725;49.3731;409;"Tiönov";"Tiönov, H·jek";"AKS2";TRUE;"SRA";"SCE";NA;NA;NA;FALSE;NA;"tmean";"tmax";"tmin";"humid";"prec";"snow";NA;"wind";NA;7
+"B2HRAS01";16.4875;49.7311;446;"Hradec nad Svitavou";"Hradec nad Svitavou";"ASS";NA;"SRA";"SCE";NA;NA;NA;NA;NA;NA;NA;NA;NA;"prec";"snow";NA;NA;NA;2
+"B2HROT01";16.0588;49.1105;425;"Hrotovice";"Hrotovice";"MSS";NA;"SRA";"SCE";NA;NA;NA;NA;NA;NA;NA;NA;NA;"prec";"snow";NA;NA;NA;2
+"B2HRUS01";16.9739;48.7919;174;"Hruöky";"Hruöky";"MSS";NA;"SRA";"SCE";NA;NA;NA;NA;NA;NA;NA;NA;NA;"prec";"snow";NA;NA;NA;2
+"B2HUBE01";15.4669;49.3931;570;"Hubenov";"Hubenov";"AKS1";TRUE;"SRA";"SCE";NA;"SSV";NA;FALSE;NA;"tmean";"tmax";"tmin";"humid";"prec";"snow";"solr";"wind";NA;8
+"B2HUST01";16.7258;48.9456;201;"HustopeËe";"HustopeËe";"MSS";NA;"SRA";"SCE";NA;NA;NA;NA;NA;NA;NA;NA;NA;"prec";"snow";NA;NA;NA;2
+"B2HYSL01";17.18;49.021389;217;"H˝sly";"H˝sly";"MSS";NA;"SRA";"SCE";NA;NA;NA;NA;NA;NA;NA;NA;NA;"prec";"snow";NA;NA;NA;2
+"B2JARS01";16.2325;48.7553;190;"Jaroslavice";"Jaroslavice";"MSS";NA;"SRA";"SCE";NA;NA;NA;NA;NA;NA;NA;NA;NA;"prec";"snow";NA;NA;NA;2
+"B2JEMN01";15.59;49.025;502;"Jemnice";"Jemnice";"ASS";NA;"SRA";"SCE";NA;NA;NA;NA;NA;NA;NA;NA;NA;"prec";"snow";NA;NA;NA;2
+"B2JIHL01";15.6164;49.4064;468;"Jihlava";"Jihlava, HruökovÈ Dvory";"AKS3";TRUE;"SRA";"SCE";NA;NA;NA;NA;NA;"tmean";"tmax";"tmin";"humid";"prec";"snow";NA;"wind";NA;7
+"B2KADO01";16.0781;49.6358;672;"Kadov";"Kadov";"ASS";NA;"SRA";"SCE";NA;NA;NA;NA;NA;NA;NA;NA;NA;"prec";"snow";NA;NA;NA;2
+"B2KLOB01";16.8767;48.9961;205;"Klobouky u Brna";"Klobouky u Brna";"MSS";NA;"SRA";"SCE";NA;NA;NA;NA;NA;NA;NA;NA;NA;"prec";"snow";NA;NA;NA;2
+"B2KMYS01";15.439167;49.159167;569;"KostelnÌ Myslov·";"KostelnÌ Myslov·";"AMS1";TRUE;"SRA";"SCE";NA;"SSV";"P";FALSE;NA;"tmean";"tmax";"tmin";"humid";"prec";"snow";"solr";"wind";"pres";9
+"B2KNIN01";16.692288;49.537004;369;"KnÌnice u Boskovic";"KnÌnice u Boskovic";"MSS";NA;"SRA";"SCE";NA;NA;NA;NA;NA;NA;NA;NA;NA;"prec";"snow";NA;NA;NA;2
+"B2KOBY01";16.8814;48.9394;175;"KobylÌ";"KobylÌ";"AKS1";TRUE;"SRA";"SCE";NA;"SSV";NA;FALSE;NA;"tmean";"tmax";"tmin";"humid";"prec";"snow";"solr";"wind";NA;8
+"B2KORC01";17.17;49.1028;305;"KoryËany";"KoryËany";"MSS";NA;"SRA";"SCE";NA;NA;NA;NA;NA;NA;NA;NA;NA;"prec";"snow";NA;NA;NA;2
+"B2KRIZ01";16.0667;49.6833;615;"K¯iû·nky";"K¯iû·nky, MoravskÈ K¯iû·nky";"MSS";NA;"SRA";"SCE";NA;NA;NA;NA;NA;NA;NA;NA;NA;"prec";"snow";NA;NA;NA;2
+"B2KUCH01";16.085278;48.881111;334;"Kucha¯ovice";"Kucha¯ovice";"AMS1";TRUE;"SRA";"SCE";NA;"SSV";"P";FALSE;"RGLB_D";"tmean";"tmax";"tmin";"humid";"prec";"snow";"solr";"wind";"pres";9
+"B2KURI01";16.5322;49.3006;291;"Ku¯im";"Ku¯im";"MSS";NA;"SRA";"SCE";NA;NA;NA;NA;NA;NA;NA;NA;NA;"prec";"snow";NA;NA;NA;2
+"B2LANZ01";16.9575;48.724722;158;"Lanûhot";"Lanûhot";"MSS";NA;"SRA";"SCE";NA;NA;NA;NA;NA;NA;NA;NA;NA;"prec";"snow";NA;NA;NA;2
+"B2LAZT01";15.786675;49.013078;432;"L·z";"L·z";"MSS";NA;"SRA";"SCE";NA;NA;NA;NA;NA;NA;NA;NA;NA;"prec";"snow";NA;NA;NA;2
+"B2LEDN01";16.798895;48.792616;177;"Lednice";"Lednice";"AKS2";TRUE;"SRA";"SCE";NA;"SSV";NA;FALSE;NA;"tmean";"tmax";"tmin";"humid";"prec";"snow";"solr";"wind";NA;8
+"B2LETO01";16.5767;49.5544;334;"Letovice";"Letovice";"MSS";NA;"SRA";"SCE";NA;NA;NA;NA;NA;NA;NA;NA;NA;"prec";"snow";NA;NA;NA;2
+"B2LISE01";16.183611;49.583611;688;"LÌsek";"LÌsek";"MSS";NA;"SRA";"SCE";NA;NA;NA;NA;NA;NA;NA;NA;NA;"prec";"snow";NA;NA;NA;2
+"B2LUKO01";15.9077;48.8566;403;"Lukov";"Lukov";"MSS";NA;"SRA";"SCE";NA;NA;NA;NA;NA;NA;NA;NA;NA;"prec";"snow";NA;NA;NA;2
+"B2MBRA01";16.4494;49.0825;210;"MoravskÈ Br·nice";"MoravskÈ Br·nice";"MSS";NA;"SRA";"SCE";NA;NA;NA;NA;NA;NA;NA;NA;NA;"prec";"snow";NA;NA;NA;2
+"B2MBUD01";15.8067;49.0611;460;"MoravskÈ BudÏjovice";"MoravskÈ BudÏjovice";"AKS2";TRUE;"SRA";"SCE";NA;NA;NA;FALSE;NA;"tmean";"tmax";"tmin";"humid";"prec";"snow";"solr";"wind";NA;8
+"B2MIKU01";16.6401;48.801911;224;"Mikulov";"Mikulov";"MSS";NA;"SRA";"SCE";NA;NA;NA;NA;NA;"tmean";"tmax";"tmin";"humid";"prec";"snow";NA;"wind";NA;7
+"B2MILE01";16.853889;49.083889;242;"Mileöovice";"Mileöovice";"MSS";NA;"SRA";"SCE";NA;NA;NA;NA;NA;NA;NA;NA;NA;"prec";"snow";NA;NA;NA;2
+"B2MIRO01";16.3197;48.9442;238;"Miroslav";"Miroslav";"MSS";NA;"SRA";"SCE";NA;NA;NA;NA;NA;NA;NA;NA;NA;"prec";"snow";NA;NA;NA;2
+"B2MKRU01";16.306463;49.039908;255;"Moravsk˝ Krumlov";"Moravsk˝ Krumlov";"MSS";NA;"SRA";"SCE";NA;NA;NA;NA;NA;NA;NA;NA;NA;"prec";"snow";NA;NA;NA;2
+"B2NAMO01";16.15;49.2167;390;"N·mÏöù nad Oslavou";"N·mÏöù nad Oslavou";"ASS";NA;"SRA";"SCE";NA;NA;NA;NA;NA;"tmean";"tmax";"tmin";"humid";"prec";"snow";"solr";"wind";NA;8
+"B2NEDV01";16.3097;49.6344;722;"NedvÏzÌ";"NedvÏzÌ";"AKS1";TRUE;"SRA";"SCE";NA;"SSV";NA;FALSE;NA;"tmean";"tmax";"tmin";"humid";"prec";"snow";"solr";"wind";"pres";9
+"B2NEMO01";17.1361;49.1808;283;"Nemochovice";"Nemochovice";"AKS2";TRUE;"SRA";"SCE";NA;NA;NA;FALSE;NA;"tmean";"tmax";"tmin";"humid";"prec";"snow";NA;"wind";NA;7
+"B2NMES01";16.0689;49.5581;601;"NovÈ MÏsto na MoravÏ";"NovÈ MÏsto na MoravÏ";"ASS";NA;"SRA";"SCE";NA;NA;NA;NA;NA;NA;NA;NA;NA;"prec";"snow";NA;NA;NA;2
+"B2NOVE01";15.7869;49.2547;422;"Nov· Ves";"Nov· Ves";"ASS";NA;"SRA";"SCE";NA;NA;NA;NA;NA;NA;NA;NA;NA;"prec";"snow";NA;NA;NA;2
+"B2OBOR01";16.603611;49.451667;425;"Obora";"Obora";"ASS";NA;"SRA";"SCE";NA;NA;NA;NA;NA;NA;NA;NA;NA;"prec";"snow";NA;NA;NA;2
+"B2OLES01";16.4231;49.555;535;"Oleönice";"Oleönice";"ASS";NA;"SRA";"SCE";NA;NA;NA;NA;NA;"tmean";"tmax";"tmin";NA;"prec";"snow";NA;"wind";NA;6
+"B2PAVL01";15.8772;49.3508;559;"PavlÌnov";"PavlÌnov";"MSS";NA;"SRA";"SCE";NA;NA;NA;NA;NA;NA;NA;NA;NA;"prec";"snow";NA;NA;NA;2
+"B2POHO01";16.5283;48.9844;180;"Poho¯elice";"Poho¯elice";"AKS1";TRUE;"SRA";"SCE";NA;"SSV";NA;FALSE;NA;"tmean";"tmax";"tmin";"humid";"prec";"snow";"solr";"wind";NA;8
+"B2POLI01";16.269167;49.716111;552;"PoliËka";"PoliËka";"ASS";NA;"SRA";"SCE";NA;NA;NA;NA;NA;NA;NA;NA;NA;"prec";"snow";NA;NA;NA;2
+"B2RADO01";15.9675;49.460278;512;"RadostÌn";"RadostÌn";"ASS";NA;"SRA";"SCE";NA;NA;NA;NA;NA;NA;NA;NA;NA;"prec";"snow";NA;NA;NA;2
+"B2ROZS01";16.835258;49.398026;571;"Rozst·nÌ";"Rozst·nÌ";"MSS";NA;"SRA";"SCE";NA;NA;NA;NA;NA;NA;NA;NA;NA;"prec";"snow";NA;NA;NA;2
+"B2SATO01";16.020556;48.789167;238;"äatov";"äatov";"ASS";NA;"SRA";"SCE";NA;NA;NA;NA;NA;NA;NA;NA;NA;"prec";"snow";NA;NA;NA;2
+"B2SEDC01";16.120556;49.170833;474;"Sedlec";"Sedlec";"AMS";TRUE;"SRA";"SCE";NA;"SSV";"P";FALSE;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;0
+"B2SEJR01";16.3103;49.4367;519;"Sej¯ek";"Sej¯ek";"MSS";NA;"SRA";"SCE";NA;NA;NA;NA;NA;NA;NA;NA;NA;"prec";"snow";NA;NA;NA;2
+"B2SLAB01";16.879167;49.1575;211;"Slavkov u Brna";"Slavkov u Brna";"MSS";NA;"SRA";"SCE";NA;NA;NA;NA;NA;NA;NA;NA;NA;"prec";"snow";NA;NA;NA;2
+"B2SOSU01";16.746944;49.414444;533;"äoö˘vka";"äoö˘vka";"MSS";NA;"SRA";"SCE";NA;NA;NA;NA;NA;NA;NA;NA;NA;"prec";"snow";NA;NA;NA;2
+"B2STAL01";15.2843;49.0292;639;"Slavonice";"Slavonice, St·lkov";"MSS";NA;"SRA";"SCE";NA;NA;NA;NA;NA;NA;NA;NA;NA;"prec";"snow";NA;NA;NA;2
+"B2STEM01";15.7133;49.1936;617;"ätÏmÏchy";"ätÏmÏchy";"MSS";NA;"SRA";"SCE";NA;NA;NA;NA;NA;NA;NA;NA;NA;"prec";"snow";NA;NA;NA;2
+"B2STEP01";16.3333;49.5;365;"ätÏp·nov nad Svratkou";"ätÏp·nov nad Svratkou";"MSS";NA;"SRA";"SCE";NA;NA;NA;NA;NA;NA;NA;NA;NA;"prec";"snow";NA;NA;NA;2
+"B2STHU01";17.2883;49.1372;427;"StarÈ HutÏ";"StarÈ HutÏ";"ASS";NA;"SRA";"SCE";NA;NA;NA;NA;NA;NA;NA;NA;NA;"prec";"snow";NA;NA;NA;2
+"B2STRA01";16.198;49.4411;445;"Str·ûek";"Str·ûek";"MSS";NA;"SRA";"SCE";NA;NA;NA;NA;NA;NA;NA;NA;NA;"prec";"snow";NA;NA;NA;2
+"B2STRE01";15.9828;48.9934;325;"St¯elice";"St¯elice";"ASS";NA;"SRA";NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;"prec";"snow";NA;NA;NA;2
+"B2SVLK01";16.550556;49.589167;395;"Stvolov·";"Stvolov·, Sk¯ib";"MSS";NA;"SRA";"SCE";NA;NA;NA;NA;NA;NA;NA;NA;NA;"prec";"snow";NA;NA;NA;2
+"B2TESA01";16.7658;49.0419;209;"TÏöany";"TÏöany";"MSS";NA;"SRA";"SCE";NA;NA;NA;NA;NA;NA;NA;NA;NA;"prec";"snow";NA;NA;NA;2
+"B2TREB01";15.87;49.2236;463;"T¯ebÌË";"T¯ebÌË, Podkl·öte¯Ì";"MSS";NA;"SRA";"SCE";NA;NA;NA;NA;NA;NA;NA;NA;NA;"prec";"snow";NA;NA;NA;2
+"B2TRES01";15.476111;49.293889;574;"T¯eöù";"T¯eöù";"ASS";NA;"SRA";"SCE";NA;NA;NA;NA;NA;NA;NA;NA;NA;"prec";"snow";NA;NA;NA;2
+"B2TROU01";16.5074;49.1745;278;"Troubsko";"Troubsko";"AKS2";TRUE;"SRA";"SCE";NA;NA;NA;FALSE;NA;"tmean";"tmax";"tmin";"humid";"prec";"snow";"solr";"wind";NA;8
+"B2VALT01";16.759167;48.745833;195;"Valtice";"Valtice";"MSS";NA;"SRA";"SCE";NA;NA;NA;NA;NA;NA;NA;NA;NA;"prec";"snow";NA;NA;NA;2
+"B2VATI01";15.96806;49.52306;558;"VatÌn";"VatÌn";"AKS1";TRUE;"SRA";"SCE";NA;"SSV";NA;FALSE;NA;"tmean";"tmax";"tmin";"humid";"prec";"snow";"solr";"wind";NA;8
+"B2VBIT01";16.221;49.2918;485;"Velk· BÌteö";"Velk· BÌteö";"ASS";NA;"SRA";"SCE";NA;NA;NA;NA;NA;NA;NA;NA;NA;"prec";"snow";NA;NA;NA;2
+"B2VEBI01";16.4317;49.2767;246;"Veversk· BÌt˝öka";"Veversk· BÌt˝öka";"MSS";NA;"SRA";"SCE";NA;NA;NA;NA;NA;NA;NA;NA;NA;"prec";"snow";NA;NA;NA;2
+"B2VECO01";16.2019;49.6153;550;"VÏcov";"VÏcov, JimramovskÈ Pavlovice";"MSS";NA;"SRA";"SCE";NA;NA;NA;NA;NA;NA;NA;NA;NA;"prec";"snow";NA;NA;NA;2
+"B2VIRP01";16.3139;49.5642;473;"VÌr";"VÌr";"MSS";NA;"SRA";"SCE";NA;NA;NA;NA;NA;NA;NA;NA;NA;"prec";"snow";NA;NA;NA;2
+"B2VMEZ01";16.0086;49.3528;452;"VelkÈ Mezi¯ÌËÌ";"VelkÈ Mezi¯ÌËÌ";"AKS1";TRUE;"SRA";"SCE";NA;"SSV";NA;FALSE;NA;"tmean";"tmax";"tmin";"humid";"prec";"snow";"solr";"wind";NA;8
+"B2VRAN01";15.8186;48.9056;354;"Vranov nad DyjÌ";"Vranov nad DyjÌ";"MSS";NA;"SRA";"SCE";NA;NA;NA;NA;NA;NA;NA;NA;NA;"prec";"snow";NA;NA;NA;2
+"B2VSTU01";15.7303;49.3931;568;"VysokÈ Studnice";"VysokÈ Studnice";"ASS";NA;"SRA";"SCE";NA;NA;NA;NA;NA;NA;NA;NA;NA;"prec";"snow";NA;NA;NA;2
+"B2ZAST01";16.36313;49.19298;375;"Zast·vka";"Zast·vka";"MSS";NA;"SRA";"SCE";NA;NA;NA;NA;NA;NA;NA;NA;NA;"prec";"snow";NA;NA;NA;2
+"B2ZDAN01";17.025556;49.071944;238;"éd·nice";"éd·nice";"AKS3";TRUE;"SRA";"SCE";NA;NA;NA;NA;NA;"tmean";"tmax";"tmin";"humid";"prec";"snow";NA;NA;NA;6
+"B2ZIDL01";16.6152;49.0319;183;"éidlochovice";"éidlochovice";"MSS";NA;"SRA";"SCE";NA;NA;NA;NA;NA;NA;NA;NA;NA;"prec";"snow";NA;NA;NA;2
+"B4HERA01";15.960258;49.694406;685;"Her·lec";"Her·lec";"ASNS";TRUE;NA;NA;"SCEa";NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;0
+"B4NEMO00";17.1333;49.1833;280;"Nemochovice";"Nemochovice";"ASS";NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;0
+"B4SUMR01";15.330078;49.175992;650;"Studen·";"Studen·, Sumrakov";"ASNS";TRUE;NA;NA;"SCEa";NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;0
+"B4ZITK01";17.867778;48.9925;705;"éÌtkov·";"éÌtkov·";"ASNS";TRUE;NA;NA;"SCEa";NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;0
+"C1BAVO01";14.089722;49.123889;416;"Bavorov";"Bavorov";"MSS";NA;"SRA";"SCE";NA;NA;NA;NA;NA;NA;NA;NA;NA;"prec";"snow";NA;NA;NA;2
+"C1BERN01";14.389167;49.366111;485;"Bernartice";"Bernartice";"ASS";NA;"SRA";"SCE";NA;NA;NA;NA;NA;NA;NA;NA;NA;"prec";"snow";NA;NA;NA;2
+"C1BLAD01";13.661958;48.99055;898;"Borov· Lada";"Borov· Lada";"AKS3";TRUE;"SRA";"SCE";NA;NA;NA;NA;NA;"tmean";"tmax";"tmin";NA;"prec";"snow";NA;NA;NA;5
+"C1BLAT01";13.8731;49.4333;452;"Blatn·";"Blatn·";"MSS";NA;"SRA";"SCE";NA;NA;NA;NA;NA;"tmean";"tmax";"tmin";"humid";"prec";"snow";NA;"wind";NA;7
+"C1BREZ01";13.9461;49.5542;493;"B¯eznice";"B¯eznice";"ASS";NA;"SRA";"SCE";NA;NA;NA;NA;NA;NA;NA;NA;NA;"prec";"snow";NA;NA;NA;2
+"C1BRZKTT";13.4892;48.9547;1154;"B¯eznÌk";"B¯eznÌk, HraniËnÌ slaù";"TOTAL";NA;NA;"SCE";NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;"snow";NA;NA;NA;1
+"C1CDVU01";14.2378;48.8514;588;"»erven˝ Dv˘r";"»erven˝ Dv˘r, Chvalöiny";"MSS";NA;"SRA";"SCE";NA;NA;NA;NA;NA;NA;NA;NA;NA;"prec";"snow";NA;NA;NA;2
+"C1CERP01";14.1072;48.7356;740;"»ern· v PoöumavÌ";"»ern· v PoöumavÌ";"AKS1";TRUE;"SRA";"SCE";NA;"SSV";NA;FALSE;NA;"tmean";"tmax";"tmin";"humid";"prec";"snow";"solr";"wind";NA;8
+"C1FILH01";13.52;49.03;1110;"Filipova Huù";"Filipova Huù";"ASS";NA;"SRA";"SCE";NA;NA;NA;NA;NA;NA;NA;NA;NA;"prec";"snow";NA;NA;NA;2
+"C1FILHTT";13.5192;49.0294;1112;"Filipova Huù";"Filipova Huù";"TOTAL";NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;0
+"C1FRAN01";14.100278;48.9825;726;"Frantoly";"Frantoly";"MSS";NA;"SRA";"SCE";NA;NA;NA;NA;NA;NA;NA;NA;NA;"prec";"snow";NA;NA;NA;2
+"C1HKVI01";13.56502;49.053673;1052;"Horsk· Kvilda";"Horsk· Kvilda";"AKS3";TRUE;"SRA";"SCE";NA;NA;NA;NA;NA;"tmean";"tmax";"tmin";"humid";"prec";"snow";NA;"wind";NA;7
+"C1HLHO01";13.6897;49.3486;445;"HoraûÔovick· Lhota";"HoraûÔovick· Lhota";"MSS";NA;"SRA";"SCE";NA;NA;NA;NA;NA;NA;NA;NA;NA;"prec";"snow";NA;NA;NA;2
+"C1HLUB01";14.4356;49.0542;410;"Hlubok· nad Vltavou";"Hlubok· nad Vltavou";"ASS";NA;"SRA";"SCE";NA;NA;NA;NA;NA;NA;NA;NA;NA;"prec";"snow";NA;NA;NA;2
+"C1HUSI01";13.9883;49.0522;483;"Husinec";"Husinec";"AKS1";TRUE;"SRA";"SCE";NA;"SSV";NA;FALSE;NA;"tmean";"tmax";"tmin";"humid";"prec";"snow";"solr";"wind";NA;8
+"C1CHAN01";13.7194;49.4019;533;"Chanovice";"Chanovice";"ASS";NA;"SRA";"SCE";NA;NA;NA;NA;NA;NA;NA;NA;NA;"prec";"snow";NA;NA;NA;2
+"C1CHEL01";14.169367;49.119265;451;"ChelËice";"ChelËice";"ASS";NA;"SRA";NA;NA;NA;NA;NA;NA;"tmean";"tmax";"tmin";"humid";"prec";"snow";NA;"wind";NA;7
+"C1CHUR01";13.615278;49.068333;1117.8;"Chur·Úov";"Chur·Úov";"AMS1";TRUE;"SRA";"SCE";NA;"SSV";"P";FALSE;"RGLB_D";"tmean";"tmax";"tmin";"humid";"prec";"snow";"solr";"wind";"pres";9
+"C1JELE01";13.8897;48.8031;810;"JelenÌ";"JelenÌ, Nov· Pec";"ASS";NA;"SRA";NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;"prec";"snow";NA;NA;NA;2
+"C1KATO01";13.831944;49.270833;412;"Katovice";"Katovice";"MSS";NA;"SRA";"SCE";NA;NA;NA;NA;NA;NA;NA;NA;NA;"prec";"snow";NA;NA;NA;2
+"C1KEST01";14.0736;49.2681;381;"Kest¯any";"Kest¯any";"ASS";NA;"SRA";"SCE";NA;NA;NA;NA;NA;"tmean";"tmax";"tmin";"humid";"prec";"snow";NA;"wind";NA;7
+"C1KHOR01";13.55;49.145556;728;"KaöperskÈ Hory";"KaöperskÈ Hory";"AKS";TRUE;"SRA";"SCE";NA;NA;NA;FALSE;NA;"tmean";"tmax";"tmin";"humid";"prec";"snow";"solr";"wind";NA;8
+"C1KHUT01";13.7722;48.9839;1010;"Kubova Huù";"Kubova Huù";"MSS";NA;"SRA";"SCE";NA;NA;NA;NA;NA;NA;NA;NA;NA;"prec";"snow";NA;NA;NA;2
+"C1KNSTTT";14.0119;48.8472;1126;"KnÌûecÌ Stolec";"KnÌûecÌ Stolec";"TOTAL";NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;0
+"C1KOCE01";13.838611;49.467222;519;"Kocelovice";"Kocelovice";"AMS1";TRUE;"SRA";"SCE";NA;"SSV";"P";FALSE;"RGLB_D";"tmean";"tmax";"tmin";"humid";"prec";"snow";"solr";"wind";"pres";9
+"C1KPLATT";13.625;48.9572;1018;"KnÌûecÌ Pl·nÏ";"KnÌûecÌ Pl·nÏ, Borov· Lada";"TOTAL";NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;0
+"C1KRSI01";14.0725;49.484444;430;"Krsice";"Krsice";"ASS";NA;"SRA";"SCE";NA;NA;NA;NA;NA;NA;NA;NA;NA;"prec";"snow";NA;NA;NA;2
+"C1KTIS01";14.1058;48.9033;758;"Ktiö";"Ktiö, Tisovka";"AKS2";TRUE;"SRA";"SCE";NA;NA;NA;FALSE;NA;"tmean";"tmax";"tmin";"humid";"prec";"snow";NA;"wind";NA;7
+"C1KVIL01";13.5792;49.0192;1059;"Kvilda";"Kvilda";"AKS3";TRUE;"SRA";"SCE";NA;NA;NA;NA;NA;"tmean";"tmax";"tmin";NA;"prec";"snow";NA;NA;NA;5
+"C1NALH01";13.5486;49.3347;495;"NalûovskÈ Hory";"NalûovskÈ Hory";"ASS";NA;"SRA";"SCE";NA;NA;NA;NA;NA;NA;NA;NA;NA;"prec";"snow";NA;NA;NA;2
+"C1NEMC01";14.2714;49.0308;436;"NÏmËice";"NÏmËice";"MSS";NA;"SRA";"SCE";NA;NA;NA;NA;NA;NA;NA;NA;NA;"prec";"snow";NA;NA;NA;2
+"C1ORLV01";14.1683;49.5036;431;"OrlÌk nad Vltavou";"OrlÌk nad Vltavou";"ASS";NA;"SRA";"SCE";NA;NA;NA;NA;NA;NA;NA;NA;NA;"prec";"snow";NA;NA;NA;2
+"C1PASE01";14.2678;49.2497;482;"Paseky";"Paseky";"ASS";NA;"SRA";"SCE";NA;NA;NA;NA;NA;NA;NA;NA;NA;"prec";"snow";NA;NA;NA;2
+"C1PLCHTT";13.851601;48.771198;1344;"Plech˝";"Plech˝, TrojmezÌ";"TOTAL";NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;0
+"C1POLETT";13.3958;49.0642;1312;"PolednÌk";"PolednÌk";"TOTAL";NA;NA;"SCE";NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;"snow";NA;NA;NA;1
+"C1PRAS01";13.3786;49.1069;883;"Pr·öily";"Pr·öily";"ASS";NA;"SRA";"SCE";NA;NA;NA;NA;NA;NA;NA;NA;NA;"prec";"snow";NA;NA;NA;2
+"C1PRCH01";13.9944;49.0078;607;"Prachatice";"Prachatice";"MSS";NA;"SRA";"SCE";NA;NA;NA;NA;NA;NA;NA;NA;NA;"prec";"snow";NA;NA;NA;2
+"C1RADO01";13.7272;49.5322;570;"Radoöice";"Radoöice";"ASS";NA;"SRA";"SCE";NA;NA;NA;NA;NA;NA;NA;NA;NA;"prec";"snow";NA;NA;NA;2
+"C1ROSLTT";13.4167;49.0156;1096;"Rokytsk· slaù";"Rokytsk· slaù";"TOTAL";NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;0
+"C1ROZM01";13.8664;49.605;538;"Roûmit·l pod T¯emöÌnem";"Roûmit·l pod T¯emöÌnem";"AKS1";TRUE;"SRA";"SCE";NA;"SSV";"P";FALSE;NA;"tmean";"tmax";"tmin";"humid";"prec";"snow";"solr";"wind";"pres";9
+"C1SEDL01";13.9419;49.3756;511;"Sedlice";"Sedlice";"AKS3";TRUE;"SRA";"SCE";NA;NA;NA;NA;NA;"tmean";"tmax";"tmin";NA;"prec";"snow";NA;NA;NA;5
+"C1SRNI01";13.4789;49.0869;857;"SrnÌ";"SrnÌ";"MSS";NA;"SRA";"SCE";NA;NA;NA;NA;NA;NA;NA;NA;NA;"prec";"snow";NA;NA;NA;2
+"C1STOZ01";13.821667;48.8569;797;"Stoûec";"Stoûec";"MSS";NA;"SRA";"SCE";NA;NA;NA;NA;NA;NA;NA;NA;NA;"prec";"snow";NA;NA;NA;2
+"C1STRA01";13.9242;49.2514;427;"Strakonice";"Strakonice";"AKS1";TRUE;"SRA";"SCE";NA;"SSV";NA;FALSE;NA;"tmean";"tmax";"tmin";"humid";"prec";"snow";"solr";"wind";NA;8
+"C1STRS01";13.6425;49.1797;637;"StraöÌn";"StraöÌn";"ASS";NA;"SRA";NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;"prec";"snow";NA;NA;NA;2
+"C1STRZ01";13.72028;48.908822;811;"Str·ûn˝";"Str·ûn˝";"ASS";NA;"SRA";NA;"SCEa";NA;NA;NA;NA;NA;NA;NA;NA;"prec";"snow";NA;NA;NA;2
+"C1SUSI01";13.5283;49.2381;484;"Suöice";"Suöice";"MSS";NA;"SRA";"SCE";NA;NA;NA;NA;NA;"tmean";"tmax";"tmin";"humid";"prec";"snow";NA;"wind";NA;7
+"C1TEME01";14.342222;49.197778;500;"TemelÌn";"TemelÌn";"AMS1";TRUE;"SRA";"SCE";NA;"SSV";"P";FALSE;NA;"tmean";"tmax";"tmin";"humid";"prec";"snow";"solr";"wind";"pres";9
+"C1TOCH01";13.9897;49.6003;494;"Tochovice";"Tochovice";"MSS";NA;"SRA";"SCE";NA;NA;NA;NA;NA;NA;NA;NA;NA;"prec";"snow";NA;NA;NA;2
+"C1VACP01";13.72;49.1336;738;"Vacov";"Vacov, Peckov";"ASS";TRUE;"SRA";"SCE";NA;NA;NA;FALSE;NA;NA;NA;NA;NA;"prec";"snow";NA;NA;NA;2
+"C1VIMP01";13.7825;49.065833;628;"Vimperk";"Vimperk";"AKS3";TRUE;"SRA";"SCE";"SCEa";NA;NA;NA;NA;"tmean";"tmax";"tmin";"humid";"prec";"snow";NA;NA;NA;6
+"C1VLKO01";13.5897;49.3022;493;"Vlkonice";"Vlkonice";"AKS1";TRUE;"SRA";"SCE";"SCEa";"SSV";NA;FALSE;NA;"tmean";"tmax";"tmin";"humid";"prec";"snow";"solr";"wind";NA;8
+"C1VOLR01";13.88657;48.90881;749;"Volary";"Volary";"AKS2";TRUE;"SRA";"SCE";NA;NA;NA;FALSE;NA;"tmean";"tmax";"tmin";"humid";"prec";"snow";NA;"wind";NA;7
+"C1VOLY01";13.8639;49.1875;448;"VolynÏ";"VolynÏ, Nihoöovice";"ASS";NA;"SRA";"SCE";NA;NA;NA;NA;NA;NA;NA;NA;NA;"prec";"snow";NA;NA;NA;2
+"C1VRAZ01";14.1289;49.3844;433;"Vr·û";"Vr·û";"AKS1";TRUE;"SRA";"SCE";NA;"SSV";NA;FALSE;NA;"tmean";"tmax";"tmin";"humid";"prec";"snow";"solr";"wind";NA;8
+"C1ZALE01";13.8892;49.1078;569;"Z·lezly";"Z·lezly";"MSS";NA;"SRA";"SCE";NA;NA;NA;NA;NA;NA;NA;NA;NA;"prec";"snow";NA;NA;NA;2
+"C1ZAMY01";13.374402;49.22629;800;"Z·myöl";"Z·myöl";"ASS";NA;"SRA";"SCE";NA;NA;NA;NA;NA;NA;NA;NA;NA;"prec";"snow";NA;NA;NA;2
+"C1ZAVI01";13.923056;49.487222;501;"Z·viöÌn";"Z·viöÌn";"MSS";NA;"SRA";"SCE";NA;NA;NA;NA;NA;NA;NA;NA;NA;"prec";"snow";NA;NA;NA;2
+"C1ZBYT01";13.9889;48.9417;792;"Zbytiny";"Zbytiny";"ASS";NA;"SRA";"SCE";NA;NA;NA;NA;NA;NA;NA;NA;NA;"prec";"snow";NA;NA;NA;2
+"C2BECH01";14.4708;49.3;409;"BechynÏ";"BechynÏ";"ASS";NA;"SRA";"SCE";NA;NA;NA;NA;NA;"tmean";"tmax";"tmin";"humid";"prec";"snow";"solr";"wind";"pres";9
+"C2BENC01";14.6283;48.7311;665;"Beneöov nad »ernou";"Beneöov nad »ernou";"MSS";NA;"SRA";"SCE";NA;NA;NA;NA;NA;NA;NA;NA;NA;"prec";"snow";NA;NA;NA;2
+"C2BESE01";14.5689;48.7958;593;"Besednice";"Besednice";"MSS";NA;"SRA";"SCE";NA;NA;NA;NA;NA;NA;NA;NA;NA;"prec";"snow";NA;NA;NA;2
+"C2BORK01";14.636825;49.207925;419;"Borkovice";"Borkovice";"AKS2";TRUE;"SRA";"SCE";NA;NA;NA;FALSE;NA;"tmean";"tmax";"tmin";"humid";"prec";"snow";"solr";"wind";NA;8
+"C2BORS01";14.439722;48.926667;404;"Boröov nad Vltavou";"Boröov nad Vltavou";"MSS";NA;"SRA";"SCE";NA;NA;NA;NA;NA;NA;NA;NA;NA;"prec";"snow";NA;NA;NA;2
+"C2BRLO01";14.2189;48.9269;559;"Brloh";"Brloh";"MSS";NA;"SRA";"SCE";NA;NA;NA;NA;NA;NA;NA;NA;NA;"prec";"snow";NA;NA;NA;2
+"C2BYNO01";14.799947;48.816603;475;"ByÚov";"ByÚov";"AKS1";TRUE;"SRA";"SCE";NA;"SSV";NA;FALSE;NA;"tmean";"tmax";"tmin";"humid";"prec";"snow";"solr";"wind";NA;8
+"C2CBUD01";14.469722;48.951944;394.6;"»eskÈ BudÏjovice";"»eskÈ BudÏjovice,Roûnov";"AMS2";TRUE;"SRA";"SCE";NA;"SSV";"P";FALSE;"RGLB_D";"tmean";"tmax";"tmin";"humid";"prec";"snow";"solr";"wind";"pres";9
+"C2CERN01";14.9625;49.3575;580;"»ernovice";"»ernovice, Dobeöov";"AKS2";TRUE;"SRA";"SCE";NA;NA;NA;FALSE;NA;"tmean";"tmax";"tmin";"humid";"prec";"snow";NA;"wind";NA;7
+"C2CKRU01";14.33935;48.832242;554;"»esk˝ Krumlov";"»esk˝ Krumlov, P¯ÌseËn·";"AKS2";TRUE;"SRA";"SCE";NA;NA;NA;FALSE;NA;"tmean";"tmax";"tmin";"humid";"prec";"snow";"solr";"wind";NA;8
+"C2DDVO01";14.453611;48.657222;613;"DolnÌ Dvo¯iötÏ";"DolnÌ Dvo¯iötÏ";"MSS";NA;"SRA";"SCE";NA;NA;NA;NA;NA;NA;NA;NA;NA;"prec";"snow";NA;NA;NA;2
+"C2HLAS01";14.7561;49.4981;547;"Hlasivo";"Hlasivo";"AKS2";TRUE;"SRA";"SCE";NA;"SSV";NA;FALSE;NA;"tmean";"tmax";"tmin";"humid";"prec";"snow";"solr";"wind";NA;8
+"C2HRNH01";14.8494;48.8181;479;"Hranice";"Hranice";"MSS";NA;"SRA";"SCE";NA;NA;NA;NA;NA;NA;NA;NA;NA;"prec";"snow";NA;NA;NA;2
+"C2CHLT01";14.9358;48.9578;462;"Chlum u T¯ebonÏ";"Chlum u T¯ebonÏ";"ASS";NA;"SRA";"SCE";NA;NA;NA;NA;NA;"tmean";"tmax";"tmin";"humid";"prec";"snow";NA;"wind";NA;7
+"C2CHYN01";14.810556;49.414167;492;"Ch˝nov";"Ch˝nov";"MSS";NA;"SRA";"SCE";NA;NA;NA;NA;NA;NA;NA;NA;NA;"prec";"snow";NA;NA;NA;2
+"C2JHRA01";14.9575;49.1556;524;"Jind¯ich˘v Hradec";"Jind¯ich˘v Hradec, DÏbolÌn";"AKS1";TRUE;"SRA";"SCE";NA;"SSV";NA;FALSE;NA;"tmean";"tmax";"tmin";"humid";"prec";"snow";"solr";"wind";NA;8
+"C2JIST01";14.529167;49.484444;580;"Jistebnice";"Jistebnice";"MSS";NA;"SRA";"SCE";NA;NA;NA;NA;NA;NA;NA;NA;NA;"prec";"snow";NA;NA;NA;2
+"C2KAML01";15.0633;49.2831;557;"Kamenice nad Lipou";"Kamenice nad Lipou, Vodn·";"ASS";NA;"SRA";"SCE";NA;NA;NA;NA;NA;NA;NA;NA;NA;"prec";"snow";NA;NA;NA;2
+"C2KARD01";14.8558;49.1864;450;"Kardaöova ÿeËice";"Kardaöova ÿeËice";"MSS";NA;"SRA";"SCE";NA;NA;NA;NA;NA;NA;NA;NA;NA;"prec";"snow";NA;NA;NA;2
+"C2KOVA01";14.2783;49.5172;529;"Kov·¯ov";"Kov·¯ov";"MSS";NA;"SRA";"SCE";NA;NA;NA;NA;NA;NA;NA;NA;NA;"prec";"snow";NA;NA;NA;2
+"C2KREM01";14.3028;48.9064;524;"K¯emûe";"K¯emûe, M¯ÌË";"AKS3";TRUE;"SRA";"SCE";NA;NA;NA;NA;NA;"tmean";"tmax";"tmin";"humid";"prec";"snow";NA;NA;NA;6
+"C2LEDE01";14.618333;48.933333;496;"Ledenice";"Ledenice";"MSS";NA;"SRA";"SCE";NA;NA;NA;NA;NA;NA;NA;NA;NA;"prec";"snow";NA;NA;NA;2
+"C2LIPC01";14.764722;48.910556;469;"Lipnice";"Lipnice";"MSS";NA;"SRA";"SCE";NA;NA;NA;NA;NA;NA;NA;NA;NA;"prec";"snow";NA;NA;NA;2
+"C2LIPN01";14.2383;48.6336;730;"Lipno";"Lipno";"MSS";NA;"SRA";"SCE";NA;NA;NA;NA;NA;NA;NA;NA;NA;"prec";"snow";NA;NA;NA;2
+"C2LODH01";14.9625;49.2133;526;"LodhÈ¯ov";"LodhÈ¯ov";"MSS";NA;"SRA";"SCE";NA;NA;NA;NA;NA;NA;NA;NA;NA;"prec";"snow";NA;NA;NA;2
+"C2MALO01";14.5803;48.6856;694;"Malonty";"Malonty";"MSS";NA;"SRA";"SCE";NA;NA;NA;NA;NA;NA;NA;NA;NA;"prec";"snow";NA;NA;NA;2
+"C2MILE01";14.3706;49.4517;442;"Milevsko";"Milevsko";"MSS";NA;"SRA";"SCE";NA;NA;NA;NA;NA;NA;NA;NA;NA;"prec";"snow";NA;NA;NA;2
+"C2NADV01";14.4653;49.5169;616;"NadÏjkov";"NadÏjkov, VÏtrov";"AKS1";TRUE;"SRA";"SCE";NA;"SSV";NA;FALSE;NA;"tmean";"tmax";"tmin";"humid";"prec";"snow";"solr";"wind";NA;8
+"C2NBYS01";15.1;49.0189;583;"Nov· Byst¯ice";"Nov· Byst¯ice";"ASS";NA;"SRA";"SCE";NA;NA;NA;NA;NA;NA;NA;NA;NA;"prec";"snow";NA;NA;NA;2
+"C2NETR01";14.4561;48.7931;616;"Net¯ebice";"Net¯ebice";"ASS";NA;"SRA";"SCE";NA;NA;NA;NA;NA;NA;NA;NA;NA;"prec";"snow";NA;NA;NA;2
+"C2NVCE01";15.068611;49.223056;509;"Nov· VËelnice";"Nov· VËelnice";"MSS";NA;"SRA";"SCE";NA;NA;NA;NA;NA;NA;NA;NA;NA;"prec";"snow";NA;NA;NA;2
+"C2OLSI01";14.51;49.436389;495;"OlöÌ";"OlöÌ";"ASS";NA;"SRA";"SCE";NA;NA;NA;NA;NA;NA;NA;NA;NA;"prec";"snow";NA;NA;NA;2
+"C2PASC01";14.107778;48.610833;848;"PaseËn·";"PaseËn·, P¯ednÌ V˝toÚ";"MSS";NA;"SRA";"SCE";NA;NA;NA;NA;NA;NA;NA;NA;NA;"prec";"snow";NA;NA;NA;2
+"C2PLAL01";14.7141;49.3426;425;"Plan· nad LuûnicÌ";"Plan· nad LuûnicÌ";"MSS";NA;"SRA";"SCE";NA;NA;NA;NA;NA;NA;NA;NA;NA;"prec";"snow";NA;NA;NA;2
+"C2POCA01";15.2342;49.2606;618;"PoË·tky";"PoË·tky";"AKS2";TRUE;"SRA";"SCE";NA;NA;NA;FALSE;NA;"tmean";"tmax";"tmin";"humid";"prec";"snow";NA;"wind";NA;7
+"C2POHSTT";14.7028;48.6044;932;"Poho¯Ì na äumavÏ";"Poho¯Ì na äumavÏ";"TOTAL";NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;"snow";NA;NA;NA;1
+"C2PRID01";14.3608;48.7831;653;"P¯ÌdolÌ";"P¯ÌdolÌ";"MSS";NA;"SRA";"SCE";NA;NA;NA;NA;NA;NA;NA;NA;NA;"prec";"snow";NA;NA;NA;2
+"C2PVES01";14.649167;48.670278;773;"Pohorsk· Ves";"Pohorsk· Ves";"ASS";NA;"SRA";"SCE";NA;NA;NA;NA;NA;NA;NA;NA;NA;"prec";"snow";NA;NA;NA;2
+"C2ROZS01";14.391111;48.697778;627;"Roûmit·l na äumavÏ";"Roûmit·l na äumavÏ";"MSS";NA;"SRA";"SCE";NA;NA;NA;NA;NA;NA;NA;NA;NA;"prec";"snow";NA;NA;NA;2
+"C2RUDJ01";14.579722;49.003611;562;"Rudolfov";"Rudolfov, Jivno";"MSS";NA;"SRA";"SCE";NA;NA;NA;NA;NA;"tmean";"tmax";"tmin";"humid";"prec";"snow";"solr";"wind";NA;8
+"C2SEVE01";14.566111;49.101389;501;"äevÏtÌn";"äevÏtÌn";"MSS";NA;"SRA";"SCE";NA;NA;NA;NA;NA;NA;NA;NA;NA;"prec";"snow";NA;NA;NA;2
+"C2SHUT01";14.7158;48.7178;792;"StarÈ HutÏ";"StarÈ HutÏ";"ASS";NA;"SRA";"SCE";NA;NA;NA;NA;NA;NA;NA;NA;NA;"prec";"snow";NA;NA;NA;2
+"C2SLAV01";14.2433;48.7642;777;"Slavkov";"Slavkov";"MSS";NA;"SRA";"SCE";NA;NA;NA;NA;NA;NA;NA;NA;NA;"prec";"snow";NA;NA;NA;2
+"C2SOBN01";14.5344;48.7469;526;"SobÏnov";"SobÏnov";"MSS";NA;"SRA";"SCE";NA;NA;NA;NA;NA;NA;NA;NA;NA;"prec";"snow";NA;NA;NA;2
+"C2STRM01";15.2064;49.1631;582;"Strmilov";"Strmilov";"ASS";NA;"SRA";"SCE";NA;NA;NA;NA;NA;NA;NA;NA;NA;"prec";"snow";NA;NA;NA;2
+"C2STRN01";14.9136;49.0675;478;"Str·û nad Neû·rkou";"Str·û nad Neû·rkou";"ASS";NA;"SRA";"SCE";NA;NA;NA;NA;NA;NA;NA;NA;NA;"prec";"snow";NA;NA;NA;2
+"C2SUCH01";14.8669;48.8928;457;"Suchdol nad LuûnicÌ";"Suchdol nad LuûnicÌ";"MSS";NA;"SRA";"SCE";NA;NA;NA;NA;NA;NA;NA;NA;NA;"prec";"snow";NA;NA;NA;2
+"C2TABO01";14.70324;49.40527;467;"T·bor";"T·bor, MÏöice";"AKS1";TRUE;"SRA";"SCE";NA;"SSV";NA;FALSE;NA;"tmean";"tmax";"tmin";"humid";"prec";"snow";"solr";"wind";"pres";9
+"C2TREB01";14.7586;49.0622;428;"T¯eboÚ";"T¯eboÚ, Luûnice";"AKS2";TRUE;"SRA";"SCE";NA;"SSV";NA;FALSE;NA;"tmean";"tmax";"tmin";"humid";"prec";"snow";"solr";"wind";NA;8
+"C2TRHS01";14.6378;48.8433;468;"TrhovÈ Sviny";"TrhovÈ Sviny";"ASS";NA;"SRA";NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;"prec";"snow";NA;NA;NA;2
+"C2TUCA01";14.8017;49.2919;454;"TuËapy";"TuËapy";"MSS";NA;"SRA";"SCE";NA;NA;NA;NA;NA;NA;NA;NA;NA;"prec";"snow";NA;NA;NA;2
+"C2VBRO01";14.3144;48.6175;559;"VyööÌ Brod";"VyööÌ Brod";"AKS1";TRUE;"SRA";"SCE";NA;"SSV";NA;FALSE;NA;"tmean";"tmax";"tmin";"humid";"prec";"snow";"solr";"wind";NA;8
+"C4JAPI01";13.421341;49.036142;1062;"Pr·öily";"Pr·öily, Javo¯Ì Pila";"ASNS";TRUE;NA;"SCE";"SCEa";NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;0
+"C4KEPZ01";13.316389;49.183611;928;"KepelskÈ Zh˘¯Ì";"KepelskÈ Zh˘¯Ì";"ASNS";TRUE;NA;"SCE";"SCEa";NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;0
+"C4STHU01";14.706464;48.71085;780;"StarÈ HutÏ";"StarÈ HutÏ";"ASNS";TRUE;NA;"SCE";"SCEa";NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;0
+"C4VETR01";13.836944;48.978611;1157;"VÏt¯Ìn";"VÏt¯Ìn";"ASNS";TRUE;NA;"SCE";"SCEa";NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;0
+"C4ZBYT01";13.969167;48.925833;792;"Zbytiny";"Zbytiny, Sp·lenec";"ASNS";TRUE;NA;"SCE";"SCEa";NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;0
+"C4ZLST01";13.336389;49.104444;1197;"Zlat˝ stoleËek";"Zlat˝ stoleËek";"ASNS";TRUE;NA;"SCE";"SCEa";NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;0
+"H1BILA01";15.766135;50.457596;322;"BÌl· T¯emeön·";"BÌl· T¯emeön·";"MSS";NA;"SRA";"SCE";NA;NA;NA;NA;NA;NA;NA;NA;NA;"prec";"snow";NA;NA;NA;2
+"H1CDUL01";15.712563;50.648678;715;"»ern˝ D˘l";"»ern˝ D˘l";"ASS";NA;"SRA";NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;"prec";"snow";NA;NA;NA;2
+"H1CSKL01";16.061111;50.363056;290;"»esk· Skalice";"»esk· Skalice, Rozkoö";"AKS2";TRUE;"SRA";"SCE";NA;NA;NA;FALSE;NA;"tmean";"tmax";"tmin";"humid";"prec";"snow";NA;"wind";NA;7
+"H1DDVU01";15.655815;50.654592;560;"DolnÌ Dv˘r";"DolnÌ Dv˘r, Rudolfov";"ASS";NA;"SRA";"SCE";NA;NA;NA;NA;NA;NA;NA;NA;NA;"prec";"snow";NA;NA;NA;2
+"H1HMAR01";15.818973;50.654577;585;"HornÌ Maröov";"HornÌ Maröov";"ASS";NA;"SRA";"SCE";NA;NA;NA;NA;NA;NA;NA;NA;NA;"prec";"snow";NA;NA;NA;2
+"H1HORI01";15.7653;50.3069;271;"Ho¯inÏves";"Ho¯inÏves";"MSS";NA;"SRA";"SCE";NA;NA;NA;NA;NA;NA;NA;NA;NA;"prec";"snow";NA;NA;NA;2
+"H1HOST01";15.739915;50.522919;356;"HostinnÈ";"HostinnÈ";"ASS";NA;"SRA";"SCE";NA;NA;NA;NA;NA;NA;NA;NA;NA;"prec";"snow";NA;NA;NA;2
+"H1LBOU01";15.544927;50.769883;1320;"Labsk· bouda";"Labsk· bouda";"AKS1";TRUE;"SRA";"SCE";NA;"SSV";NA;FALSE;"RGLB_D";"tmean";"tmax";"tmin";"humid";"prec";"snow";"solr";"wind";NA;8
+"H1LUCB01";15.697859;50.735318;1413;"LuËnÌ bouda";"LuËnÌ bouda";"AKS1";TRUE;"SRA";"SCE";"SCEa";"SSV";NA;FALSE;"RGLB_D";"tmean";"tmax";"tmin";"humid";"prec";"snow";"solr";"wind";NA;8
+"H1NACH01";16.157201;50.395208;336;"N·chod";"N·chod";"MSS";NA;"SRA";"SCE";NA;NA;NA;NA;NA;NA;NA;NA;NA;"prec";"snow";NA;NA;NA;2
+"H1PECS01";15.728889;50.691944;816.3;"Pec pod SnÏûkou";"Pec pod SnÏûkou";"AMS1";TRUE;"SRA";"SCE";NA;"SSV";"P";FALSE;NA;"tmean";"tmax";"tmin";"humid";"prec";"snow";"solr";"wind";"pres";9
+"H1POLI01";16.237511;50.537805;446;"Police nad MetujÌ";"Police nad MetujÌ";"ASS";NA;"SRA";"SCE";NA;NA;NA;NA;NA;NA;NA;NA;NA;"prec";"snow";NA;NA;NA;2
+"H1POMB01";15.82027;50.745472;1050;"PomeznÌ boudy";"PomeznÌ boudy, HornÌ Mal· ⁄pa";"ASS";NA;"SRA";"SCE";NA;NA;NA;NA;NA;NA;NA;NA;NA;"prec";"snow";NA;NA;NA;2
+"H1STRA01";15.614722;50.663611;785;"Str·ûnÈ";"Str·ûnÈ";"ASS";NA;"SRA";"SCE";NA;NA;NA;NA;NA;NA;NA;NA;NA;"prec";"snow";NA;NA;NA;2
+"H1TEPL01";16.172543;50.578941;460;"Teplice nad MetujÌ";"Teplice nad MetujÌ";"MSS";NA;"SRA";"SCE";NA;NA;NA;NA;NA;NA;NA;NA;NA;"prec";"snow";NA;NA;NA;2
+"H1TEPZ01";16.147285;50.641099;531;"Teplice nad MetujÌ";"Teplice nad MetujÌ ZdoÚov";"AKS2";TRUE;"SRA";"SCE";NA;NA;NA;FALSE;NA;"tmean";"tmax";"tmin";"humid";"prec";"snow";NA;"wind";NA;7
+"H1TRUT01";15.898311;50.558597;437;"Trutnov";"Trutnov";"AKS3";TRUE;"SRA";"SCE";NA;NA;NA;NA;NA;"tmean";"tmax";"tmin";"humid";"prec";"snow";NA;"wind";NA;7
+"H1UPIC01";16.011618;50.506419;413;"⁄pice";"⁄pice";"AKS1";TRUE;"SRA";"SCE";NA;"SSV";NA;FALSE;NA;"tmean";"tmax";"tmin";"humid";"prec";"snow";"solr";"wind";"pres";9
+"H1VELI01";15.832503;50.356612;299;"Velichovky";"Velichovky";"AKS2";TRUE;"SRA";"SCE";NA;NA;NA;FALSE;NA;"tmean";"tmax";"tmin";"humid";"prec";"snow";"solr";"wind";NA;8
+"H1VRCH01";15.646389;50.622778;482;"VrchlabÌ";"VrchlabÌ";"AKS1";TRUE;"SRA";"SCE";NA;"SSV";"P";FALSE;NA;"tmean";"tmax";"tmin";"humid";"prec";"snow";"solr";"wind";"pres";9
+"H1ZACL01";15.907098;50.661205;644;"éaclÈ¯";"éaclÈ¯";"AKS2";TRUE;"SRA";"SCE";NA;NA;NA;FALSE;NA;"tmean";"tmax";"tmin";"humid";"prec";"snow";NA;"wind";NA;7
+"H2BELC01";15.94687;50.186901;247;"BÏleË nad OrlicÌ";"BÏleË nad OrlicÌ";"MSS";NA;"SRA";"SCE";NA;NA;NA;NA;NA;NA;NA;NA;NA;"prec";"snow";NA;NA;NA;2
+"H2BILU01";16.209938;50.234904;319;"BÌl˝ ⁄jezd";"BÌl˝ ⁄jezd, Hroöka";"ASS";NA;"SRA";"SCE";NA;NA;NA;NA;NA;NA;NA;NA;NA;"prec";"snow";NA;NA;NA;2
+"H2BORH01";16.086691;50.105254;254;"Borohr·dek";"Borohr·dek";"AKS2";TRUE;"SRA";"SCE";NA;NA;NA;FALSE;NA;"tmean";"tmax";"tmin";"humid";"prec";"snow";NA;"wind";NA;7
+"H2CMEZ01";16.041312;50.282295;255;"»eskÈ Mezi¯ÌËÌ";"»eskÈ Mezi¯ÌËÌ";"ASS";NA;"SRA";"SCE";NA;NA;NA;NA;NA;NA;NA;NA;NA;"prec";"snow";NA;NA;NA;2
+"H2DEST01";16.351959;50.306667;656;"DeötnÈ v Orlic. hor·ch";"DeötnÈ v Orlic. hor·ch";"AKS1";TRUE;"SRA";"SCE";NA;"SSV";NA;FALSE;NA;"tmean";"tmax";"tmin";"humid";"prec";"snow";"solr";"wind";NA;8
+"H2DOBN01";16.281744;50.322178;627;"Dob¯any";"Dob¯any";"MSS";NA;"SRA";"SCE";NA;NA;NA;NA;NA;NA;NA;NA;NA;"prec";"snow";NA;NA;NA;2
+"H2CHOC01";16.200903;50.009544;282;"ChoceÚ";"ChoceÚ";"ASS";NA;"SRA";"SCE";NA;NA;NA;NA;NA;NA;NA;NA;NA;"prec";"snow";NA;NA;NA;2
+"H2KRAL01";16.73475;50.08289;538;"Kr·lÌky";"Kr·lÌky";"AKS1";TRUE;"SRA";"SCE";NA;"SSV";NA;FALSE;NA;"tmean";"tmax";"tmin";"humid";"prec";"snow";"solr";"wind";NA;8
+"H2LETO01";16.48707;50.03782;427;"Letohrad";"Letohrad";"MSS";NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;"prec";"snow";NA;NA;NA;2
+"H2LUIS01";16.38829;50.287003;875;"Luisino ˙dolÌ";"Luisino ˙dolÌ, DeötnÈ v Orlick˝ch hor·ch";"ASS";NA;"SRA";"SCE";NA;NA;NA;NA;NA;"tmean";"tmax";"tmin";"humid";"prec";"snow";"solr";"wind";NA;8
+"H2OLES01";16.352829;50.374902;740;"Oleönice";"Oleönice, »ih·lka";"ASS";NA;"SRA";NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;"prec";"snow";NA;NA;NA;2
+"H2OLVO01";16.328611;50.365556;670;"Oleönice";"Oleönice, Vod·rna";"ASS";NA;"SRA";NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;"prec";NA;NA;NA;NA;1
+"H2ORLI01";16.667424;50.026453;570;"OrliËky";"OrliËky";"ASS";NA;"SRA";"SCE";NA;NA;NA;NA;NA;NA;NA;NA;NA;"prec";"snow";NA;NA;NA;2
+"H2ORLZ01";16.468455;50.280707;690;"OrlickÈ Z·ho¯Ì";"OrlickÈ Z·ho¯Ì";"MSS";NA;"SRA";"SCE";NA;NA;NA;NA;NA;NA;NA;NA;NA;"prec";"snow";NA;NA;NA;2
+"H2POLO01";16.322222;50.350278;747.24;"Polom";"Polom, SedloÚov";"AMS";TRUE;"SRA";"SCE";NA;"SSV";"P";FALSE;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;0
+"H2ROKY01";16.460258;50.164432;577;"Rokytnice v Orlic.hor·ch";"Rokytnice v Orlic.hor·ch";"AKS1";TRUE;"SRA";"SCE";NA;"SSV";NA;FALSE;NA;"tmean";"tmax";"tmin";"humid";"prec";"snow";"solr";"wind";NA;8
+"H2RYCH01";16.270033;50.164879;335;"Rychnov nad KnÏûnou";"Rychnov nad KnÏûnou";"AKS1";TRUE;"SRA";"SCE";NA;"SSV";NA;FALSE;NA;"tmean";"tmax";"tmin";"humid";"prec";"snow";"solr";"wind";NA;8
+"H2SLAZ01";16.3875;50.1375;401;"Slatina nad ZdobnicÌ";"Slatina nad ZdobnicÌ";"ASS";NA;"SRA";"SCE";NA;NA;NA;NA;NA;NA;NA;NA;NA;"prec";"snow";NA;NA;NA;2
+"H2USTI01";16.422222;49.980278;401.7;"⁄stÌ nad OrlicÌ";"⁄stÌ nad OrlicÌ";"AMS1";TRUE;"SRA";"SCE";NA;"SSV";"P";FALSE;NA;"tmean";"tmax";"tmin";"humid";"prec";"snow";"solr";"wind";"pres";9
+"H2ZAMB01";16.45477;50.069195;405;"éamberk";"éamberk";"AKS2";TRUE;"SRA";"SCE";NA;"SSV";NA;FALSE;NA;"tmean";"tmax";"tmin";"humid";"prec";"snow";"solr";"wind";NA;8
+"H2ZDOB01";16.408505;50.247678;671;"Zdobnice";"Zdobnice";"ASS";NA;"SRA";"SCE";NA;NA;NA;NA;NA;NA;NA;NA;NA;"prec";"snow";NA;NA;NA;2
+"H3BAHN01";15.234033;49.866846;420;"Bahno";"Bahno";"ASS";NA;"SRA";"SCE";NA;NA;NA;NA;NA;NA;NA;NA;NA;"prec";"snow";NA;NA;NA;2
+"H3BEST01";15.569633;49.829595;333;"BÏstvina";"BÏstvina, Pa¯Ìûov";"MSS";NA;"SRA";"SCE";NA;NA;NA;NA;NA;NA;NA;NA;NA;"prec";"snow";NA;NA;NA;2
+"H3BROU01";16.343617;50.569966;373;"Broumov";"Broumov";"AKS1";TRUE;"SRA";"SCE";NA;"SSV";NA;FALSE;NA;"tmean";"tmax";"tmin";"humid";"prec";"snow";"solr";"wind";NA;8
+"H3CASL01";15.394281;49.901675;251;"»·slav";"»·slav, NovÈ mÏsto";"AKS3";TRUE;"SRA";"SCE";NA;NA;NA;NA;NA;"tmean";"tmax";"tmin";"humid";"prec";"snow";"solr";"wind";NA;8
+"H3DOBC01";15.638309;50.143231;275;"Dob¯enice";"Dob¯enice";"MSS";NA;"SRA";"SCE";NA;NA;NA;NA;NA;"tmean";"tmax";"tmin";"humid";"prec";"snow";"solr";"wind";NA;8
+"H3DYMO01";15.201165;50.248346;208;"Dymokury";"Dymokury";"ASS";NA;"SRA";"SCE";NA;NA;NA;NA;NA;NA;NA;NA;NA;"prec";"snow";NA;NA;NA;2
+"H3GAJE01";16.410023;49.821051;515;"Gajer";"Gajer, Janov";"AKS1";TRUE;"SRA";"SCE";NA;"SSV";NA;FALSE;NA;"tmean";"tmax";"tmin";"humid";"prec";"snow";"solr";"wind";NA;8
+"H3HAMR01";15.914045;49.738323;605;"Hamry";"Hamry";"MSS";NA;"SRA";"SCE";NA;NA;NA;NA;NA;NA;NA;NA;NA;"prec";"snow";NA;NA;NA;2
+"H3HERM01";15.673986;49.946639;275;"He¯man˘v MÏstec";"He¯man˘v MÏstec";"ASS";NA;"SRA";"SCE";NA;NA;NA;NA;NA;NA;NA;NA;NA;"prec";"snow";NA;NA;NA;2
+"H3HOLO01";15.57805;50.376952;321;"Holovousy";"Holovousy";"AKS1";TRUE;"SRA";"SCE";NA;"SSV";NA;FALSE;NA;"tmean";"tmax";"tmin";"humid";"prec";"snow";"solr";"wind";NA;8
+"H3HRAD01";15.838452;50.177649;278;"Hradec Kr·lovÈ";"Hradec Kr·lovÈ, Nov˝ Hradec Kr·lovÈ";"AKS1";TRUE;"SRA";"SCE";NA;"SSV";"P";FALSE;"RGLB_D";"tmean";"tmax";"tmin";"humid";"prec";"snow";"solr";"wind";"pres";9
+"H3HRTY01";15.909774;49.962057;241;"Hroch˘v T˝nec";"Hroch˘v T˝nec";"ASS";NA;"SRA";"SCE";NA;NA;NA;NA;NA;NA;NA;NA;NA;"prec";"snow";NA;NA;NA;2
+"H3HRUS01";16.19522;49.916517;291;"Hruöov·";"Hruöov·";"AKS1";TRUE;"SRA";"SCE";NA;"SSV";NA;FALSE;NA;"tmean";"tmax";"tmin";"humid";"prec";"snow";"solr";"wind";NA;8
+"H3CHLM01";15.462251;50.137135;213;"Chlumec nad Cidlinou";"Chlumec nad Cidlinou, LuËice";"MSS";NA;"SRA";"SCE";NA;NA;NA;NA;NA;NA;NA;NA;NA;"prec";"snow";NA;NA;NA;2
+"H3CHTU01";15.386389;49.940833;238.2;"Chotusice";"Chotusice, letiötÏ";"AMS";TRUE;"SRA";"SCE";NA;"SSV";"P";FALSE;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;0
+"H3JICI01";15.352626;50.439511;283;"JiËÌn";"JiËÌn";"AKS1";TRUE;"SRA";"SCE";NA;"SSV";"P";FALSE;NA;"tmean";"tmax";"tmin";"humid";"prec";"snow";"solr";"wind";"pres";9
+"H3KONA01";15.284988;50.03844;209;"Kon·rovice";"Kon·rovice";"ASS";NA;"SRA";"SCE";NA;NA;NA;NA;NA;NA;NA;NA;NA;"prec";"snow";NA;NA;NA;2
+"H3KRIZ01";15.774205;49.865999;432;"K¯iûanovice";"K¯iûanovice";"MSS";NA;"SRA";"SCE";NA;NA;NA;NA;NA;NA;NA;NA;NA;"prec";"snow";NA;NA;NA;2
+"H3KRUC01";15.844811;49.688077;559;"Krucemburk";"Krucemburk";"MSS";NA;"SRA";"SCE";NA;NA;NA;NA;NA;NA;NA;NA;NA;"prec";"snow";NA;NA;NA;2
+"H3KUTH01";15.288261;49.965934;260;"Kutn· Hora";"Kutn· Hora, Sedlec";"MSS";NA;"SRA";"SCE";NA;NA;NA;NA;NA;NA;NA;NA;NA;"prec";"snow";NA;NA;NA;2
+"H3LBEL01";15.588567;50.427437;299;"L·znÏ BÏlohrad";"L·znÏ BÏlohrad";"AKS2";TRUE;"SRA";"SCE";NA;NA;NA;FALSE;NA;"tmean";"tmax";"tmin";"humid";"prec";"snow";NA;"wind";NA;7
+"H3LIBA01";15.214447;50.370822;240;"Lib·Ú";"Lib·Ú";"ASS";NA;"SRA";"SCE";NA;NA;NA;NA;NA;NA;NA;NA;NA;"prec";"snow";NA;NA;NA;2
+"H3LIBC01";15.704862;49.744164;425;"Libice nad Doubravou";"Libice nad Doubravou";"AKS2";TRUE;"SRA";"SCE";NA;NA;NA;FALSE;NA;"tmean";"tmax";"tmin";"humid";"prec";"snow";NA;"wind";NA;7
+"H3LICO01";15.551646;49.914705;335;"LicomÏ¯ice";"LicomÏ¯ice";"MSS";NA;"SRA";"SCE";NA;NA;NA;NA;NA;NA;NA;NA;NA;"prec";"snow";NA;NA;NA;2
+"H3LUBN01";16.190554;49.773006;560;"Lubn·";"Lubn·";"ASS";NA;"SRA";"SCE";NA;NA;NA;NA;NA;NA;NA;NA;NA;"prec";"snow";NA;NA;NA;2
+"H3MOKO01";15.56668;50.016395;255;"MokoöÌn";"MokoöÌn";"AKS1";TRUE;"SRA";"SCE";NA;"SSV";NA;FALSE;NA;"tmean";"tmax";"tmin";"humid";"prec";"snow";"solr";"wind";NA;8
+"H3NBYD01";15.497443;50.237553;232;"Nov˝ Bydûov";"Nov˝ Bydûov";"AKS2";TRUE;"SRA";"SCE";NA;NA;NA;FALSE;NA;"tmean";"tmax";"tmin";"humid";"prec";"snow";NA;"wind";NA;7
+"H3NECH01";15.659823;50.242972;245;"Nechanice - Lubno";"Nechanice - Lubno";"MSS";NA;"SRA";"SCE";NA;NA;NA;NA;NA;NA;NA;NA;NA;"prec";"snow";NA;NA;NA;2
+"H3NHRA01";16.147668;49.850201;400;"NovÈ Hrady";"NovÈ Hrady";"ASS";NA;"SRA";"SCE";NA;NA;NA;NA;NA;NA;NA;NA;NA;"prec";"snow";NA;NA;NA;2
+"H3PARD01";15.740273;50.016111;224.21;"Pardubice";"Pardubice, letiötÏ";"AMS";TRUE;"SRA";"SCE";NA;"SSV";"P";FALSE;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;0
+"H3PODE01";15.133554;50.140503;189;"PodÏbrady";"PodÏbrady";"AKS1";TRUE;"SRA";"SCE";NA;"SSV";NA;FALSE;NA;"tmean";"tmax";"tmin";"humid";"prec";"snow";"solr";"wind";"pres";9
+"H3RADO01";15.368164;50.106526;227;"Radovesnice II.";"Radovesnice II.";"AKS2";TRUE;"SRA";"SCE";NA;NA;NA;FALSE;NA;"tmean";"tmax";"tmin";"humid";"prec";"snow";NA;"wind";NA;7
+"H3SECA01";15.6479;49.844725;529;"SeË";"SeË";"AKS1";TRUE;"SRA";"SCE";NA;"SSV";NA;FALSE;NA;"tmean";"tmax";"tmin";"humid";"prec";"snow";"solr";"wind";NA;8
+"H3SKUT01";15.996153;49.834947;457;"SkuteË";"SkuteË";"AKS2";TRUE;"SRA";"SCE";NA;NA;NA;FALSE;NA;"tmean";"tmax";"tmin";"humid";"prec";"snow";NA;"wind";NA;7
+"H3SLAT01";15.393348;50.379018;254;"Slatiny";"Slatiny, MilÌËeves";"ASS";NA;"SRA";"SCE";NA;NA;NA;NA;NA;"tmean";"tmax";"tmin";"humid";"prec";"snow";"solr";"wind";NA;8
+"H3SVOD01";15.787769;50.222602;240;"Hradec Kr·lovÈ";"Hradec Kr·lovÈ, SvobodnÈ Dvory";"AKS1";TRUE;"SRA";"SCE";NA;"SSV";NA;FALSE;NA;"tmean";"tmax";"tmin";"humid";"prec";"snow";"solr";"wind";NA;8
+"H3SVRA01";16.034167;49.735;734;"Svratouch";"Svratouch";"AMS1";TRUE;"SRA";"SCE";NA;"SSV";"P";FALSE;"RGLB_D";"tmean";"tmax";"tmin";"humid";"prec";"snow";"solr";"wind";"pres";9
+"H3TRST01";16.341265;49.807087;435;"TrstÏnice";"TrstÏnice";"MSS";NA;"SRA";"SCE";NA;NA;NA;NA;NA;NA;NA;NA;NA;"prec";"snow";NA;NA;NA;2
+"H3VMYT01";16.167796;49.962009;278;"VysokÈ M˝to";"VysokÈ M˝to";"MSS";NA;"SRA";"SCE";NA;NA;NA;NA;NA;NA;NA;NA;NA;"prec";"snow";NA;NA;NA;2
+"H3VYSC01";15.822131;49.755424;548;"VysoËina";"VysoËina, JanËou¯";"MSS";NA;"SRA";"SCE";NA;NA;NA;NA;NA;NA;NA;NA;NA;"prec";"snow";NA;NA;NA;2
+"H3ZBYS01";15.329835;49.78686;490;"Zb˝öov";"Zb˝öov, DobrovÌtov";"AKS2";TRUE;"SRA";"SCE";NA;NA;NA;FALSE;NA;"tmean";"tmax";"tmin";"humid";"prec";"snow";NA;"wind";NA;7
+"H3ZEHU01";15.287765;50.133757;204;"éehuÚ";"éehuÚ";"MSS";NA;"SRA";"SCE";NA;NA;NA;NA;NA;NA;NA;NA;NA;"prec";"snow";NA;NA;NA;2
+"H4DDHP01";15.654731;50.676074;875;"DolnÌ Dv˘r";"DolnÌ Dv˘r, Hanapetrova paseka";"ASNS";TRUE;NA;NA;"SCEa";NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;0
+"H4LUIS01";16.38829;50.287003;875;"Luisino ˙dolÌ";"Luisino ˙dolÌ, DeötnÈ v Orlick˝ch hor·ch";"ASNS";TRUE;NA;NA;"SCEa";NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;0
+"H4SUVR01";16.693368;50.049859;995;"Such˝ vrch";"Such˝ vrch";"ASNS";TRUE;NA;NA;"SCEa";NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;0
+"H7SNEZ01";15.740278;50.735833;1602;"SnÏûka";"SnÏûka, Poötovna";"AMS3";NA;NA;NA;NA;NA;NA;NA;NA;"tmean";"tmax";"tmin";"humid";NA;NA;NA;"wind";NA;5
+"L1BORO01";13.727867;49.623944;651;"Borovno";"Borovno, MÌöov";"ASS";NA;"SRA";NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;"prec";"snow";NA;NA;NA;2
+"L1CACH01";13.301694;49.264136;729;"»achrov";"»achrov";"ASS";NA;"SRA";"SCE";NA;NA;NA;NA;NA;NA;NA;NA;NA;"prec";"snow";NA;NA;NA;2
+"L1CERCTT";12.785182;49.384633;1016;"»erchov";"»erchov, »erchov";"TOTAL";NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;0
+"L1CKUB01";12.857804;49.367941;549;"»esk· Kubice";"»esk· Kubice";"ASS";NA;"SRA";"SCE";NA;NA;NA;NA;NA;NA;NA;NA;NA;"prec";"snow";NA;NA;NA;2
+"L1DNES01";13.267176;49.601684;370;"Dneöice";"Dneöice";"MSS";NA;"SRA";"SCE";NA;NA;NA;NA;NA;NA;NA;NA;NA;"prec";"snow";NA;NA;NA;2
+"L1DOMA01";12.922385;49.444716;458;"Domaûlice";"Domaûlice";"AKS1";TRUE;"SRA";"SCE";NA;NA;NA;FALSE;NA;"tmean";"tmax";"tmin";"humid";"prec";"snow";"solr";"wind";NA;8
+"L1HOJS01";13.197146;49.212473;866;"éelezn· Ruda";"éelezn· Ruda, Hojsova Str·û";"AKS1";TRUE;"SRA";"SCE";"SCEa";"SSV";NA;FALSE;NA;"tmean";"tmax";"tmin";"humid";"prec";"snow";"solr";"wind";NA;8
+"L1HTYN01";12.943746;49.528213;374;"Horöovsk˝ T˝n";"Horöovsk˝ T˝n";"ASS";NA;"SRA";"SCE";NA;NA;NA;NA;NA;NA;NA;NA;NA;"prec";"snow";NA;NA;NA;2
+"L1CHUD01";13.176421;49.465452;490;"Chudenice";"Chudenice";"ASS";NA;"SRA";"SCE";NA;NA;NA;NA;NA;NA;NA;NA;NA;"prec";"snow";NA;NA;NA;2
+"L1JEZHTT";13.184692;49.168686;1343;"JezernÌ hora";"JezernÌ hora";"TOTAL";NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;0
+"L1KDYN01";13.045733;49.393642;475;"KdynÏ";"KdynÏ";"MSS";NA;"SRA";"SCE";NA;NA;NA;NA;NA;NA;NA;NA;NA;"prec";"snow";NA;NA;NA;2
+"L1KLAT01";13.303016;49.39042;421;"Klatovy";"Klatovy";"AKS1";TRUE;"SRA";"SCE";NA;"SSV";NA;FALSE;NA;"tmean";"tmax";"tmin";"humid";"prec";"snow";"solr";"wind";"pres";9
+"L1LIBK01";13.135593;49.366344;574;"Libkov";"Libkov";"MSS";NA;"SRA";"SCE";NA;NA;NA;NA;NA;"tmean";"tmax";"tmin";"humid";"prec";"snow";NA;"wind";NA;7
+"L1LOVC01";13.493545;49.402384;597;"LovËice";"LovËice, Kvasetice";"ASS";NA;"SRA";"SCE";NA;NA;NA;NA;NA;NA;NA;NA;NA;"prec";"snow";NA;NA;NA;2
+"L1LUZA01";13.317522;49.54908;358;"Luûany";"Luûany";"MSS";NA;"SRA";"SCE";NA;NA;NA;NA;NA;NA;NA;NA;NA;"prec";"snow";NA;NA;NA;2
+"L1MARATT";13.73075;49.58855;782;"Mar·sek";"Mar·sek, Mar·sek na B˘rku";"TOTAL";NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;0
+"L1NEPO01";13.589389;49.486924;471;"Nepomuk";"Nepomuk";"AKS1";TRUE;"SRA";"SCE";NA;"SSV";NA;FALSE;NA;"tmean";"tmax";"tmin";"humid";"prec";"snow";"solr";"wind";NA;8
+"L1NETU01";13.432035;49.61559;464;"Netunice";"Netunice";"MSS";NA;"SRA";"SCE";NA;NA;NA;NA;NA;NA;NA;NA;NA;"prec";"snow";NA;NA;NA;2
+"L1NEZV01";13.528521;49.635765;371;"NezvÏstice";"NezvÏstice";"ASS";NA;"SRA";"SCE";NA;NA;NA;NA;NA;NA;NA;NA;NA;"prec";"snow";NA;NA;NA;2
+"L1NYRS01";13.145794;49.294244;451;"N˝rsko";"N˝rsko";"MSS";NA;"SRA";"SCE";NA;NA;NA;NA;NA;NA;NA;NA;NA;"prec";"snow";NA;NA;NA;2
+"L1PANCTT";13.252276;49.17722;1189;"PancÌ¯";"PancÌ¯";"TOTAL";NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;0
+"L1PIVO01";12.741932;49.490754;619;"PivoÚ";"PivoÚ";"ASS";NA;"SRA";NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;"prec";NA;NA;NA;NA;1
+"L1PLMI01";13.378889;49.764722;359.8;"PlzeÚ";"PlzeÚ, Mikulka";"AMS1";TRUE;"SRA";"SCE";NA;"SSV";"P";FALSE;"RGLB_D";"tmean";"tmax";"tmin";"humid";"prec";"snow";"solr";"wind";"pres";9
+"L1PLZB01";13.386411;49.788378;331;"PlzeÚ";"PlzeÚ, Bolevec";"AKS1";TRUE;"SRA";"SCE";NA;"SSV";NA;FALSE;NA;"tmean";"tmax";"tmin";"humid";"prec";"snow";"solr";"wind";NA;8
+"L1SEC001";13.506002;49.587397;398;"SeË";"SeË";"MSS";NA;"SRA";"SCE";NA;NA;NA;NA;NA;NA;NA;NA;NA;"prec";"snow";NA;NA;NA;2
+"L1SPIC01";13.231136;49.177061;945;"éelezn· Ruda";"éelezn· Ruda, äpiË·k";"MSS";NA;"SRA";"SCE";NA;NA;NA;NA;NA;NA;NA;NA;NA;"prec";"snow";NA;NA;NA;2
+"L1SPOR01";13.604538;49.615175;420;"Sp·lenÈ Po¯ÌËÌ";"Sp·lenÈ Po¯ÌËÌ";"MSS";NA;"SRA";"SCE";NA;NA;NA;NA;NA;NA;NA;NA;NA;"prec";"snow";NA;NA;NA;2
+"L1STAN01";13.067369;49.552537;362;"StaÚkov";"StaÚkov";"AKS1";TRUE;"SRA";"SCE";NA;"SSV";NA;FALSE;NA;"tmean";"tmax";"tmin";"humid";"prec";"snow";"solr";"wind";NA;8
+"L1STOD01";13.166901;49.639696;337;"Stod";"Stod";"ASS";NA;"SRA";NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;"prec";"snow";NA;NA;NA;2
+"L1STRA01";13.246905;49.30562;477;"Str·ûov";"Str·ûov";"MSS";NA;"SRA";"SCE";NA;NA;NA;NA;NA;NA;NA;NA;NA;"prec";"snow";NA;NA;NA;2
+"L1TRHA01";12.83535;49.41688;471;"Trhanov";"Trhanov, Chodov";"MSS";NA;"SRA";"SCE";NA;NA;NA;NA;NA;NA;NA;NA;NA;"prec";"snow";NA;NA;NA;2
+"L1VSER01";12.984558;49.343917;445;"Vöeruby";"Vöeruby";"MSS";NA;"SRA";"SCE";NA;NA;NA;NA;NA;NA;NA;NA;NA;"prec";"snow";NA;NA;NA;2
+"L1ZINK01";13.497252;49.478113;459;"éinkovy";"éinkovy";"MSS";NA;"SRA";"SCE";NA;NA;NA;NA;NA;NA;NA;NA;NA;"prec";"snow";NA;NA;NA;2
+"L1ZIVO01";13.681495;49.470036;484;"éivotice";"éivotice";"MSS";NA;"SRA";"SCE";NA;NA;NA;NA;NA;NA;NA;NA;NA;"prec";"snow";NA;NA;NA;2
+"L1ZRUD01";13.228729;49.138245;754;"éelezn· Ruda";"éelezn· Ruda";"ASS";NA;"SRA";"SCE";NA;NA;NA;NA;NA;NA;NA;NA;NA;"prec";"snow";NA;NA;NA;2
+"L2BELA01";12.581084;49.583431;511;"éelezn·";"éelezn·";"ASS";NA;"SRA";NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;"prec";"snow";NA;NA;NA;2
+"L2BEZV01";13.054363;49.993664;699;"BezvÏrov";"BezvÏrov";"ASS";NA;"SRA";"SCE";NA;NA;NA;NA;NA;NA;NA;NA;NA;"prec";"snow";NA;NA;NA;2
+"L2BORT01";12.770725;49.710653;471;"Bor";"Bor";"MSS";NA;"SRA";"SCE";NA;NA;NA;NA;NA;NA;NA;NA;NA;"prec";"snow";NA;NA;NA;2
+"L2DARM01";12.879505;49.643292;442;"StarÈ Sedlo";"StarÈ Sedlo, Darmyöl";"ASS";NA;"SRA";"SCE";NA;NA;NA;NA;NA;NA;NA;NA;NA;"prec";"snow";NA;NA;NA;2
+"L2DOBR01";13.689215;49.717616;417;"Dob¯Ìv";"Dob¯Ìv";"MSS";NA;"SRA";"SCE";NA;NA;NA;NA;NA;NA;NA;NA;NA;"prec";"snow";NA;NA;NA;2
+"L2DYLE01";12.502849;49.968079;939;"DyleÚ";"DyleÚ";"AKS2";TRUE;"SRA";"SCE";NA;NA;NA;FALSE;NA;"tmean";"tmax";"tmin";"humid";"prec";"snow";NA;"wind";NA;7
+"L2HBEL01";13.248312;49.884347;513;"HornÌ BÏl·";"HornÌ BÏl·, Vrtbo";"MSS";NA;"SRA";"SCE";NA;NA;NA;NA;NA;NA;NA;NA;NA;"prec";"snow";NA;NA;NA;2
+"L2HERM01";13.57133;50.148529;407;"He¯manov";"He¯manov";"AKS2";TRUE;"SRA";"SCE";NA;NA;NA;FALSE;NA;"tmean";"tmax";"tmin";"humid";"prec";"snow";NA;"wind";NA;7
+"L2HOLO01";13.71137;49.77498;433;"Holoubkov";"Holoubkov, Medov˝ ⁄jezd";"MSS";NA;"SRA";"SCE";NA;NA;NA;NA;NA;NA;NA;NA;NA;"prec";"snow";NA;NA;NA;2
+"L2HROM01";13.445309;49.848142;336;"Hromnice";"Hromnice";"MSS";NA;"SRA";"SCE";NA;NA;NA;NA;NA;NA;NA;NA;NA;"prec";"snow";NA;NA;NA;2
+"L2KONL01";12.975956;49.884787;530;"Konstantinovy L·znÏ";"Konstantinovy L·znÏ";"AKS1";TRUE;"SRA";"SCE";NA;"SSV";NA;FALSE;NA;"tmean";"tmax";"tmin";"humid";"prec";"snow";"solr";"wind";NA;8
+"L2KOUN01";13.672193;50.214902;418;"Kounov";"Kounov";"ASS";NA;"SRA";NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;"prec";"snow";NA;NA;NA;2
+"L2KRAL01";13.494007;49.981823;449;"Kralovice";"Kralovice";"AKS1";TRUE;"SRA";"SCE";NA;"SSV";NA;FALSE;NA;"tmean";"tmax";"tmin";"humid";"prec";"snow";"solr";"wind";NA;8
+"L2KRAU01";12.920958;50.071286;650;"Kr·snÈ ⁄dolÌ";"Kr·snÈ ⁄dolÌ";"AKS1";TRUE;"SRA";"SCE";"SCEa";"SSV";NA;FALSE;NA;"tmean";"tmax";"tmin";"humid";"prec";"snow";"solr";"wind";NA;8
+"L2KVES01";13.861277;49.990212;405;"Karlova Ves";"Karlova Ves";"ASS";NA;"SRA";"SCE";NA;NA;NA;NA;NA;NA;NA;NA;NA;"prec";"snow";NA;NA;NA;2
+"L2LIBL01";13.5451;49.916487;299;"LiblÌn";"LiblÌn";"ASS";NA;"SRA";"SCE";NA;NA;NA;NA;NA;NA;NA;NA;NA;"prec";"snow";NA;NA;NA;2
+"L2MANE01";13.22757;49.992466;436;"ManÏtÌn";"ManÏtÌn";"MSS";NA;"SRA";"SCE";NA;NA;NA;NA;NA;NA;NA;NA;NA;"prec";"snow";NA;NA;NA;2
+"L2MLAV01";12.695966;49.990619;696;"Mari·nskÈ L·znÏ";"Mari·nskÈ L·znÏ, vod·rna";"AKS1";TRUE;"SRA";"SCE";NA;"SSV";NA;FALSE;NA;"tmean";"tmax";"tmin";"humid";"prec";"snow";"solr";"wind";NA;8
+"L2NEMA01";12.716909;49.431422;529;"Nemanice";"Nemanice, NemaniËky";"MSS";NA;"SRA";"SCE";NA;NA;NA;NA;NA;NA;NA;NA;NA;"prec";"snow";NA;NA;NA;2
+"L2ORAC01";13.54839;50.10814;401;"Or·Ëov";"Or·Ëov";"MSS";NA;"SRA";"SCE";NA;NA;NA;NA;NA;NA;NA;NA;NA;"prec";"snow";NA;NA;NA;2
+"L2PLAN01";12.735097;49.870952;505;"Plan·";"Plan·";"ASS";NA;"SRA";"SCE";NA;NA;NA;NA;NA;NA;NA;NA;NA;"prec";"snow";NA;NA;NA;2
+"L2PLAS01";13.382176;49.933074;330;"Plasy";"Plasy";"MSS";NA;"SRA";"SCE";NA;NA;NA;NA;NA;NA;NA;NA;NA;"prec";"snow";NA;NA;NA;2
+"L2PLZR01";13.323199;49.765499;320;"PlzeÚ";"PlzeÚ, RadËice";"MSS";NA;"SRA";"SCE";NA;NA;NA;NA;NA;NA;NA;NA;NA;"prec";"snow";NA;NA;NA;2
+"L2PRIM01";12.678056;49.669444;742.76;"P¯imda";"P¯imda";"AMS1";TRUE;"SRA";"SCE";NA;"SSV";"P";FALSE;NA;"tmean";"tmax";"tmin";"humid";"prec";"snow";"solr";"wind";"pres";9
+"L2RAKO01";13.738906;50.099307;313;"RakovnÌk";"RakovnÌk";"ASS";NA;"SRA";"SCE";NA;NA;NA;NA;NA;NA;NA;NA;NA;"prec";"snow";NA;NA;NA;2
+"L2ROKY01";13.582576;49.73725;370;"Rokycany";"Rokycany";"ASS";NA;"SRA";NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;"prec";NA;NA;NA;NA;1
+"L2SLAB01";13.690636;49.992453;389;"Slabce";"Slabce, Mod¯ejovice";"MSS";NA;"SRA";"SCE";NA;NA;NA;NA;NA;NA;NA;NA;NA;"prec";"snow";NA;NA;NA;2
+"L2STRA01";13.753217;49.742781;526;"Straöice";"Straöice";"ASS";NA;"SRA";"SCE";NA;NA;NA;NA;NA;NA;NA;NA;NA;"prec";"snow";NA;NA;NA;2
+"L2STRI01";12.996866;49.75451;412;"St¯Ìbro";"St¯Ìbro";"AKS2";TRUE;"SRA";"SCE";NA;"SSV";NA;FALSE;NA;"tmean";"tmax";"tmin";"humid";"prec";"snow";"solr";"wind";NA;8
+"L2TACH01";12.623135;49.798357;487;"Tachov";"Tachov";"AKS3";TRUE;"SRA";"SCE";NA;NA;NA;NA;NA;"tmean";"tmax";"tmin";"humid";"prec";"snow";NA;NA;NA;6
+"L2TERE01";13.707071;49.901862;402;"Tereöov";"Tereöov";"ASS";NA;"SRA";"SCE";NA;NA;NA;NA;NA;NA;NA;NA;NA;"prec";"snow";NA;NA;NA;2
+"L2TSEK01";12.616463;49.943647;672;"T¯i Sekery";"T¯i Sekery";"MSS";NA;"SRA";"SCE";NA;NA;NA;NA;NA;NA;NA;NA;NA;"prec";"snow";NA;NA;NA;2
+"L2ULIC01";13.143405;49.759189;428;"⁄lice";"⁄lice";"ASS";NA;"SRA";"SCE";NA;NA;NA;NA;NA;NA;NA;NA;NA;"prec";"snow";NA;NA;NA;2
+"L2UNES01";13.128163;49.894104;573;"⁄nÏöov";"⁄nÏöov, »Ìhan·";"MSS";NA;"SRA";"SCE";NA;NA;NA;NA;NA;NA;NA;NA;NA;"prec";"snow";NA;NA;NA;2
+"L2UTER01";13.001143;49.938609;489;"⁄ter˝";"⁄ter˝";"MSS";NA;"SRA";"SCE";NA;NA;NA;NA;NA;NA;NA;NA;NA;"prec";"snow";NA;NA;NA;2
+"L2VERU01";13.172377;50.140984;582;"VeruöiËky";"VeruöiËky";"MSS";NA;"SRA";"SCE";NA;NA;NA;NA;NA;NA;NA;NA;NA;"prec";"snow";NA;NA;NA;2
+"L2VICH01";12.945816;49.79351;506;"VÌchov";"VÌchov";"MSS";NA;"SRA";"SCE";NA;NA;NA;NA;NA;NA;NA;NA;NA;"prec";"snow";NA;NA;NA;2
+"L2ZBIR01";13.751748;49.853987;476;"Zbiroh";"Zbiroh, ävabÌn";"AKS2";TRUE;"SRA";"SCE";NA;NA;NA;FALSE;NA;"tmean";"tmax";"tmin";"humid";"prec";"snow";NA;"wind";NA;7
+"L2ZLUT01";13.161287;50.096136;554;"élutice";"élutice";"ASS";NA;"SRA";"SCE";NA;NA;NA;NA;NA;NA;NA;NA;NA;"prec";"snow";NA;NA;NA;2
+"L3ABER01";12.816447;50.367742;893;"Abertamy";"Abertamy";"ASS";NA;"SRA";"SCE";NA;NA;NA;NA;NA;NA;NA;NA;NA;"prec";"snow";NA;NA;NA;2
+"L3AS0001";12.179572;50.220602;675;"Aö";"Aö";"AKS1";TRUE;"SRA";"SCE";NA;"SSV";NA;FALSE;NA;"tmean";"tmax";"tmin";"humid";"prec";"snow";"solr";"wind";NA;8
+"L3BECO01";12.836484;50.081963;535;"BeËov nad Teplou";"BeËov nad Teplou";"ASS";NA;"SRA";"SCE";NA;NA;NA;NA;NA;NA;NA;NA;NA;"prec";"snow";NA;NA;NA;2
+"L3FRAL01";12.351238;50.116796;435;"Frantiökovy L·znÏ";"Frantiökovy L·znÏ";"MSS";NA;"SRA";"SCE";NA;NA;NA;NA;NA;"tmean";"tmax";"tmin";"humid";"prec";"snow";NA;"wind";NA;7
+"L3HABA01";12.54853;50.180156;484;"Habartov";"Habartov";"MSS";NA;"SRA";"SCE";NA;NA;NA;NA;NA;NA;NA;NA;NA;"prec";"snow";NA;NA;NA;2
+"L3HAZL01";12.270389;50.159224;551;"Hazlov";"Hazlov";"MSS";NA;"SRA";"SCE";NA;NA;NA;NA;NA;NA;NA;NA;NA;"prec";"snow";NA;NA;NA;2
+"L3HROZ01";12.389416;50.025396;452;"Star˝ HrozÚatov";"Star˝ HrozÚatov";"MSS";NA;"SRA";"SCE";NA;NA;NA;NA;NA;NA;NA;NA;NA;"prec";"snow";NA;NA;NA;2
+"L3CHEB01";12.391389;50.068333;483;"Cheb";"Cheb";"AMS1";TRUE;"SRA";"SCE";NA;"SSV";"P";FALSE;NA;"tmean";"tmax";"tmin";"humid";"prec";"snow";"solr";"wind";"pres";9
+"L3KLIN01";12.967957;50.3948;1236;"KlÌnovec";"KlÌnovec";"AKS2";TRUE;"SRA";"SCE";NA;NA;NA;FALSE;NA;"tmean";"tmax";"tmin";"humid";"prec";"snow";NA;"wind";NA;7
+"L3KVAL01";12.914167;50.201667;603;"Karlovy Vary";"Karlovy Vary, Olöov· Vrata";"AMS";TRUE;"SRA";"SCE";NA;"SSV";"P";FALSE;NA;"tmean";"tmax";"tmin";"humid";"prec";"snow";"solr";"wind";"pres";9
+"L3KVAZ01";12.878151;50.227229;377;"Karlovy Vary";"Karlovy Vary";"AKS4";TRUE;"SRA";"SCE";NA;NA;NA;NA;NA;"tmean";"tmax";"tmin";"humid";"prec";"snow";NA;"wind";NA;7
+"L3LAZY01";12.62322;50.05;845;"Kynûvart";"Kynûvart, Lazy";"ASS";NA;"SRA";"SCE";NA;NA;NA;NA;NA;NA;NA;NA;NA;"prec";"snow";NA;NA;NA;2
+"L3LUBY01";12.400238;50.256881;524;"Luby";"Luby";"ASS";NA;"SRA";"SCE";NA;NA;NA;NA;NA;NA;NA;NA;NA;"prec";"snow";NA;NA;NA;2
+"L3LYSITT";12.651237;50.022636;980;"Lysina";"Lysina";"TOTAL";NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;0
+"L3NEJD01";12.715486;50.335684;609;"Nejdek";"Nejdek";"AKS3";TRUE;"SRA";"SCE";NA;NA;NA;NA;NA;"tmean";"tmax";"tmin";NA;"prec";"snow";NA;NA;NA;5
+"L3OLOV01";12.558916;50.246202;545;"OlovÌ";"OlovÌ";"MSS";NA;"SRA";"SCE";NA;NA;NA;NA;NA;NA;NA;NA;NA;"prec";"snow";NA;NA;NA;2
+"L3PREB01";12.615467;50.37246;904;"P¯ebuz";"P¯ebuz";"ASS";NA;"SRA";NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;"prec";"snow";NA;NA;NA;2
+"L3SEMN01";12.993213;50.245531;367;"äemnice";"äemnice, Dubina";"MSS";NA;"SRA";"SCE";NA;NA;NA;NA;NA;NA;NA;NA;NA;"prec";"snow";NA;NA;NA;2
+"L3SIND01";12.597466;50.317449;589;"äindelov·";"äindelov·, Obora";"AKS1";TRUE;"SRA";"SCE";NA;"SSV";NA;FALSE;NA;"tmean";"tmax";"tmin";"humid";"prec";"snow";"solr";"wind";NA;8
+"L3SOKO01";12.639266;50.176985;407;"Sokolov";"Sokolov";"AKS2";TRUE;"SRA";"SCE";NA;"SSV";NA;FALSE;NA;"tmean";"tmax";"tmin";"humid";"prec";"snow";"solr";"wind";NA;8
+"L3STRA01";13.051677;50.338823;330;"Str·û nad Oh¯Ì";"Str·û nad Oh¯Ì";"ASS";NA;"SRA";"SCE";NA;NA;NA;NA;NA;NA;NA;NA;NA;"prec";"snow";NA;NA;NA;2
+"L4LAKY01";12.641703;50.011397;835;"L·znÏ Kynûvart";"L·znÏ Kynûvart, Kr·lovka";"ASNS";TRUE;NA;NA;"SCEa";NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;0
+"L4PERK01";12.779285;50.363232;842;"Pernink";"Pernink";"ASNS";TRUE;NA;NA;"SCEa";NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;0
+"L4PRAH01";13.81838;49.65889;862;"Praha";"Praha, Brdy";"ASNS";TRUE;NA;NA;"SCEa";NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;0
+"L4RYBN01";12.69832;49.515385;710;"RybnÌk";"RybnÌk";"ASNS";TRUE;NA;NA;"SCEa";NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;0
+"L4TESL01";13.761819;49.619132;720;"VÏöÌn";"VÏöÌn, TeslÌny";"ASNS";TRUE;NA;NA;"SCEa";NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;0
+"O1BEDO01";17.1991;50.15446;565;"BÏl· pod PradÏdem";"BÏl· pod PradÏdem, Domaöov";"MSS";NA;"SRA";"SCE";NA;NA;NA;NA;NA;NA;NA;NA;NA;"prec";"snow";NA;NA;NA;2
+"O1BELA01";17.1678;50.1586;670;"BÏl· pod PradÏdem";"BÏl· pod PradÏdem, Filipovice";"ASS";NA;"SRA";NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;"prec";"snow";NA;NA;NA;2
+"O1BELO01";17.8042;49.5869;306;"BÏlotÌn";"BÏlotÌn";"AKS1";TRUE;"SRA";"SCE";NA;"SSV";NA;FALSE;NA;"tmean";"tmax";"tmin";"humid";"prec";"snow";"solr";"wind";NA;8
+"O1BILA01";18.5233;49.4547;720;"BÌl·";"BÌl·, KoneËn·";"AKS2";TRUE;"SRA";"SCE";NA;NA;NA;FALSE;NA;"tmean";"tmax";"tmin";"humid";"prec";"snow";NA;"wind";NA;7
+"O1BILH01";18.3806;49.4222;770;"BÌl·";"BÌl·, Hlavat·";"MSS";NA;"SRA";"SCE";NA;NA;NA;NA;NA;"tmean";NA;NA;NA;"prec";"snow";NA;NA;NA;3
+"O1BILO01";17.9917;49.7617;290;"BÌlovec";"BÌlovec";"MSS";NA;"SRA";"SCE";NA;NA;NA;NA;NA;"tmean";NA;NA;NA;"prec";"snow";NA;NA;NA;3
+"O1BOHU01";18.3692;49.882;237;"BohumÌn";"BohumÌn, Z·blatÌ";"AKS2";TRUE;"SRA";"SCE";NA;"SSV";NA;FALSE;NA;"tmean";"tmax";"tmin";"humid";"prec";"snow";"solr";"wind";NA;8
+"O1BUDI01";17.6319;49.7972;530;"Budiöov nad Budiöovkou";"Budiöov nad Budiöovkou";"MSS";NA;"SRA";"SCE";NA;NA;NA;NA;NA;NA;NA;NA;NA;"prec";"snow";NA;NA;NA;2
+"O1CANTTT";18.7958;49.6792;974;"Velk· »antoryje";"Velk· »antoryje";"TOTAL";NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;0
+"O1CERN01";17.1536;50.3092;320;"»ern· Voda";"»ern· Voda";"MSS";NA;"SRA";"SCE";NA;NA;NA;NA;NA;NA;NA;NA;NA;"prec";"snow";NA;NA;NA;2
+"O1CERV01";17.541944;49.777222;748.13;"»erven·";"»erven·";"AMS1";TRUE;"SRA";"SCE";NA;"SSV";"P";FALSE;NA;"tmean";"tmax";"tmin";"humid";"prec";"snow";"solr";"wind";"pres";9
+"O1DEHY01";18.1667;49.8694;292;"DÏhylov";"DÏhylov";"MSS";NA;"SRA";"SCE";NA;NA;NA;NA;NA;NA;NA;NA;NA;"prec";"snow";NA;NA;NA;2
+"O1DLOU01";17.5011;49.9592;520;"Dlouh· Str·Ú";"Dlouh· Str·Ú";"MSS";NA;"SRA";"SCE";NA;NA;NA;NA;NA;NA;NA;NA;NA;"prec";"snow";NA;NA;NA;2
+"O1FMOL01";18.315833;49.666667;312;"Fr˝dek-MÌstek";"Fr˝dek-MÌstek, MÌstek";"AKS2";TRUE;"SRA";"SCE";NA;"SSV";NA;FALSE;NA;"tmean";"tmax";"tmin";"humid";"prec";"snow";"solr";"wind";NA;8
+"O1FREN01";18.240568;49.541055;436;"Frenöt·t pod RadhoötÏm";"Frenöt·t pod RadhoötÏm";"AKS2";TRUE;"SRA";"SCE";NA;"SSV";NA;FALSE;NA;"tmean";"tmax";"tmin";"humid";"prec";"snow";"solr";"wind";NA;8
+"O1FULN01";17.93251;49.7235;340;"Fulnek";"Fulnek, Kostelec";"MSS";NA;"SRA";"SCE";NA;NA;NA;NA;NA;NA;NA;NA;NA;"prec";"snow";NA;NA;NA;2
+"O1GRUNTT";18.495;49.4908;855;"GruÚ";"GruÚ, Kozlena";"TOTAL";NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;0
+"O1HAMR01";18.4389;49.4681;527;"StarÈ Hamry";"StarÈ Hamry, SamËanka";"MSS";NA;"SRA";"SCE";NA;NA;NA;NA;NA;NA;"tmax";"tmin";NA;"prec";"snow";NA;NA;NA;4
+"O1HART01";17.575278;49.888611;516;"Slezsk· Harta";"Slezsk· Harta";"AKS3";TRUE;"SRA";"SCE";NA;NA;NA;NA;NA;"tmean";"tmax";"tmin";"humid";"prec";"snow";NA;NA;NA;6
+"O1HAT001";18.2542;49.9458;220;"Haù";"Haù";"MSS";NA;"SRA";"SCE";NA;NA;NA;NA;NA;NA;NA;NA;NA;"prec";"snow";NA;NA;NA;2
+"O1HAVI01";18.4406;49.7656;259;"HavÌ¯ov";"HavÌ¯ov, Bludovice";"MSS";NA;"SRA";"SCE";NA;NA;NA;NA;NA;NA;NA;NA;NA;"prec";"snow";NA;NA;NA;2
+"O1HERM01";17.3816;50.1985;665;"He¯manovice";"He¯manovice";"MSS";NA;"SRA";"SCE";NA;NA;NA;NA;NA;NA;NA;NA;NA;"prec";"snow";NA;NA;NA;2
+"O1HOLO01";18.637779;49.534088;582;"HornÌ Lomn·";"HornÌ Lomn·";"AKS3";TRUE;"SRA";"SCE";NA;NA;NA;NA;NA;"tmean";"tmax";"tmin";"humid";"prec";"snow";NA;NA;NA;6
+"O1HRAB01";18.0533;49.8783;395;"HrabynÏ";"HrabynÏ";"MSS";NA;"SRA";"SCE";NA;NA;NA;NA;NA;NA;NA;NA;NA;"prec";"snow";NA;NA;NA;2
+"O1HRAD01";17.8769;49.8728;275;"Hradec nad MoravicÌ";"Hradec nad MoravicÌ";"MSS";NA;"SRA";"SCE";NA;NA;NA;NA;NA;NA;NA;NA;NA;"prec";"snow";NA;NA;NA;2
+"O1HRCA01";18.834167;49.521111;612;"HrËava";"HrËava";"MSS";NA;"SRA";"SCE";NA;NA;NA;NA;NA;NA;NA;NA;NA;"prec";"snow";NA;NA;NA;2
+"O1HUKV01";18.2208;49.6428;292;"Hukvaldy";"Hukvaldy, Rychaltice";"MSS";NA;"SRA";"SCE";NA;NA;NA;NA;NA;"tmean";NA;NA;NA;"prec";"snow";NA;NA;NA;3
+"O1HZIV01";17.949444;49.690556;256;"HladkÈ éivotice";"HladkÈ éivotice";"AKS";TRUE;"SRA";NA;NA;NA;NA;NA;NA;"tmean";"tmax";"tmin";"humid";"prec";NA;NA;NA;NA;5
+"O1CHLN01";18.119769;49.991679;258;"Chucheln·";"Chucheln·";"AKS4";TRUE;"SRA";NA;NA;NA;NA;NA;NA;"tmean";"tmax";"tmin";"humid";"prec";NA;NA;NA;NA;5
+"O1JABL01";18.7503;49.5875;380;"Jablunkov";"Jablunkov, N·vsÌ";"AKS2";TRUE;"SRA";"SCE";NA;"SSV";"P";FALSE;NA;"tmean";"tmax";"tmin";"humid";"prec";"snow";"solr";"wind";"pres";9
+"O1JAVO01";17.0075;50.3956;284;"JavornÌk";"JavornÌk";"AKS1";TRUE;"SRA";"SCE";NA;"SSV";"P";FALSE;NA;"tmean";"tmax";"tmin";"humid";"prec";"snow";"solr";"wind";"pres";9
+"O1JAVR01";18.627222;49.628333;930;"T¯inec";"T¯inec, Old¯ichovice, Javorov˝";"AKS4";TRUE;NA;NA;NA;NA;NA;FALSE;NA;"tmean";"tmax";"tmin";"humid";NA;NA;NA;"wind";NA;5
+"O1JESE01";17.183333;50.231111;502;"JesenÌk";"JesenÌk";"AKS2";TRUE;"SRA";"SCE";NA;"SSV";NA;FALSE;NA;"tmean";"tmax";"tmin";"humid";"prec";"snow";"solr";"wind";NA;8
+"O1JISL01";17.5231;50.2525;358.2;"Jind¯ichov";"Jind¯ichov";"MSS";NA;"SRA";"SCE";NA;NA;NA;NA;NA;"tmean";"tmax";"tmin";"humid";"prec";"snow";NA;"wind";NA;7
+"O1KARL01";17.454841;50.109463;502;"Karlovice";"Karlovice";"ASS";NA;"SRA";"SCE";NA;NA;NA;NA;NA;"tmean";NA;NA;NA;"prec";"snow";NA;NA;NA;3
+"O1KARV01";18.5332;49.8549;224;"Karvin·";"Karvin·";"AKS2";TRUE;"SRA";"SCE";NA;NA;NA;FALSE;NA;"tmean";"tmax";"tmin";"humid";"prec";"snow";"solr";"wind";"pres";9
+"O1KAST01";17.306832;50.074053;795;"Karlova Stud·nka";"Karlova Stud·nka";"AKS3";TRUE;"SRA";"SCE";NA;"SSV";NA;FALSE;NA;"tmean";"tmax";"tmin";"humid";"prec";"snow";"solr";"wind";"pres";9
+"O1KLIM01";18.1347;49.7844;240;"Klimkovice";"Klimkovice";"MSS";NA;"SRA";"SCE";NA;NA;NA;NA;NA;"tmean";"tmax";"tmin";"humid";"prec";"snow";NA;"wind";NA;7
+"O1KLINTT";17.1967;50.12;1099;"Mal˝ KlÌn";"Mal˝ KlÌn";"TOTAL";NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;0
+"O1KRNO01";17.6922;50.078;360;"Krnov";"Krnov";"AKS2";TRUE;"SRA";"SCE";NA;"SSV";"P";FALSE;NA;"tmean";"tmax";"tmin";"humid";"prec";"snow";"solr";"wind";"pres";9
+"O1LICH01";17.633611;50.011111;389;"Lichnov";"Lichnov";"ASS";NA;"SRA";"SCE";NA;NA;NA;NA;NA;NA;NA;NA;NA;"prec";"snow";NA;NA;NA;2
+"O1LORY01";17.41431;49.8691;594;"Lomnice";"Lomnice";"ASS";NA;"SRA";"SCE";NA;NA;NA;NA;NA;NA;NA;NA;NA;"prec";"snow";NA;NA;NA;2
+"O1LUCI01";18.4425;49.7308;300;"LuËina";"LuËina";"AKS1";TRUE;"SRA";"SCE";NA;"SSV";NA;FALSE;NA;"tmean";"tmax";"tmin";"humid";"prec";"snow";"solr";"wind";NA;8
+"O1LYSA01";18.4475;49.546111;1322.03;"Lys· hora";"Lys· hora";"AMS1";TRUE;"SRA";"SCE";NA;"SSV";"P";FALSE;NA;"tmean";"tmax";"tmin";"humid";"prec";"snow";"solr";"wind";"pres";9
+"O1MAMO01";17.259444;50.025278;775;"Mal· Mor·vka";"Mal· Mor·vka, Karlov";"MSS";NA;"SRA";"SCE";NA;NA;NA;NA;NA;NA;NA;NA;NA;"prec";"snow";NA;NA;NA;2
+"O1MELC01";17.756944;49.849444;478;"MelË";"MelË";"MSS";NA;"SRA";"SCE";NA;NA;NA;NA;NA;"tmean";NA;NA;NA;"prec";"snow";NA;NA;NA;3
+"O1MIKU01";17.3231;50.3006;321;"Mikulovice";"Mikulovice";"MSS";NA;"SRA";"SCE";NA;NA;NA;NA;NA;NA;NA;NA;NA;"prec";"snow";NA;NA;NA;2
+"O1MOLU01";18.55;49.532588;600;"Mor·vka";"Mor·vka, L˙Ëka";"MSS";NA;"SRA";"SCE";NA;NA;NA;NA;NA;NA;NA;NA;NA;"prec";"snow";NA;NA;NA;2
+"O1MORK01";18.057778;49.5414;345;"Mo¯kov";"Mo¯kov";"AKS3";TRUE;"SRA";"SCE";NA;NA;NA;FALSE;NA;"tmean";"tmax";"tmin";"humid";"prec";"snow";NA;"wind";NA;7
+"O1MOSN01";18.112778;49.691944;252.8;"Moönov";"Moönov";"AMS";TRUE;"SRA";"SCE";NA;"SSV";"P";FALSE;"RGLB_D";"tmean";"tmax";"tmin";"humid";"prec";"snow";"solr";"wind";"pres";9
+"O1NERA01";18.4147;49.9153;208;"DolnÌ LutynÏ";"DolnÌ LutynÏ, Nerad";"MSS";NA;"SRA";"SCE";NA;NA;NA;NA;NA;"tmean";NA;NA;NA;"prec";"snow";NA;NA;NA;3
+"O1NOJI01";18.031111;49.6;291;"Nov˝ JiËÌn";"Nov˝ JiËÌn";"MSS";NA;"SRA";"SCE";NA;NA;NA;NA;NA;"tmean";"tmax";"tmin";"humid";"prec";"snow";"solr";"wind";NA;8
+"O1NYDE01";18.755463;49.655692;400;"N˝dek";"N˝dek";"MSS";NA;"SRA";"SCE";NA;NA;NA;NA;NA;NA;NA;NA;NA;"prec";"snow";NA;NA;NA;2
+"O1NYFI01";18.788599;49.616676;745;"N˝dek";"N˝dek, Filipka";"AKS4";TRUE;"SRA";NA;NA;NA;NA;NA;NA;"tmean";"tmax";"tmin";"humid";"prec";NA;NA;NA;NA;5
+"O1ODRY01";17.82;49.670833;305;"Odry";"Odry";"MSS";NA;"SRA";"SCE";NA;NA;NA;NA;NA;"tmean";NA;NA;NA;"prec";"snow";NA;NA;NA;3
+"O1OPAV01";17.8761;49.9197;270;"Opava";"Opava, Otice";"AKS1";TRUE;"SRA";"SCE";NA;"SSV";NA;FALSE;NA;"tmean";"tmax";"tmin";"humid";"prec";"snow";"solr";"wind";NA;8
+"O1OSCE01";18.400556;49.525833;435;"Ostravice";"Ostravice";"MSS";NA;"SRA";"SCE";NA;NA;NA;NA;NA;"tmean";NA;NA;NA;"prec";"snow";NA;NA;NA;3
+"O1OSLZ01";18.317553;49.844977;269;"Ostrava";"Ostrava, Slezsk· Ostrava";"AKS4";TRUE;"SRA";NA;NA;NA;NA;NA;NA;"tmean";"tmax";"tmin";"humid";"prec";"snow";NA;"wind";NA;7
+"O1OSOB01";17.7135;50.2709;238;"Osoblaha";"Osoblaha";"AKS4";TRUE;"SRA";"SCE";NA;"SSV";NA;FALSE;NA;"tmean";"tmax";"tmin";"humid";"prec";"snow";"solr";"wind";NA;8
+"O1PASK01";18.3031;49.7244;254;"Paskov";"Paskov";"MSS";NA;"SRA";"SCE";NA;NA;NA;NA;NA;"tmean";NA;NA;NA;"prec";"snow";NA;NA;NA;3
+"O1PORU01";18.159444;49.8253;238.6;"Ostrava";"Ostrava, Poruba";"AKS1";TRUE;"SRA";"SCE";NA;"SSV";"P";FALSE;"RGLB_D";"tmean";"tmax";"tmin";"humid";"prec";"snow";"solr";"wind";"pres";9
+"O1PRIB01";18.1342;49.6403;307;"P¯Ìbor";"P¯Ìbor";"MSS";NA;"SRA";"SCE";NA;NA;NA;NA;NA;"tmean";NA;NA;NA;"prec";"snow";NA;NA;NA;3
+"O1PSTR01";18.348889;49.559167;400;"PstruûÌ";"PstruûÌ";"MSS";NA;"SRA";"SCE";NA;NA;NA;NA;NA;NA;NA;NA;NA;"prec";"snow";NA;NA;NA;2
+"O1RAMZ01";17.0656;50.1944;740;"Ostruûn·";"Ostruûn·, Ramzov·";"MSS";NA;"SRA";"SCE";NA;NA;NA;NA;NA;"tmean";NA;NA;NA;"prec";"snow";NA;NA;NA;3
+"O1RASK01";18.4708;49.6228;397;"Raökovice";"Raökovice";"MSS";NA;"SRA";"SCE";NA;NA;NA;NA;NA;NA;NA;NA;NA;"prec";"snow";NA;NA;NA;2
+"O1ROPI01";18.6125;49.6975;327;"Ropice";"Ropice";"AKS3";TRUE;"SRA";"SCE";NA;NA;NA;NA;NA;"tmean";"tmax";"tmin";"humid";"prec";"snow";NA;"wind";NA;7
+"O1ROPITT";18.5597;49.6169;880;"RopiËka";"RopiËka";"TOTAL";NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;0
+"O1RYMA01";17.296111;49.931389;578;"R˝ma¯ov";"R˝ma¯ov";"AKS4";TRUE;"SRA";NA;NA;"SSV";NA;FALSE;NA;"tmean";"tmax";"tmin";"humid";"prec";"snow";"solr";"wind";NA;8
+"O1RYMH01";17.286667;49.955833;643;"R˝ma¯ov";"R˝ma¯ov, Harrachov";"MSS";NA;"SRA";"SCE";NA;NA;NA;NA;NA;"tmean";"tmax";"tmin";"humid";"prec";"snow";NA;"wind";NA;7
+"O1SENO01";18.380278;49.770556;258;"äenov";"äenov, LapaËka";"MSS";NA;"SRA";"SCE";NA;NA;NA;NA;NA;NA;NA;NA;NA;"prec";"snow";NA;NA;NA;2
+"O1SERA01";17.108333;50.1875;1328;"äer·k";"äer·k";"AMS1";TRUE;"SRA";"SCE";NA;"SSV";"P";FALSE;NA;"tmean";"tmax";"tmin";"humid";"prec";"snow";"solr";"wind";"pres";9
+"O1SERATT";17.1075;50.1883;1320;"äer·k";"äer·k";"TOTAL";NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;0
+"O1SKRI01";17.9139;49.8178;485;"Sk¯ipov";"Sk¯ipov";"MSS";NA;"SRA";"SCE";NA;NA;NA;NA;NA;NA;NA;NA;NA;"prec";"snow";NA;NA;NA;2
+"O1SKRTTT";17.151505;49.999157;876;"Sk¯Ìtek";"Sk¯Ìtek, SobotÌn, Rudoltice";"TOTAL";NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;0
+"O1SUDI01";18.0736;50.0319;217;"Sudice";"Sudice";"MSS";NA;"SRA";"SCE";NA;NA;NA;NA;NA;NA;NA;NA;NA;"prec";"snow";NA;NA;NA;2
+"O1SVET01";17.4011;50.0331;593;"SvÏtl· Hora";"SvÏtl· Hora";"AKS1";TRUE;"SRA";NA;"SCEa";"SSV";NA;FALSE;NA;"tmean";"tmax";"tmin";"humid";"prec";"snow";"solr";"wind";NA;8
+"O1TEHR01";18.531667;49.735278;356;"TÏrlicko";"TÏrlicko, HradiötÏ";"MSS";NA;"SRA";"SCE";NA;NA;NA;NA;NA;NA;NA;NA;NA;"prec";"snow";NA;NA;NA;2
+"O1TYRA01";18.6494;49.6258;500;"Tyra";"Tyra";"MSS";NA;"SRA";"SCE";NA;NA;NA;NA;NA;"tmean";NA;NA;NA;"prec";"snow";NA;NA;NA;3
+"O1UHNV01";16.984708;50.332069;615;"Uheln·";"Uheln·, NovÈ VilÈmovice";"AKS4";TRUE;"SRA";NA;NA;NA;NA;NA;NA;"tmean";"tmax";"tmin";"humid";"prec";NA;NA;NA;NA;5
+"O1VEKR01";17.179638;50.370798;235;"Velk· Kraö";"Velk· Kraö";"MSS";NA;"SRA";"SCE";NA;NA;NA;NA;NA;NA;NA;NA;NA;"prec";"snow";NA;NA;NA;2
+"O1VIDL01";17.2717;50.1056;774;"Vidly";"Vidly";"MSS";NA;"SRA";"SCE";NA;NA;NA;NA;NA;NA;NA;NA;NA;"prec";"snow";NA;NA;NA;2
+"O1VIDN01";17.1917;50.37794;228;"Vidnava";"Vidnava";"AKS4";TRUE;"SRA";"SCE";NA;NA;NA;NA;NA;"tmean";"tmax";"tmin";"humid";"prec";"snow";NA;NA;NA;6
+"O1VITK01";17.757308;49.778037;491;"VÌtkov";"VÌtkov";"AKS2";TRUE;"SRA";"SCE";NA;NA;NA;FALSE;NA;"tmean";"tmax";"tmin";"humid";"prec";"snow";NA;"wind";NA;7
+"O1ZARY01";17.560556;50.154167;498;"MÏsto Albrechtice";"MÏsto Albrechtice, é·ry";"AKS4";TRUE;"SRA";NA;"SCEa";NA;NA;NA;NA;"tmean";"tmax";"tmin";"humid";"prec";"snow";"solr";"wind";NA;8
+"O1ZLHO01";17.3926;50.252778;444;"ZlatÈ Hory";"ZlatÈ Hory";"AKS4";TRUE;"SRA";NA;"SCEa";NA;NA;NA;NA;"tmean";"tmax";"tmin";"humid";"prec";"snow";NA;NA;NA;6
+"O1ZLHR01";17.3926;50.263;407;"ZlatÈ Hory";"ZlatÈ Hory";"MSS";NA;"SRA";"SCE";NA;NA;NA;NA;NA;NA;NA;NA;NA;"prec";"snow";NA;NA;NA;2
+"O2BEZD01";16.7567;49.7;315;"Moravsk· T¯ebov·";"Moravsk· T¯ebov·, BezdÏËÌ, Uner·zka";"MSS";NA;"SRA";"SCE";NA;NA;NA;NA;NA;NA;NA;NA;NA;"prec";"snow";NA;NA;NA;2
+"O2BRAN01";17.0129;50.1324;548;"Brann·";"Brann·, Frantiökov";"ASS";NA;"SRA";"SCE";"SCEa";NA;NA;NA;NA;NA;NA;NA;NA;"prec";"snow";NA;NA;NA;2
+"O2CERO01";16.7394;50.0453;535;"»erven· Voda";"»erven· Voda";"ASS";NA;"SRA";"SCE";NA;NA;NA;NA;NA;NA;NA;NA;NA;"prec";"snow";NA;NA;NA;2
+"O2DSDN01";17.1794;50.0853;765;"DlouhÈ Str·nÏ";"DlouhÈ Str·nÏ, Kouty nad Desnou";"ASS";NA;"SRA";NA;"SCEa";NA;NA;NA;NA;NA;NA;NA;NA;"prec";"snow";NA;NA;NA;2
+"O2DUBI01";16.9662;49.8269;282;"Dubicko";"Dubicko";"AKS3";TRUE;"SRA";"SCE";NA;"SSV";NA;FALSE;NA;"tmean";"tmax";"tmin";"humid";"prec";"snow";"solr";"wind";NA;8
+"O2HANU01";16.940556;50.0819;432;"Hanuöovice";"Hanuöovice";"AKS3";TRUE;"SRA";"SCE";NA;NA;NA;NA;NA;"tmean";"tmax";"tmin";"humid";"prec";"snow";NA;NA;NA;6
+"O2HOSJ01";16.7703;49.8744;305;"Hoötejn";"Hoötejn";"ASS";NA;"SRA";NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;"prec";"snow";NA;NA;NA;2
+"O2JEVI01";16.7269;49.6297;342;"JevÌËko";"JevÌËko";"AKS1";TRUE;"SRA";"SCE";NA;"SSV";NA;FALSE;NA;"tmean";"tmax";"tmin";"humid";"prec";"snow";"solr";"wind";NA;8
+"O2KRALTT";16.851393;50.204171;1369;"Kr·lick˝ SnÏûnÌk";"Kr·lick˝ SnÏûnÌk";"TOTAL";NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;0
+"O2LANS01";16.625;49.9028;362;"Lanökroun";"Lanökroun";"AKS4";TRUE;"SRA";NA;NA;NA;NA;NA;NA;"tmean";"tmax";"tmin";"humid";"prec";"snow";NA;NA;NA;6
+"O2LOSI01";17.051365;50.038056;411;"VelkÈ Losiny";"VelkÈ Losiny";"ASS";NA;"SRA";"SCE";NA;NA;NA;NA;NA;"tmean";"tmax";"tmin";"humid";"prec";"snow";"solr";"wind";NA;8
+"O2LUKA01";16.953333;49.652222;510;"Luk·";"Luk·";"AMS1";TRUE;"SRA";"SCE";NA;"SSV";"P";FALSE;"RGLB_D";"tmean";"tmax";"tmin";"humid";"prec";"snow";"solr";"wind";"pres";9
+"O2MEHL01";17.037966;49.782412;268;"Medlov";"Medlov, Hlivice";"MKS";TRUE;"SRA";"SCE";NA;"SSV";"P";FALSE;NA;"tmean";"tmax";"tmin";"humid";"prec";"snow";"solr";"wind";"pres";9
+"O2MIRO01";16.839447;49.796164;370;"MÌrov";"MÌrov, MÌroveËek";"MSS";NA;"SRA";"SCE";NA;NA;NA;NA;NA;NA;NA;NA;NA;"prec";"snow";NA;NA;NA;2
+"O2OLKL01";17.264465;49.608795;215;"Olomouc";"Olomouc, Kl·öternÌ Hradisko";"MSS";NA;"SRA";"SCE";NA;NA;NA;NA;NA;"tmean";"tmax";"tmin";"humid";"prec";"snow";NA;"wind";NA;7
+"O2OLOM01";17.2844;49.5758;210;"Olomouc";"Olomouc, Holice";"AKS1";TRUE;"SRA";"SCE";NA;"SSV";NA;FALSE;NA;"tmean";"tmax";"tmin";"humid";"prec";"snow";"solr";"wind";NA;8
+"O2OSKA01";17.134781;49.90482;360;"Oskava";"Oskava";"ASS";NA;"SRA";"SCE";NA;NA;NA;NA;NA;NA;NA;NA;NA;"prec";"snow";NA;NA;NA;2
+"O2PAPR01";16.988889;50.209444;1006;"StarÈ MÏsto pod SnÏûnÌkem";"StarÈ MÏsto pod SnÏûnÌkem, Paprsek";"AKS3";TRUE;"SRA";"SCE";NA;NA;NA;NA;NA;"tmean";"tmax";"tmin";"humid";"prec";"snow";NA;NA;NA;6
+"O2PASE01";17.2345;49.7776;271;"Paseka";"Paseka";"AKS4";TRUE;"SRA";NA;NA;"SSV";NA;NA;NA;"tmean";"tmax";"tmin";"humid";"prec";"snow";"solr";"wind";NA;8
+"O2SKLE01";16.8472;50.1278;730;"Mal· Morava";"Mal· Morava, SklenÈ";"MSS";NA;"SRA";"SCE";NA;NA;NA;NA;NA;"tmean";NA;NA;NA;"prec";"snow";NA;NA;NA;3
+"O2SLAM01";16.832833;50.151011;1100;"DolnÌ Morava";"DolnÌ Morava, SlamÏnka";"AKS4";TRUE;"SRA";NA;NA;"SSV";NA;FALSE;NA;"tmean";"tmax";"tmin";"humid";"prec";NA;"solr";"wind";NA;7
+"O2STEP01";17.22473;49.68115;225;"ätÏp·nov";"ätÏp·nov";"MSS";NA;"SRA";"SCE";NA;NA;NA;NA;NA;NA;NA;NA;NA;"prec";"snow";NA;NA;NA;2
+"O2STER01";17.2986;49.725;278;"äternberk";"äternberk";"AKS3";TRUE;"SRA";"SCE";NA;NA;NA;NA;NA;"tmean";"tmax";"tmin";"humid";"prec";"snow";NA;NA;NA;6
+"O2STIT01";16.764343;49.956566;432;"ätÌty";"ätÌty";"AKS4";TRUE;"SRA";NA;NA;NA;NA;NA;NA;"tmean";"tmax";"tmin";"humid";"prec";NA;NA;NA;NA;5
+"O2STKU01";16.9419;50.1928;658;"StarÈ MÏsto pod SnÏûnÌkem";"StarÈ MÏsto pod SnÏûnÌkem, KunËice";"MSS";NA;"SRA";"SCE";NA;NA;NA;NA;NA;"tmean";"tmax";"tmin";"humid";"prec";"snow";NA;"wind";NA;7
+"O2SUMP01";16.9675;49.9742;328;"äumperk";"äumperk";"AKS1";TRUE;"SRA";"SCE";NA;"SSV";"P";FALSE;NA;"tmean";"tmax";"tmin";"humid";"prec";"snow";"solr";"wind";"pres";9
+"O2TREB01";16.6969;49.8158;375;"T¯eba¯ov";"T¯eba¯ov";"AKS2";TRUE;"SRA";"SCE";NA;"SSV";"P";FALSE;NA;"tmean";"tmax";"tmin";"humid";"prec";"snow";"solr";"wind";"pres";9
+"O2UJEZ01";17.482222;49.575556;358;"Velk˝ ⁄jezd";"Velk˝ ⁄jezd";"MSS";NA;"SRA";"SCE";NA;NA;NA;NA;NA;NA;NA;NA;NA;"prec";"snow";NA;NA;NA;2
+"O3BECV01";18.2983;49.4311;565;"HornÌ BeËva";"HornÌ BeËva";"AKS2";TRUE;"SRA";"SCE";NA;"SSV";NA;FALSE;NA;"tmean";"tmax";"tmin";"humid";"prec";"snow";"solr";"wind";NA;8
+"O3BENE01";18.294392;49.397036;855;"VelkÈ Karlovice";"VelkÈ Karlovice, Beneöky";"MSS";NA;"SRA";"SCE";NA;NA;NA;NA;NA;"tmean";"tmax";"tmin";"humid";"prec";"snow";NA;"wind";NA;7
+"O3HOST01";17.8683;49.3514;385;"Hoöù·lkov·";"Hoöù·lkov·";"AKS3";TRUE;"SRA";"SCE";NA;NA;NA;NA;NA;"tmean";"tmax";"tmin";"humid";"prec";"snow";"solr";"wind";"pres";9
+"O3HRAN01";17.701389;49.5525;247;"Hranice";"Hranice, Drahotuöe";"MSS";NA;"SRA";"SCE";NA;NA;NA;NA;NA;"tmean";"tmax";"tmin";"humid";"prec";"snow";NA;"wind";NA;7
+"O3HUSL01";18.1261;49.3;450;"Huslenky";"Huslenky, Kychov·";"ASS";NA;"SRA";"SCE";NA;NA;NA;NA;NA;"tmean";"tmax";"tmin";"humid";"prec";"snow";NA;"wind";NA;7
+"O3KATE01";17.873333;49.401111;585;"Kate¯inice";"Kate¯inice, OjiËn·";"AKS";TRUE;"SRA";"SCE";NA;"SSV";NA;FALSE;NA;"tmean";"tmax";"tmin";"humid";"prec";"snow";"solr";"wind";NA;8
+"O3KELC01";17.8281;49.4731;300;"KelË";"KelË";"MSS";NA;"SRA";"SCE";NA;NA;NA;NA;NA;NA;NA;NA;NA;"prec";"snow";NA;NA;NA;2
+"O3LIDE01";18.052524;49.20948;450;"LideËko";"LideËko";"MSS";NA;"SRA";"SCE";NA;NA;NA;NA;NA;NA;NA;NA;NA;"prec";"snow";NA;NA;NA;2
+"O3LIPN01";17.590556;49.521944;227;"LipnÌk nad BeËvou";"LipnÌk nad BeËvou";"MSS";NA;"SRA";"SCE";NA;NA;NA;NA;NA;"tmean";NA;NA;NA;"prec";"snow";NA;NA;NA;3
+"O3MARU01";17.8286;49.3653;664.1;"Hoöù·lkov·";"Hoöù·lkov·, Maruöka";"AKS1";TRUE;"SRA";"SCE";NA;"SSV";"P";FALSE;NA;"tmean";"tmax";"tmin";"humid";"prec";"snow";"solr";"wind";"pres";9
+"O3POTB01";17.6142;49.6238;545;"Potöt·t";"Potöt·t, Boökov";"AKS4";TRUE;"SRA";NA;NA;NA;NA;NA;NA;"tmean";"tmax";"tmin";"humid";"prec";"snow";NA;NA;NA;6
+"O3POTS01";17.6764;49.6417;565;"Potöt·t";"Potöt·t, KyûlÌ¯ov";"MSS";NA;"SRA";"SCE";NA;NA;NA;NA;NA;NA;NA;NA;NA;"prec";"snow";NA;NA;NA;2
+"O3PRER01";17.458889;49.464444;210;"P¯erov";"P¯erov";"AKS2";TRUE;"SRA";"SCE";NA;"SSV";"P";FALSE;NA;"tmean";"tmax";"tmin";"humid";"prec";"snow";"solr";"wind";"pres";9
+"O3PUSTTT";18.279722;49.4917;1014;"Pustevny";"Pustevny";"TOTAL";NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;0
+"O3RAJN01";17.8139;49.4111;405;"Rajnochovice";"Rajnochovice";"MSS";NA;"SRA";"SCE";NA;NA;NA;NA;NA;"tmean";NA;NA;NA;"prec";"snow";NA;NA;NA;3
+"O3ROZN01";18.138224;49.461251;375;"Roûnov pod RadhoötÏm";"Roûnov pod RadhoötÏm";"AKS4";TRUE;"SRA";NA;NA;NA;NA;NA;NA;"tmean";"tmax";"tmin";"humid";"prec";"snow";"solr";"wind";NA;8
+"O3ROZV01";18.112788;49.462778;362;"Roûnov pod RadhoötÏm";"Roûnov pod RadhoötÏm";"MSS";NA;"SRA";"SCE";NA;NA;NA;NA;NA;NA;NA;NA;NA;"prec";"snow";NA;NA;NA;2
+"O3VABY01";18.106298;49.416432;458;"Valaösk· Byst¯ice";"Valaösk· Byst¯ice";"ASS";NA;"SRA";"SCE";NA;NA;NA;NA;NA;"tmean";NA;NA;NA;"prec";"snow";NA;NA;NA;3
+"O3VALM01";17.9742;49.4636;334;"ValaöskÈ Mezi¯ÌËÌ";"ValaöskÈ Mezi¯ÌËÌ";"AKS2";TRUE;"SRA";"SCE";NA;"SSV";NA;FALSE;NA;"tmean";"tmax";"tmin";"humid";"prec";"snow";"solr";"wind";NA;8
+"O3VASE01";18.126944;49.240278;615;"Valaösk· Senice";"Valaösk· Senice";"AKS2";TRUE;"SRA";"SCE";NA;"SSV";NA;FALSE;NA;"tmean";"tmax";"tmin";"humid";"prec";"snow";"solr";"wind";NA;8
+"O3VEKA01";18.286944;49.359444;518;"VelkÈ Karlovice";"VelkÈ Karlovice";"AKS3";TRUE;"SRA";"SCE";NA;NA;NA;NA;NA;"tmean";"tmax";"tmin";"humid";"prec";"snow";NA;NA;NA;6
+"O3VSET01";17.9961;49.3442;387;"VsetÌn";"VsetÌn";"AKS1";TRUE;"SRA";"SCE";NA;"SSV";NA;FALSE;NA;"tmean";"tmax";"tmin";"humid";"prec";"snow";"solr";"wind";NA;8
+"O3ZDEC01";18.0772;49.2639;491;"ZdÏchov";"ZdÏchov";"MSS";NA;"SRA";"SCE";NA;NA;NA;NA;NA;NA;NA;NA;NA;"prec";"snow";NA;NA;NA;2
+"O3ZDECTT";18.0792;49.2444;730;"ZdÏchov";"ZdÏchov";"TOTAL";NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;0
+"O4BENE01";18.292204;49.396303;850;"VelkÈ Karlovice";"VelkÈ Karlovice, Beneöky";"ASNS";TRUE;"SRA";NA;"SCEa";NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;0
+"O4KLEP01";17.133821;50.007192;700;"SobotÌn";"SobotÌn, Klep·Ëov";"ASNS";TRUE;"SRA";NA;"SCEa";NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;0
+"P1BERO01";14.0642;49.9711;265;"Beroun";"Beroun";"MSS";NA;"SRA";"SCE";NA;NA;NA;NA;NA;"tmean";"tmax";"tmin";"humid";"prec";"snow";NA;"wind";NA;7
+"P1DOBE01";14.2758;49.9333;205;"Dob¯ichovice";"Dob¯ichovice";"AKS2";TRUE;"SRA";"SCE";NA;NA;NA;FALSE;NA;"tmean";"tmax";"tmin";"humid";"prec";"snow";NA;"wind";NA;7
+"P1HVOZ01";13.8719;49.7983;425;"Hvozdec";"Hvozdec, MrtnÌk";"ASS";NA;"SRA";"SCE";NA;NA;NA;NA;NA;NA;NA;NA;NA;"prec";"snow";NA;NA;NA;2
+"P1CHRU01";14.1567;49.9964;255;"Chrustenice";"LodÏnice";"MSS";NA;"SRA";"SCE";NA;NA;NA;NA;NA;NA;NA;NA;NA;"prec";"snow";NA;NA;NA;2
+"P1JILS01";14.3319;49.9233;354;"JÌloviötÏ";"JÌloviötÏ";"MSS";NA;"SRA";"SCE";NA;NA;NA;NA;NA;"tmean";NA;NA;NA;"prec";"snow";NA;NA;NA;3
+"P1KAMY01";14.24637;49.63234;280;"Kam˝k nad Vltavou";"Kam˝k nad Vltavou";"ASS";NA;"SRA";"SCE";NA;NA;NA;NA;NA;"tmean";"tmax";"tmin";"humid";"prec";"snow";"solr";"wind";NA;8
+"P1KOLE01";14.2378;50.1989;240;"KoleË";"KoleË";"MSS";NA;"SRA";"SCE";NA;NA;NA;NA;NA;NA;NA;NA;NA;"prec";"snow";NA;NA;NA;2
+"P1KRAL01";14.29;50.2419;220;"Kralupy nad Vltavou";"Kralupy nad Vltavou";"AKS2";TRUE;"SRA";"SCE";NA;NA;NA;FALSE;NA;"tmean";"tmax";"tmin";"humid";"prec";"snow";NA;"wind";NA;7
+"P1KRIV01";13.8808;50.0381;323;"K¯ivokl·t";"K¯ivokl·t";"MSS";NA;"SRA";"SCE";NA;NA;NA;NA;NA;NA;NA;NA;NA;"prec";"snow";NA;NA;NA;2
+"P1LANY01";13.9519;50.1242;415;"L·ny";"L·ny";"AKS1";TRUE;"SRA";"SCE";NA;"SSV";NA;FALSE;NA;"tmean";"tmax";"tmin";"humid";"prec";"snow";"solr";"wind";NA;8
+"P1LITE01";14.1506;49.9033;320;"LiteÚ";"LiteÚ";"MSS";NA;"SRA";"SCE";NA;NA;NA;NA;NA;NA;NA;NA;NA;"prec";"snow";NA;NA;NA;2
+"P1MNIS01";14.2625;49.8694;367;"MnÌöek pod Brdy";"MnÌöek pod Brdy";"MSS";NA;"SRA";"SCE";NA;NA;NA;NA;NA;NA;NA;NA;NA;"prec";"snow";NA;NA;NA;2
+"P1NBEL01";14.2017;49.7067;465;"NeËÌn";"NeËÌn, BÏlohrad";"MSS";NA;"SRA";"SCE";NA;NA;NA;NA;NA;NA;NA;NA;NA;"prec";"snow";NA;NA;NA;2
+"P1NEUM01";14.0375;49.8542;322;"NeumÏtely";"NeumÏtely";"AKS1";TRUE;"SRA";"SCE";NA;"SSV";NA;FALSE;NA;"tmean";"tmax";"tmin";"humid";"prec";"snow";"solr";"wind";NA;8
+"P1NSTR01";13.8942;50.1456;482;"NovÈ StraöecÌ";"NovÈ StraöecÌ";"MSS";NA;"SRA";"SCE";NA;NA;NA;NA;NA;NA;NA;NA;NA;"prec";"snow";NA;NA;NA;2
+"P1PBRE01";14.352689;50.080843;355;"Praha";"Praha, B¯evnov";"ASS";NA;"SRA";NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;"prec";"snow";NA;NA;NA;2
+"P1PCHO01";14.5;50.0294;297;"Praha";"Praha, Chodov";"MSS";NA;"SRA";"SCE";NA;NA;NA;NA;NA;NA;NA;NA;NA;"prec";"snow";NA;NA;NA;2
+"P1PKAR01";14.427778;50.069167;260.5;"Praha";"Praha, Karlov";"AMS1";TRUE;"SRA";"SCE";NA;"SSV";"P";FALSE;"RGLB_D";"tmean";"tmax";"tmin";"humid";"prec";"snow";"solr";"wind";"pres";9
+"P1PKBE01";14.538056;50.123333;284.5;"Praha";"Praha, Kbely";"AMS";TRUE;"SRA";"SCE";NA;"SSV";"P";FALSE;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;0
+"P1PKLE01";14.416923;50.086634;190.7;"Praha";"Praha, Klementinum";"AKS2";TRUE;"SRA";"SCE";NA;"SSV";"P";FALSE;NA;"tmean";"tmax";"tmin";"humid";"prec";"snow";"solr";"wind";"pres";9
+"P1PKLM01";14.416436;50.086341;190.7;"Praha";"Praha, Klementinum";"MKS";TRUE;NA;NA;NA;NA;NA;NA;NA;"tmean";NA;NA;NA;NA;NA;NA;NA;NA;1
+"P1PKOM01";14.40636;49.9886;213;"Praha";"Praha, Komo¯any";"AKS4";TRUE;"SRA";"SCE";NA;NA;NA;NA;NA;"tmean";"tmax";"tmin";"humid";"prec";"snow";NA;NA;NA;6
+"P1PLIB01";14.446944;50.007778;302.04;"Praha";"Praha, Libuö";"AMS1";TRUE;"SRA";"SCE";NA;"SSV";"P";FALSE;"RGLB_D";"tmean";"tmax";"tmin";"humid";"prec";"snow";"solr";"wind";"pres";9
+"P1PODL01";13.9806;49.6897;510;"PodlesÌ";"PodlesÌ";"MSS";NA;"SRA";"SCE";NA;NA;NA;NA;NA;NA;NA;NA;NA;"prec";"snow";NA;NA;NA;2
+"P1PRIB01";14.0225;49.6947;555;"P¯Ìbram";"P¯Ìbram";"AKS1";TRUE;"SRA";"SCE";NA;"SSV";NA;FALSE;NA;"tmean";"tmax";"tmin";"humid";"prec";"snow";"solr";"wind";NA;8
+"P1PRUH01";14.5594;50.0075;312;"Pr˘honice";"Pr˘honice";"AKS4";TRUE;"SRA";NA;NA;NA;NA;FALSE;NA;"tmean";"tmax";"tmin";"humid";"prec";"snow";NA;"wind";NA;7
+"P1PRUZ01";14.255556;50.100278;364;"Praha";"Praha, RuzynÏ";"AMS";TRUE;"SRA";"SCE";NA;"SSV";"P";FALSE;NA;"tmean";"tmax";"tmin";"humid";"prec";"snow";"solr";"wind";"pres";9
+"P1PSUC01";14.3906;50.1436;268;"Praha";"Praha, Suchdol";"MSS";NA;"SRA";"SCE";NA;NA;NA;NA;NA;NA;NA;NA;NA;"prec";"snow";NA;NA;NA;2
+"P1PVIN01";14.46186;50.07584;280;"Praha";"Praha, Vinohrady - Flora";"AKS2";TRUE;"SRA";"SCE";NA;"SSV";NA;FALSE;NA;"tmean";"tmax";"tmin";"humid";"prec";"snow";"solr";"wind";NA;8
+"P1PZKO01";14.3178;50.0072;330;"Praha";"Praha, ZadnÌ Kopanina";"MSS";NA;"SRA";"SCE";NA;NA;NA;NA;NA;NA;NA;NA;NA;"prec";"snow";NA;NA;NA;2
+"P1RPET01";13.9369;49.8272;360;"Rpety";"Rpety";"MSS";NA;"SRA";"SCE";NA;NA;NA;NA;NA;NA;NA;NA;NA;"prec";"snow";NA;NA;NA;2
+"P1SLAN01";14.0903;50.2369;307;"Slan˝";"Slan˝";"ASS";NA;"SRA";NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;"prec";"snow";NA;NA;NA;2
+"P1UVAL01";14.7111;50.0772;260;"⁄valy";"⁄valy";"MSS";NA;"SRA";"SCE";NA;NA;NA;NA;NA;NA;NA;NA;NA;"prec";"snow";NA;NA;NA;2
+"P1VOZN01";14.2128;49.8192;385;"Voznice";"Voznice";"ASS";NA;"SRA";"SCE";NA;NA;NA;NA;NA;NA;NA;NA;NA;"prec";"snow";NA;NA;NA;2
+"P1ZBEC01";13.935;50.0614;262;"ZbeËno";"ZbeËno";"MSS";NA;"SRA";"SCE";NA;NA;NA;NA;NA;NA;NA;NA;NA;"prec";"snow";NA;NA;NA;2
+"P1ZDIC01";13.9714;49.9108;305;"Zdice";"Zdice";"MSS";NA;"SRA";"SCE";NA;NA;NA;NA;NA;NA;NA;NA;NA;"prec";"snow";NA;NA;NA;2
+"P1ZLON01";14.0886;50.2847;231;"Zlonice";"Zlonice";"ASS";NA;"SRA";NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;"prec";"snow";NA;NA;NA;2
+"P2BAKO01";14.9394;50.4806;220;"Bakov nad Jizerou";"Bakov nad Jizerou";"MSS";NA;"SRA";"SCE";NA;NA;NA;NA;NA;NA;NA;NA;NA;"prec";"snow";NA;NA;NA;2
+"P2BAST01";14.4622;50.205;230;"Baöù";"Baöù, BaötÏk";"MSS";NA;"SRA";"SCE";NA;NA;NA;NA;NA;NA;NA;NA;NA;"prec";"snow";NA;NA;NA;2
+"P2BENE01";15.5499;50.6713;780;"Benecko";"Benecko";"MSS";NA;"SRA";"SCE";NA;NA;NA;NA;NA;"tmean";"tmax";"tmin";NA;"prec";"snow";"solr";"wind";NA;7
+"P2BNLO01";15.158215;50.81445;780;"Bed¯ichov";"Bed¯ichov, Nov· louka";"AKS4";TRUE;"SRA";"SCE";NA;NA;NA;NA;NA;"tmean";"tmax";"tmin";NA;"prec";"snow";NA;NA;NA;5
+"P2BOSE01";15.0408;50.5194;390;"BoseÚ";"BoseÚ, Muûsk˝";"ASS";NA;"SRA";"SCE";NA;NA;NA;NA;NA;NA;NA;NA;NA;"prec";"snow";NA;NA;NA;2
+"P2BRAN01";14.6606;50.1897;179;"Brand˝s nad Labem-St.B";"Brand˝s nad Labem-St.B";"AKS1";TRUE;"SRA";"SCE";NA;"SSV";NA;FALSE;NA;"tmean";"tmax";"tmin";"humid";"prec";"snow";"solr";"wind";"pres";9
+"P2BROD01";14.8661;50.3347;220;"Brodce";"Brodce";"MSS";NA;"SRA";"SCE";NA;NA;NA;NA;NA;NA;NA;NA;NA;"prec";"snow";NA;NA;NA;2
+"P2CDUB01";14.9817;50.6836;355;"»esk˝ Dub";"»esk˝ Dub, Modlibohov";"AKS4";TRUE;"SRA";"SCE";"SCEa";NA;NA;FALSE;NA;"tmean";"tmax";"tmin";"humid";"prec";"snow";"solr";"wind";NA;8
+"P2DBOU01";15.141737;50.437897;244;"DolnÌ Bousov";"DolnÌ Bousov";"AKS3";TRUE;"SRA";"SCE";NA;NA;NA;NA;NA;"tmean";"tmax";"tmin";"humid";"prec";"snow";NA;NA;NA;6
+"P2DESN01";15.3197;50.7894;772;"Desn·";"Desn·, Souö";"AKS1";TRUE;"SRA";"SCE";NA;"SSV";NA;FALSE;NA;"tmean";"tmax";"tmin";"humid";"prec";"snow";"solr";"wind";NA;8
+"P2DVOR01";15.514525;50.748172;1115;"DvoraËky";"DvoraËky";"AKS4";TRUE;"SRA";"SCE";"SCEa";NA;NA;NA;NA;"tmean";"tmax";"tmin";"humid";"prec";"snow";NA;NA;NA;6
+"P2HARR01";15.42;50.781667;675;"Harrachov";"Harrachov";"AKS1";TRUE;"SRA";"SCE";"SCEa";"SSV";NA;FALSE;NA;"tmean";"tmax";"tmin";"humid";"prec";"snow";"solr";"wind";NA;8
+"P2HOLE01";15.3022;50.5303;432;"Holenice";"Holenice";"AKS1";TRUE;"SRA";"SCE";NA;"SSV";NA;FALSE;NA;"tmean";"tmax";"tmin";"humid";"prec";"snow";"solr";"wind";NA;8
+"P2CHOT01";14.810102;50.337419;260;"ChotÏtov";"ChotÏtov";"MSS";NA;"SRA";"SCE";NA;NA;NA;NA;NA;NA;NA;NA;NA;"prec";"snow";NA;NA;NA;2
+"P2JDUL01";15.228611;50.778056;623;"Josef˘v D˘l";"Josef˘v D˘l";"ASS";NA;"SRA";"SCE";NA;NA;NA;NA;NA;NA;NA;NA;NA;"prec";"snow";NA;NA;NA;2
+"P2JILE01";15.5125;50.6014;462;"Jilemnice";"Jilemnice";"MSS";NA;"SRA";"SCE";NA;NA;NA;NA;NA;NA;NA;NA;NA;"prec";"snow";NA;NA;NA;2
+"P2JIVI01";14.9492;50.5539;308;"Jivina";"Jivina";"MSS";NA;"SRA";"SCE";NA;NA;NA;NA;NA;NA;NA;NA;NA;"prec";"snow";NA;NA;NA;2
+"P2KATU01";14.7778;50.4444;312;"Katusice";"Katusice";"AKS2";TRUE;"SRA";"SCE";NA;"SSV";NA;FALSE;NA;"tmean";"tmax";"tmin";"humid";"prec";"snow";"solr";"wind";NA;8
+"P2KORE01";15.34444;50.82001;858;"Ko¯enov";"Ko¯enov, Jizerka";"AKS4";TRUE;"SRA";"SCE";NA;"SSV";NA;FALSE;NA;"tmean";"tmax";"tmin";"humid";"prec";"snow";"solr";"wind";NA;8
+"P2KOSA01";14.7046;50.3255;210;"Krop·Ëova Vrutice";"Krop·Ëova Vrutice, St¯Ìûovice";"MSS";NA;"SRA";"SCE";NA;NA;NA;NA;NA;NA;NA;NA;NA;"prec";"snow";NA;NA;NA;2
+"P2KOST01";14.9614;50.1703;185;"Kostomlaty nad Labem";"Kostomlaty nad Labem";"ASS";NA;"SRA";"SCE";NA;NA;NA;NA;NA;NA;NA;NA;NA;"prec";"snow";NA;NA;NA;2
+"P2LOMN01";15.38;50.5383;485;"Lomnice nad Popelkou";"Lomnice nad Popelkou";"ASS";NA;"SRA";"SCE";NA;NA;NA;NA;NA;NA;NA;NA;NA;"prec";"snow";NA;NA;NA;2
+"P2MLBO01";14.91405;50.42267;221;"Mlad· Boleslav";"Mlad· Boleslav";"MSS";NA;"SRA";"SCE";NA;NA;NA;NA;NA;NA;NA;NA;NA;"prec";"snow";NA;NA;NA;2
+"P2MRZK01";14.8075;50.044444;260;"Mrzky";"Mrzky";"AKS4";TRUE;"SRA";"SCE";NA;"SSV";NA;FALSE;NA;"tmean";"tmax";"tmin";"humid";"prec";"snow";"solr";"wind";NA;8
+"P2MSEN01";14.63399;50.44061;340;"Möeno";"Möeno";"ASS";NA;"SRA";"SCE";NA;NA;NA;NA;NA;NA;NA;NA;NA;"prec";"snow";NA;NA;NA;2
+"P2NPAK01";15.5136;50.49;450;"Nov· Paka";"Nov· Paka";"MSS";NA;"SRA";"SCE";NA;NA;NA;NA;NA;NA;NA;NA;NA;"prec";"snow";NA;NA;NA;2
+"P2NVES01";14.7322;50.1764;170;"K·ran˝";"K·ran˝";"ASS";NA;"SRA";NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;"prec";"snow";NA;NA;NA;2
+"P2ROKY01";15.4229;50.7319;525;"Rokytnice nad Jizerou";"Rokytnice nad Jizerou, VilÈmov";"MSS";NA;"SRA";"SCE";NA;NA;NA;NA;NA;NA;NA;NA;NA;"prec";"snow";NA;NA;NA;2
+"P2ROPR01";15.4142;50.6514;550;"Roprachtice";"Roprachtice";"ASS";NA;"SRA";"SCE";NA;NA;NA;NA;NA;NA;NA;NA;NA;"prec";"snow";NA;NA;NA;2
+"P2SEMC01";15.0036;50.3671;234;"SemËice";"SemËice";"AKS1";TRUE;"SRA";"SCE";NA;"SSV";NA;FALSE;NA;"tmean";"tmax";"tmin";"humid";"prec";"snow";"solr";"wind";NA;8
+"P2SEMI01";15.3153;50.6133;370;"Semily";"Semily";"ASS";NA;"SRA";"SCE";NA;NA;NA;NA;NA;NA;NA;NA;NA;"prec";"snow";NA;NA;NA;2
+"P2SMRZ01";15.2511;50.7294;550;"Smrûovka";"Smrûovka";"MSS";NA;"SRA";"SCE";NA;NA;NA;NA;NA;"tmean";"tmax";"tmin";"humid";"prec";"snow";NA;"wind";NA;7
+"P2STUD01";15.55;50.5528;532;"Studenec";"Studenec";"ASS";NA;"SRA";NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;"prec";"snow";NA;NA;NA;2
+"P2TUHA01";14.5206;50.2953;160;"TuhaÚ";"TuhaÚ";"AKS1";TRUE;"SRA";"SCE";NA;"SSV";NA;FALSE;NA;"tmean";"tmax";"tmin";"humid";"prec";"snow";"solr";"wind";"pres";9
+"P2TURN01";15.154444;50.589722;253;"Turnov";"Turnov";"AKS4";TRUE;"SRA";NA;NA;"SSV";NA;FALSE;NA;"tmean";"tmax";"tmin";"humid";"prec";"snow";"solr";"wind";NA;8
+"P2VSEL01";14.950609;50.648954;392;"Vöelibice";"Vöelibice";"MSS";NA;"SRA";"SCE";NA;NA;NA;NA;NA;NA;NA;NA;NA;"prec";"snow";NA;NA;NA;2
+"P2VYSK01";15.408523;50.682981;695;"VysokÈ nad Jizerou";"VysokÈ nad Jizerou";"ASS";NA;"SRA";"SCE";NA;NA;NA;NA;NA;NA;NA;NA;NA;"prec";"snow";NA;NA;NA;2
+"P2ZBRO01";15.2517;50.6408;290;"éelezn˝ Brod";"éelezn˝ Brod";"MSS";NA;"SRA";"SCE";NA;NA;NA;NA;NA;NA;NA;NA;NA;"prec";"snow";NA;NA;NA;2
+"P3BENS01";14.69668;49.78862;343;"Beneöov";"Beneöov";"MSS";NA;"SRA";"SCE";NA;NA;NA;NA;NA;"tmean";"tmax";"tmin";"humid";"prec";"snow";NA;"wind";NA;7
+"P3BOHD01";15.2239;49.7786;460;"BohdaneË";"BohdaneË";"MSS";NA;"SRA";"SCE";NA;NA;NA;NA;NA;NA;NA;NA;NA;"prec";"snow";NA;NA;NA;2
+"P3BOZE01";15.1528;49.3608;611;"Boûejov";"Boûejov";"MSS";NA;"SRA";"SCE";NA;NA;NA;NA;NA;NA;NA;NA;NA;"prec";"snow";NA;NA;NA;2
+"P3DCHV01";15.0656;49.9833;290;"DolnÌ Chvatliny";"DolnÌ Chvatliny";"MSS";NA;"SRA";"SCE";NA;NA;NA;NA;NA;NA;NA;NA;NA;"prec";"snow";NA;NA;NA;2
+"P3DKRA01";15.1597;49.6625;420;"DolnÌ Kralovice";"DolnÌ Kralovice, St¯Ìteû";"MSS";NA;"SRA";"SCE";NA;NA;NA;NA;NA;NA;NA;NA;NA;"prec";"snow";NA;NA;NA;2
+"P3HABR01";15.4869;49.7519;467;"Habry";"Habry";"ASS";NA;"SRA";"SCE";NA;NA;NA;NA;NA;NA;NA;NA;NA;"prec";"snow";NA;NA;NA;2
+"P3HAVL01";15.5797;49.6119;452;"HavlÌËk˘v Brod";"HavlÌËk˘v Brod";"AKS1";TRUE;"SRA";"SCE";NA;"SSV";NA;FALSE;NA;"tmean";"tmax";"tmin";"humid";"prec";"snow";"solr";"wind";NA;8
+"P3HULI01";15.086667;49.721111;378;"Hulice";"Hulice";"AKS4";TRUE;"SRA";NA;NA;"SSV";NA;FALSE;NA;"tmean";"tmax";"tmin";"humid";"prec";"snow";"solr";"wind";NA;8
+"P3HUMP01";15.35278;49.54694;515;"Humpolec";"Humpolec";"MSS";NA;"SRA";"SCE";NA;NA;NA;NA;NA;NA;NA;NA;NA;"prec";"snow";NA;NA;NA;2
+"P3HUMP02";15.35333;49.53528;540;"Humpolec";"Humpolec";"ASS";NA;"SRA";NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;"prec";NA;NA;NA;NA;1
+"P3JABL01";14.4519;49.7808;330;"Jablonn·";"Jablonn·";"MSS";NA;"SRA";"SCE";NA;NA;NA;NA;NA;NA;NA;NA;NA;"prec";"snow";NA;NA;NA;2
+"P3JILO01";14.4681;49.8994;350;"JÌlovÈ u Prahy";"JÌlovÈ u Prahy";"MSS";NA;"SRA";"SCE";NA;NA;NA;NA;NA;NA;NA;NA;NA;"prec";"snow";NA;NA;NA;2
+"P3KOSE01";15.080556;49.573611;532.29;"Koöetice";"Koöetice, K¯eöÌn, KramolÌn";"AMS1";TRUE;"SRA";"SCE";NA;"SSV";"P";FALSE;"RGLB_D";"tmean";"tmax";"tmin";"humid";"prec";"snow";"solr";"wind";"pres";9
+"P3KOST01";14.8356;50.0044;360;"Kostelec n. »ern˝mi Lesy";"Kostelec n. »ern˝mi Lesy";"MSS";NA;"SRA";"SCE";NA;NA;NA;NA;NA;NA;NA;NA;NA;"prec";"snow";NA;NA;NA;2
+"P3KOZM01";14.7942;49.8264;500;"Kozmice";"Kozmice";"MSS";NA;"SRA";"SCE";NA;NA;NA;NA;NA;NA;NA;NA;NA;"prec";"snow";NA;NA;NA;2
+"P3LEDS01";15.284048;49.698597;408;"LedeË nad S·zavou";"LedeË nad S·zavou";"MSS";NA;"SRA";"SCE";NA;NA;NA;NA;NA;NA;NA;NA;NA;"prec";"snow";NA;NA;NA;2
+"P3MLVO01";14.8083;49.5375;445;"Mlad· Voûice";"Mlad· Voûice";"ASS";NA;"SRA";NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;"prec";NA;NA;NA;NA;1
+"P3NACE01";14.9086;49.6044;502;"NaËeradec";"NaËeradec";"MSS";NA;"SRA";"SCE";NA;NA;NA;NA;NA;NA;NA;NA;NA;"prec";"snow";NA;NA;NA;2
+"P3NETV01";14.521178;49.818411;368;"Netvo¯ice";"Netvo¯ice";"AKS4";TRUE;"SRA";"SCE";NA;"SSV";NA;FALSE;NA;"tmean";"tmax";"tmin";"humid";"prec";"snow";"solr";"wind";NA;8
+"P3NIZK01";15.8067;49.5325;526;"NÌûkov";"NÌûkov";"MSS";NA;"SRA";"SCE";NA;NA;NA;NA;NA;NA;NA;NA;NA;"prec";"snow";NA;NA;NA;2
+"P3NRUD01";14.4403;49.6317;348;"Nedrahovice";"Nedrahovice, Rudolec";"AKS1";TRUE;"SRA";"SCE";NA;"SSV";NA;FALSE;NA;"tmean";"tmax";"tmin";"humid";"prec";"snow";"solr";"wind";NA;8
+"P3NRYC01";15.365;49.3858;624;"Nov˝ Rychnov";"Nov˝ Rychnov";"AKS1";TRUE;"SRA";"SCE";NA;"SSV";NA;FALSE;NA;"tmean";"tmax";"tmin";"humid";"prec";"snow";"solr";"wind";NA;8
+"P3ONDR01";14.7847;49.9072;485;"Ond¯ejov";"Ond¯ejov";"AKS1";TRUE;"SRA";"SCE";NA;"SSV";NA;FALSE;NA;"tmean";"tmax";"tmin";"humid";"prec";"snow";"solr";"wind";"pres";9
+"P3PACO01";15.023611;49.463611;494;"Pacov";"Pacov";"ASS";NA;"SRA";"SCE";NA;NA;NA;NA;NA;NA;NA;NA;NA;"prec";"snow";NA;NA;NA;2
+"P3PELH01";15.2344;49.4336;520;"Pelh¯imov";"Pelh¯imov";"MSS";NA;"SRA";"SCE";NA;NA;NA;NA;NA;NA;NA;NA;NA;"prec";"snow";NA;NA;NA;2
+"P3POLN01";15.7061;49.4864;480;"Poln·";"Poln·";"MSS";NA;"SRA";"SCE";NA;NA;NA;NA;NA;NA;NA;NA;NA;"prec";"snow";NA;NA;NA;2
+"P3POST01";14.7833;49.7306;421;"Postupice";"Postupice";"MSS";NA;"SRA";"SCE";NA;NA;NA;NA;NA;NA;NA;NA;NA;"prec";"snow";NA;NA;NA;2
+"P3PRIB01";15.7625;49.582778;532.5;"P¯ibyslav";"P¯ibyslav, H¯iötÏ";"AMS1";TRUE;"SRA";"SCE";NA;"SSV";"P";FALSE;NA;"tmean";"tmax";"tmin";"humid";"prec";"snow";"solr";"wind";"pres";9
+"P3PSAR01";14.9678;49.7536;475;"Ps·¯e";"Ps·¯e";"MSS";NA;"SRA";"SCE";NA;NA;NA;NA;NA;NA;NA;NA;NA;"prec";"snow";NA;NA;NA;2
+"P3REND01";15.08814;49.76873;444;"ÿendÏjov";"ÿendÏjov, Nov˝ Samechov";"MSS";NA;"SRA";"SCE";NA;NA;NA;NA;NA;NA;NA;NA;NA;"prec";"snow";NA;NA;NA;2
+"P3RICA01";14.6717;50.0003;385;"ÿÌËany";"ÿÌËany";"MSS";NA;"SRA";"SCE";NA;NA;NA;NA;NA;NA;NA;NA;NA;"prec";"snow";NA;NA;NA;2
+"P3SAZA01";14.901245;49.876432;350;"S·zava";"S·zava";"MSS";NA;"SRA";"SCE";NA;NA;NA;NA;NA;NA;NA;NA;NA;"prec";"snow";NA;NA;NA;2
+"P3SIMA01";15.4486;49.4614;630;"äimanov";"äimanov";"MSS";NA;"SRA";"SCE";NA;NA;NA;NA;NA;NA;NA;NA;NA;"prec";"snow";NA;NA;NA;2
+"P3STAN01";15.0678;49.9028;415;"Vav¯inec";"Vav¯inec, éÌöov";"AKS2";TRUE;"SRA";"SCE";NA;NA;NA;FALSE;NA;"tmean";"tmax";"tmin";"humid";"prec";"snow";NA;"wind";NA;7
+"P3STOK01";15.5875;49.4983;530;"ätoky";"ätoky";"ASS";NA;"SRA";"SCE";NA;NA;NA;NA;NA;NA;NA;NA;NA;"prec";"snow";NA;NA;NA;2
+"P3STOK02";15.590556;49.501389;520;"ätoky";"ätoky";"MSS";NA;"SRA";NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;"prec";NA;NA;NA;NA;1
+"P3STRE01";14.6181;49.5381;588;"St¯ezimÌ¯";"St¯ezimÌ¯";"MSS";NA;"SRA";"SCE";NA;NA;NA;NA;NA;NA;NA;NA;NA;"prec";"snow";NA;NA;NA;2
+"P3SVET01";15.4075;49.6728;410;"SvÏtl· nad S·zavou";"SvÏtl· nad S·zavou";"MSS";NA;"SRA";"SCE";NA;NA;NA;NA;NA;NA;NA;NA;NA;"prec";"snow";NA;NA;NA;2
+"P3VELI01";14.8233;49.6664;451;"Veliö";"Veliö";"MSS";NA;"SRA";"SCE";NA;NA;NA;NA;NA;NA;NA;NA;NA;"prec";"snow";NA;NA;NA;2
+"P3VLAS01";14.894722;49.691944;415;"Vlaöim";"Vlaöim";"AKS4";TRUE;"SRA";"SCE";"SCEa";"SSV";NA;FALSE;NA;"tmean";"tmax";"tmin";"humid";"prec";"snow";"solr";"wind";NA;8
+"P3VOTI01";14.6333;49.6433;450;"Votice";"Votice";"MSS";NA;"SRA";"SCE";NA;NA;NA;NA;NA;NA;NA;NA;NA;"prec";"snow";NA;NA;NA;2
+"P3ZAHR01";14.5886;49.7325;358;"Maröovice";"Maröovice, Zahr·dka";"MSS";NA;"SRA";"SCE";NA;NA;NA;NA;NA;NA;NA;NA;NA;"prec";"snow";NA;NA;NA;2
+"P3ZDAR01";15.9364;49.5978;605;"éÔ·r nad S·zavou";"éÔ·r nad S·zavou, Strûanov";"ASS";NA;"SRA";NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;"prec";"snow";NA;NA;NA;2
+"P4BHRE01";15.162778;50.835;825;"Bed¯ichov";"Bed¯ichov, H¯ebÌnek";"ASS";NA;NA;"SCE";NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;0
+"P4BKRS01";15.18133;50.81484;805;"Bed¯ichov";"Bed¯ichov, Kristi·nov";"ASS";NA;NA;"SCE";NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;0
+"P4BUPO01";15.193579;50.828693;875;"Bed¯ichov";"Bed¯ichov, U Podkovy";"ASS";NA;NA;"SCE";NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;0
+"P4HKAS01";15.276634;50.825752;912;"Hejnice";"Hejnice, Kas·rensk·";"ASS";NA;"SRA";"SCE";NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;0
+"P4JABL01";15.438379;50.695027;439;"Jablonec nad Jizerou";"Jablonec nad Jizerou";"ASNS";TRUE;NA;"SCE";"SCEa";NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;0
+"P4JDRO01";15.22405;50.82287;993;"Josef˘v D˘l";"Josef˘v D˘l, RozmezÌ";"ASNS";TRUE;NA;"SCE";"SCEa";NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;0
+"P4KJEZ01";15.29299;50.80763;775;"Ko¯enov";"Ko¯enov, Jezdeck·";"ASS";TRUE;"SRA";"SCE";NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;0
+"P4KJIC01";15.304489;50.840495;920;"Ko¯enov";"Ko¯enov, Jizersk· cesta";"ASS";NA;"SRA";"SCE";NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;0
+"P4KKUR01";15.282713;50.831339;880;"Ko¯enov";"Ko¯enov, K˘rovec";"ASS";NA;NA;"SCE";NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;0
+"P4KLAS01";15.35118;50.832423;945;"Ko¯enov";"Ko¯enov, LasiËÌ";"ASS";NA;"SRA";"SCE";NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;0
+"P4KOZA01";15.263056;50.594444;744;"Koz·kov";"Koz·kov";"ASNS";TRUE;NA;"SCE";"SCEa";NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;0
+"P4POLA01";14.844278;49.455925;680;"ChotËiny";"ChotËiny, Pol·nka";"ASNS";TRUE;NA;"SCE";"SCEa";NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;0
+"U1BILI01";13.775657;50.539526;270;"BÌlina";"BÌlina";"MSS";NA;"SRA";"SCE";NA;NA;NA;NA;NA;NA;NA;NA;NA;"prec";"snow";NA;NA;NA;2
+"U1BOLR01";13.415082;50.537395;600;"Bolebo¯";"Bolebo¯";"MSS";NA;"SRA";"SCE";NA;NA;NA;NA;NA;NA;NA;NA;NA;"prec";"snow";NA;NA;NA;2
+"U1BOURTT";13.70631;50.68494;860;"Bou¯Ú·k";"Bou¯Ú·k";"TOTAL";NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;0
+"U1CEJI01";13.58558;50.68706;740;"»esk˝ Ji¯etÌn";"»esk˝ Ji¯etÌn, Fl·je";"MSS";NA;"SRA";"SCE";NA;NA;NA;NA;NA;NA;NA;NA;NA;"prec";"snow";NA;NA;NA;2
+"U1CITO01";13.8164;50.3361;235;"CÌtoliby";"CÌtoliby";"MSS";NA;"SRA";"SCE";NA;NA;NA;NA;NA;NA;NA;NA;NA;"prec";"snow";NA;NA;NA;2
+"U1DLAZ01";13.95222;50.47;278;"Dlaûkovice";"Dlaûkovice";"MSS";NA;"SRA";"SCE";NA;NA;NA;NA;NA;NA;NA;NA;NA;"prec";"snow";NA;NA;NA;2
+"U1DOKS01";14.17;50.45889;158;"Doksany";"Doksany";"AMS1";TRUE;"SRA";"SCE";NA;"SSV";"P";FALSE;"RGLB_D";"tmean";"tmax";"tmin";"humid";"prec";"snow";"solr";"wind";"pres";9
+"U1DUBI01";13.80214;50.68056;402;"DubÌ";"DubÌ";"ASS";NA;"SRA";"SCE";NA;NA;NA;NA;NA;NA;NA;NA;NA;"prec";"snow";NA;NA;NA;2
+"U1HORB01";14.465;50.3422;158;"Ho¯Ìn";"Ho¯Ìn";"MSS";NA;"SRA";"SCE";NA;NA;NA;NA;NA;NA;NA;NA;NA;"prec";"snow";NA;NA;NA;2
+"U1HRIV01";13.732;50.292153;270;"H¯ivice";"H¯ivice";"ASS";NA;"SRA";"SCE";NA;NA;NA;NA;NA;NA;NA;NA;NA;"prec";"snow";NA;NA;NA;2
+"U1HROB01";13.71953;50.654;360;"Hrob";"Hrob, K¯iûanov";"ASS";NA;"SRA";"SCE";NA;NA;NA;NA;NA;NA;NA;NA;NA;"prec";"snow";NA;NA;NA;2
+"U1CHOM01";13.39711;50.46225;362;"Chomutov";"Chomutov";"MSS";NA;"SRA";"SCE";NA;NA;NA;NA;NA;NA;NA;NA;NA;"prec";"snow";NA;NA;NA;2
+"U1JILO01";14.10183;50.76642;310;"JÌlovÈ";"JÌlovÈ";"MSS";NA;"SRA";"SCE";NA;NA;NA;NA;NA;NA;NA;NA;NA;"prec";"snow";NA;NA;NA;2
+"U1KATU01";13.32806;50.37667;322.4;"Tuöimice";"Tuöimice";"AMS1";TRUE;"SRA";"SCE";NA;"SSV";"P";FALSE;"RGLB_D";NA;NA;NA;NA;NA;NA;NA;NA;NA;0
+"U1KLIN01";13.55153;50.63875;807;"KlÌny";"KlÌny";"ASS";NA;"SRA";"SCE";NA;NA;NA;NA;NA;NA;NA;NA;NA;"prec";"snow";NA;NA;NA;2
+"U1KOPI01";13.62278;50.54417;240;"Kopisty";"Kopisty";"AMS1";TRUE;"SRA";"SCE";NA;"SSV";"P";FALSE;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;0
+"U1KRIM01";13.31453;50.499;570;"K¯imov";"K¯imov";"MSS";NA;"SRA";"SCE";NA;NA;NA;NA;NA;NA;NA;NA;NA;"prec";"snow";NA;NA;NA;2
+"U1LIBO01";14.04575;50.39983;165;"Libochovice";"Libochovice, Poplze";"ASS";NA;"SRA";"SCE";NA;NA;NA;NA;NA;NA;NA;NA;NA;"prec";"snow";NA;NA;NA;2
+"U1LUKO01";13.88453;50.52756;502;"Lukov";"Lukov";"MSS";NA;"SRA";"SCE";NA;NA;NA;NA;NA;NA;NA;NA;NA;"prec";"snow";NA;NA;NA;2
+"U1MAST01";13.2828;50.2608;373;"Maöùov";"Maöùov";"ASS";NA;"SRA";"SCE";NA;NA;NA;NA;NA;NA;NA;NA;NA;"prec";"snow";NA;NA;NA;2
+"U1MEDE01";13.13256;50.42936;828;"MÏdÏnec";"MÏdÏnec";"AKS1";TRUE;"SRA";"SCE";NA;"SSV";NA;FALSE;NA;"tmean";"tmax";"tmin";"humid";"prec";"snow";"solr";"wind";NA;8
+"U1MERU01";13.79031;50.47908;367;"MÏrunice";"MÏrunice, éichov";"ASS";NA;"SRA";"SCE";NA;NA;NA;NA;NA;NA;NA;NA;NA;"prec";"snow";NA;NA;NA;2
+"U1MILE01";13.93083;50.555;830.5;"Mileöovka";"Mileöovka";"AMS";TRUE;"SRA";"SCE";NA;"SSV";"P";FALSE;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;0
+"U1MILS01";13.94231;50.53642;348;"Mileöov";"Mileöov";"ASS";NA;"SRA";"SCE";NA;NA;NA;NA;NA;NA;NA;NA;NA;"prec";"snow";NA;NA;NA;2
+"U1NOVE01";13.48561;50.59244;725;"Nov· Ves v Hor·ch";"Nov· Ves v Hor·ch";"AKS1";TRUE;"SRA";"SCE";NA;"SSV";NA;FALSE;NA;"tmean";"tmax";"tmin";"humid";"prec";"snow";"solr";"wind";NA;8
+"U1PAST01";13.38189;50.07036;470;"VeleËÌn";"VeleËÌn, Pastuchovice";"MSS";NA;"SRA";"SCE";NA;NA;NA;NA;NA;NA;NA;NA;NA;"prec";"snow";NA;NA;NA;2
+"U1PEKL01";13.937667;50.767361;631;"Petrovice";"Petrovice, Kr·sn˝ Les";"ASS";NA;"SRA";"SCE";NA;NA;NA;NA;NA;NA;NA;NA;NA;"prec";"snow";NA;NA;NA;2
+"U1PERU01";13.9542;50.3386;350;"Peruc";"Peruc";"MSS";NA;"SRA";"SCE";NA;NA;NA;NA;NA;NA;NA;NA;NA;"prec";"snow";NA;NA;NA;2
+"U1ROUL01";14.25439;50.42622;175;"Roudnice nad Labem";"Roudnice nad Labem";"MSS";NA;"SRA";"SCE";NA;NA;NA;NA;NA;"tmean";"tmax";"tmin";"humid";"prec";"snow";"solr";"wind";NA;8
+"U1SMOL01";13.85617;50.30872;345;"Smolnice";"Smolnice";"AKS1";TRUE;"SRA";"SCE";NA;"SSV";NA;FALSE;NA;"tmean";"tmax";"tmin";"humid";"prec";"snow";"solr";"wind";NA;8
+"U1SNEZ01";14.08536;50.79683;569;"SnÏûnÌk";"SnÏûnÌk";"AKS2";TRUE;"SRA";"SCE";NA;NA;NA;FALSE;NA;"tmean";"tmax";"tmin";"humid";"prec";"snow";NA;"wind";NA;7
+"U1SNEZTT";14.10717;50.79367;716;"SnÏûnÌk";"SnÏûnÌk";"TOTAL";NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;0
+"U1STRJ01";13.47694;50.17378;372;"Strojetice";"Strojetice";"AKS2";TRUE;"SRA";"SCE";NA;"SSV";NA;FALSE;NA;"tmean";"tmax";"tmin";"humid";"prec";"snow";"solr";"wind";NA;8
+"U1STRV01";14.255;50.36389;214;"Straökov-Vodochody";"Straökov-Vodochody";"ASS";NA;"SRA";"SCE";NA;NA;NA;NA;NA;NA;NA;NA;NA;"prec";"snow";NA;NA;NA;2
+"U1TELN01";13.964611;50.725083;340;"Telnice";"Telnice, Varvaûov";"MSS";NA;"SRA";"SCE";NA;NA;NA;NA;NA;NA;NA;NA;NA;"prec";"snow";NA;NA;NA;2
+"U1TEPL01";13.836344;50.645153;227;"Teplice";"Teplice";"AKS1";TRUE;"SRA";"SCE";NA;"SSV";NA;FALSE;NA;"tmean";"tmax";"tmin";"humid";"prec";"snow";"solr";"wind";NA;8
+"U1TISA01";14.02167;50.78694;556;"Tis·";"Tis·";"ASS";NA;"SRA";"SCE";NA;NA;NA;NA;NA;NA;NA;NA;NA;"prec";"snow";NA;NA;NA;2
+"U1ULKO01";14.04111;50.68333;375.39;"⁄stÌ nad Labem";"⁄stÌ nad Labem, KoËkov";"AMS1";TRUE;"SRA";"SCE";NA;"SSV";"P";FALSE;"RGLB_D";"tmean";"tmax";"tmin";"humid";"prec";"snow";"solr";"wind";"pres";9
+"U1ULMA01";14.05831;50.62556;150;"⁄stÌ nad Labem";"⁄stÌ nad Labem, VaÚov";"AKS2";TRUE;"SRA";"SCE";NA;"SSV";"P";FALSE;NA;"tmean";"tmax";"tmin";"humid";"prec";"snow";"solr";"wind";NA;8
+"U1VECE01";13.58406;50.20283;329;"Velk· »ernoc";"Velk· »ernoc";"ASS";NA;"SRA";"SCE";NA;NA;NA;NA;NA;NA;NA;NA;NA;"prec";"snow";NA;NA;NA;2
+"U1VYSL01";13.23853;50.46428;738;"V˝slunÌ";"V˝slunÌ";"MSS";NA;"SRA";"SCE";NA;NA;NA;NA;NA;"tmean";NA;NA;"humid";"prec";"snow";NA;"wind";NA;5
+"U1ZATE01";13.54319;50.34147;210;"éatec";"éatec";"AKS1";TRUE;"SRA";"SCE";NA;"SSV";NA;FALSE;NA;"tmean";"tmax";"tmin";"humid";"prec";"snow";"solr";"wind";"pres";9
+"U2BEDR01";15.13708;50.81511;777;"Bed¯ichov";"Bed¯ichov";"AKS1";TRUE;"SRA";"SCE";NA;"SSV";NA;FALSE;NA;"tmean";"tmax";"tmin";"humid";"prec";"snow";"solr";"wind";NA;8
+"U2BENP01";14.31186;50.74422;250;"Beneöov nad PlouËnicÌ";"Beneöov nad PlouËnicÌ";"MSS";NA;"SRA";"SCE";NA;NA;NA;NA;NA;NA;NA;NA;NA;"prec";"snow";NA;NA;NA;2
+"U2CEKA01";14.42017;50.80283;319;"»esk· Kamenice";"»esk· Kamenice";"MSS";NA;"SRA";"SCE";NA;NA;NA;NA;NA;NA;NA;NA;NA;"prec";"snow";NA;NA;NA;2
+"U2CELI01";14.541141;50.675373;246;"»esk· LÌpa";"»esk· LÌpa";"AKS2";TRUE;"SRA";"SCE";NA;"SSV";NA;FALSE;NA;"tmean";"tmax";"tmin";"humid";"prec";"snow";"solr";"wind";NA;8
+"U2DECI01";14.20258;50.75097;172;"DÏËÌn";"DÏËÌn, K¯eöice";"AKS2";TRUE;"SRA";"SCE";NA;NA;NA;FALSE;NA;"tmean";"tmax";"tmin";"humid";"prec";"snow";"solr";"wind";NA;8
+"U2DECT01";14.20433;50.69783;150;"DÏËÌn";"DÏËÌn, TÏchlovice";"ASS";NA;"SRA";"SCE";NA;NA;NA;NA;NA;NA;NA;NA;NA;"prec";"snow";NA;NA;NA;2
+"U2DOKY01";14.66731;50.56811;284;"Doksy";"Doksy";"AKS1";TRUE;"SRA";"SCE";NA;"SSV";NA;FALSE;NA;"tmean";"tmax";"tmin";"humid";"prec";"snow";"solr";"wind";NA;8
+"U2DUBA01";14.555594;50.536399;258;"Dub·";"Dub·, Nedamov";"MSS";NA;"SRA";"SCE";NA;NA;NA;NA;NA;NA;NA;NA;NA;"prec";"snow";NA;NA;NA;2
+"U2FRYD01";15.09015;50.91785;337;"Fr˝dlant";"Fr˝dlant";"AKS";TRUE;"SRA";NA;NA;"SSV";"P";FALSE;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;0
+"U2HEJN01";15.18317;50.88456;396;"Hejnice";"Hejnice";"AKS2";TRUE;"SRA";"SCE";NA;"SSV";NA;FALSE;NA;"tmean";"tmax";"tmin";"humid";"prec";"snow";"solr";"wind";NA;8
+"U2CHOT01";14.87175;50.83897;260;"ChotynÏ";"ChotynÏ";"ASS";NA;"SRA";"SCE";NA;NA;NA;NA;NA;NA;NA;NA;NA;"prec";"snow";NA;NA;NA;2
+"U2CHRI01";14.52456;50.85289;440;"Ch¯ibsk·";"Ch¯ibsk·, HornÌ Ch¯ibsk·";"MSS";NA;"SRA";"SCE";NA;NA;NA;NA;NA;NA;NA;NA;NA;"prec";"snow";NA;NA;NA;2
+"U2CHRV01";14.95861;50.81872;314;"Chrastava";"Chrastava";"ASS";NA;"SRA";"SCE";NA;NA;NA;NA;NA;NA;NA;NA;NA;"prec";"snow";NA;NA;NA;2
+"U2JANI01";15.17922;50.72931;495;"Jablonec nad Nisou";"Jablonec nad Nisou";"ASS";NA;"SRA";NA;NA;NA;NA;NA;NA;"tmean";"tmax";"tmin";"humid";"prec";"snow";NA;"wind";NA;7
+"U2JAPO01";14.77375;50.77206;320;"JablonnÈ v PodjeötÏdÌ";"JablonnÈ v PodjeötÏdÌ";"AKS2";TRUE;"SRA";"SCE";NA;NA;NA;FALSE;NA;"tmean";"tmax";"tmin";"humid";"prec";"snow";NA;"wind";NA;7
+"U2KRIN01";14.907056;50.738722;395;"K¯iûany";"K¯iûany";"ASS";NA;"SRA";"SCE";NA;NA;NA;NA;NA;NA;NA;NA;NA;"prec";"snow";NA;NA;NA;2
+"U2LIBC01";15.02389;50.76972;397.72;"Liberec";"Liberec";"AMS1";TRUE;"SRA";"SCE";NA;"SSV";"P";FALSE;NA;"tmean";"tmax";"tmin";"humid";"prec";"snow";"solr";"wind";"pres";9
+"U2LITM01";14.119889;50.532111;172.5;"LitomÏ¯ice";"LitomÏ¯ice";"MSS";NA;"SRA";"SCE";NA;NA;NA;NA;NA;NA;NA;NA;NA;"prec";"snow";NA;NA;NA;2
+"U2LOBE01";14.31347;51.01965;350;"Lobendava";"Lobendava";"MSS";NA;"SRA";"SCE";NA;NA;NA;NA;NA;NA;NA;NA;NA;"prec";"snow";NA;NA;NA;2
+"U2MARE01";14.676;50.80967;395;"Ma¯enice";"Ma¯enice";"ASS";NA;"SRA";"SCE";NA;NA;NA;NA;NA;NA;NA;NA;NA;"prec";"snow";NA;NA;NA;2
+"U2MFOJ01";15.05856;50.82725;395;"MnÌöek";"MnÌöek, Fojtka";"MSS";NA;"SRA";"SCE";NA;NA;NA;NA;NA;NA;NA;NA;NA;"prec";"snow";NA;NA;NA;2
+"U2MIMO01";14.72494;50.65975;278;"MimoÚ";"MimoÚ";"ASS";NA;"SRA";"SCE";NA;NA;NA;NA;NA;NA;NA;NA;NA;"prec";"snow";NA;NA;NA;2
+"U2NBOR01";14.55719;50.75;358;"Nov˝ Bor";"Nov˝ Bor";"ASS";NA;"SRA";NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;"prec";"snow";NA;NA;NA;2
+"U2NMES01";15.23381;50.92358;473;"NovÈ MÏsto pod Smrkem";"NovÈ MÏsto pod Smrkem";"ASS";NA;"SRA";"SCE";NA;NA;NA;NA;NA;"tmean";"tmax";"tmin";"humid";"prec";"snow";NA;"wind";NA;7
+"U2PRED01";15.01814;50.96594;248;"ViöÚov·";"ViöÚov·";"ASS";NA;"SRA";"SCE";NA;NA;NA;NA;NA;NA;NA;NA;NA;"prec";"snow";NA;NA;NA;2
+"U2RUMB01";14.57086;50.95156;390;"Rumburk";"Rumburk";"MSS";NA;"SRA";"SCE";NA;NA;NA;NA;NA;NA;NA;NA;NA;"prec";"snow";NA;NA;NA;2
+"U2SLUK01";14.45525;51.002722;352;"äluknov";"äluknov";"ASS";NA;"SRA";"SCE";NA;NA;NA;NA;NA;NA;NA;NA;NA;"prec";"snow";NA;NA;NA;2
+"U2SMED01";15.27318;50.84452;834;"BÌl˝ Potok";"BÌl˝ Potok, SmÏdava";"AKS4";TRUE;"SRA";NA;NA;"SSV";NA;FALSE;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;0
+"U2STRR01";14.80739;50.70361;310;"Str·û pod Ralskem";"Str·û pod Ralskem";"AKS1";TRUE;"SRA";"SCE";NA;"SSV";NA;FALSE;NA;"tmean";"tmax";"tmin";"humid";"prec";"snow";"solr";"wind";NA;8
+"U2USHA01";14.30925;50.59617;280;"⁄ötÏk";"⁄ötÏk, Hab¯ina";"MSS";NA;"SRA";"SCE";NA;NA;NA;NA;NA;NA;NA;NA;NA;"prec";"snow";NA;NA;NA;2
+"U2VARN01";14.60222;50.90556;367;"Varnsdorf";"Varnsdorf";"AKS1";TRUE;"SRA";"SCE";NA;"SSV";NA;FALSE;NA;"tmean";"tmax";"tmin";"humid";"prec";"snow";"solr";"wind";NA;8
+"U2VERN01";14.30492;50.65789;507;"Verne¯ice";"Verne¯ice";"ASS";NA;"SRA";"SCE";NA;NA;NA;NA;NA;NA;NA;NA;NA;"prec";"snow";NA;NA;NA;2
+"U2VYSO01";14.537361;50.411611;300;"Vysok·";"Vysok·";"MSS";NA;"SRA";"SCE";NA;NA;NA;NA;NA;NA;NA;NA;NA;"prec";"snow";NA;NA;NA;2
+"U2ZAHR01";14.51467;50.61428;270;"Zahr·dky";"Zahr·dky";"ASS";NA;"SRA";"SCE";NA;NA;NA;NA;NA;NA;NA;NA;NA;"prec";"snow";NA;NA;NA;2
+"U2ZAND01";14.403417;50.708083;275;"éandov";"éandov, HornÌ Police";"ASS";NA;"SRA";"SCE";NA;NA;NA;NA;NA;NA;NA;NA;NA;"prec";"snow";NA;NA;NA;2
+"U4BPCN01";15.152029;50.840168;820;"Bed¯ichov";"Bed¯ichov, Prameny »ernÈ Nisy";"ASS";NA;NA;"SCE";NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;0
+"U4BPPC01";15.234862;50.853964;984;"BÌl˝ Potok";"BÌl˝ Potok, Pavlova cesta";"ASS";NA;"SRA";NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;0
+"U4BPSM01";15.273405;50.845078;826;"BÌl˝ Potok";"BÌl˝ Potok, SmÏdava";"ASS";TRUE;NA;"SCE";NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;0
+"U4BPUJ01";15.292606;50.857536;916;"BÌl˝ Potok";"BÌl˝ Potok, U Je¯·bu";"ASS";NA;"SRA";"SCE";NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;0
+"U4BTOM01";15.149511;50.834362;810;"Bed¯ichov";"Bed¯ichov, Tomöovka";"ASS";NA;"SRA";NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;0
+"U4BUHL01";15.147065;50.824187;780;"Bed¯ichov";"Bed¯ichov, UhlÌ¯sk·";"ASS";NA;"SRA";"SCE";NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;0
+"U4HKNA01";15.243308;50.830763;990;"Hejnice";"Hejnice, Knajpa";"ASS";NA;"SRA";"SCE";NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;0
+"U4SMHO01";15.252335;50.844961;1006;"Hejnice";"Hejnice, SmÏdavsk· hora";"ASS";NA;"SRA";NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;0
+"U4ZAKO01";13.354974;50.549858;828;"Z·koutÌ";"Z·koutÌ";"ASNS";TRUE;NA;NA;"SCEa";NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;0
