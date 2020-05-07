@@ -3,9 +3,9 @@ library(sf)
 
 # this script is using station ids generated in "poloha_stanic_merge.R" also available in this repo 
 setwd("your//directory")
-# load output of previous script
-stanice<-read.table("2020_04_09_stanice_kalab.csv",sep = ";",stringsAsFactors = F,header = T) 
 
+# load output of previous script
+stanice<-read.table("stanice_ids.csv",sep = ";",stringsAsFactors = F,header = T) 
 # extract station ids
 id<-as.character(stanice$id)
 
@@ -153,7 +153,7 @@ downed<-data.frame(id=substr(files,10,17), # extract id, add sign of data exists
                    pres=rep("pres",length(files)))
 
 stanice9<-merge(stanice8,downed,by="id",all.x = T) # merge with sttaion data
-stanice9$params<-apply(stanice9[16:24], MARGIN = 1, function(x) sum(!is.na(x)))
+stanice9$params<-apply(stanice9[,16:24], MARGIN = 1, function(x) sum(!is.na(x)))
 stanice_sf<-st_as_sf(stanice9,coords = c("X", "Y"), crs = 4326 )
 
 which(apply(stanice9[16:24], MARGIN = 1, function(x) sum(!is.na(x)))==0)
