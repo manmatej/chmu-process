@@ -3,7 +3,9 @@
 
 loc<-"path\\to\\ypur\\zips"
 zips<-list.files(loc,pattern = "*.zip$",full.names = T) # list paths to all zip files in current directory
+
 unzips<-"path\\to\\folder\\where\\to\\write\\unpacked"
+setwd(ununzips)
 
 for (i in 1:length(zips)){
   unzip(zips[i],exdir=unzips)  # unzip your file 
@@ -15,7 +17,7 @@ library(data.table)
 ## mean air temperature
 files<-list.files(pattern = "*_T_N.csv$") # load files based on pattern
 
-years<-lapply(files,fread,skip = "M?s?c",header = T, dec=",",select=1) # find absolute start + end date
+years<-lapply(files,fread,skip = "Měsíc",header = T, dec=",",select=1) # find absolute start + end date
 min(unlist(lapply(years,min,na.rm=T)))
 max(unlist(lapply(years,min,na.rm=T)))
 
@@ -35,7 +37,7 @@ records<-lapply(files,fread,skip = "Měsíc",header = T, dec=",",select=c(1:4))
 for (i in 1:length(files)) {
   tm<-data.frame(records[[i]]) # single data frame
   loc<-substr(files[i],1,8) # staton id
-  datum<-paste(tm$Rok,tm$M?s?c,tm$Den,sep="-") # construct posix date
+  datum<-paste(tm$Rok,tm$Měsíc,tm$Den,sep="-") # construct posix date
   pos<-as.POSIXct(datum)
   cha<-as.character(pos) # conver to chcarcter, merge not works with posix
   tms<-data.frame(date=cha,mer=tm$Hodnota) # single station ready for merge
