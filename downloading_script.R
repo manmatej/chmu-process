@@ -156,7 +156,5 @@ stanice9<-merge(stanice8,downed,by="id",all.x = T) # merge with sttaion data
 stanice9$params<-apply(stanice9[,16:24], MARGIN = 1, function(x) sum(!is.na(x)))
 stanice_sf<-st_as_sf(stanice9,coords = c("X", "Y"), crs = 4326 )
 
-which(apply(stanice9[16:24], MARGIN = 1, function(x) sum(!is.na(x)))==0)
-
-write_sf(stanice_sf,"2020_05_05_stanice_data.gpkg")
-write.table(stanice9,"2020_05_05_stanice_data.csv",sep = ";",col.names = T,row.names = F)
+write_sf(stanice_sf,"stanice_data.gpkg")
+write.table(stanice9,"stanice_data.csv",sep = ";",col.names = T,row.names = F)
