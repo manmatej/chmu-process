@@ -8,5 +8,12 @@ To run this one, you need ids of stations. You can process them yourself or use 
 Result is bunch of zip files. 
 
 ### Unzip process
-This one will handle downloaded zips. Only mean air temperature as example. Unzip, and process into flat data frame starting 01.01.1961 ending 31.01.2019. There are a lot of missing data, individual station vary in logging period. All data are merged together. 
-See airTmean.jpg to check missing data. X axis = date, Y axis = station ID 
+This one will handle downloaded zips. Only mean air temperature as example. Unzip, and process into flat data frame starting 01.01.1961 ending 31.01.2019. 
+
+### Missing values
+There are a lot of missing data, individual station vary in logging period. Y axis shows stations, X axis time. 
+
+![image of missing data](airTmean2.jpg)
+
+### Various staion location in time
+In scripts I ignored variabe position of measuring point in time. Inside CSV files, there are aditional metadata like precise coordinates of measuring device in time. My scripts ignores it and simply merge all data by station ID ignorig spatial shift. 
