@@ -45,6 +45,40 @@ final<-final[,-8] # remove duplicite column
 ## write result
 write_sf(final,"2020_04_09_stanice_kalab.gpkg")
 final1<-st_set_geometry(final,NULL)
-write.table(final1,"2020_04_09_stanice_kalab.csv",sep = ";",col.names = T,row.names = F)
+write.table(final1,"stanice_ids.csv",sep = ";",col.names = T,row.names = F)
 
+## stations by region ------------------
+## update in download urls with addition of 2020 data
+## region name added
+
+setwd("d://Git/chmu-process/")
+
+library(data.table)
+library(sf)
+stations.tab<-fread("stanice_ids.csv")
+stations<-st_as_sf(stations.tab,coords=c("X","Y"),crs=4326)
+stations$X<-stations.tab$X; stations$Y<-stations.tab$Y
+nut3<-st_read("nuts3_010114.shp")
+nut3wgs<-st_transform(nut3,4326)
+
+plot(st_geometry(nut3wgs))
+plot(st_geometry(stations),add=T,pch=".",cex=2)
+inter<-st_intersection(nut3wgs,stations)
+
+# Problems solved by hand
+# Cantoryje outside CZ
+sel<-which(stations.tab$id %in% inter$id==F)
+cantoryje<-stations.tab[sel,] # Moravskoslezsky
+stations.tab[455,]
+cantoryje$nut3<-"Moravskoslezsky"
+inter<-inter[,c(14:28,13)]
+st_geometry(inter)<-NULL
+inter_all<-rbind(inter,cantoryje)
+
+# Ruzyne not in Stredocesky
+sel<-grep("P1PRUZ01",inter_all$id)
+inter_all[sel,"nut3"]<-"Praha"
+
+inter_all$nam<-paste0(inter_all$nut3,"/",inter_all$id)
+fwrite(inter_all,"stanice_kraje_ids.csv",sep=";")
 

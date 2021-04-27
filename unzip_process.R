@@ -2,10 +2,12 @@
 # read output of downloading script
 
 loc<-"path\\to\\ypur\\zips"
+loc<-"d:\\temp_meteo\\"
 zips<-list.files(loc,pattern = "*.zip$",full.names = T) # list paths to all zip files in current directory
 
 unzips<-"path\\to\\folder\\where\\to\\write\\unpacked"
-setwd(ununzips)
+unzips<-"d:\\temp_meteo\\unzip"
+setwd(unzips)
 
 for (i in 1:length(zips)){
   unzip(zips[i],exdir=unzips)  # unzip your file 
@@ -23,7 +25,7 @@ max(unlist(lapply(years,min,na.rm=T)))
 
 # generate clear time series by day
 prvni<-as.POSIXct("1961-01-01",tz="UTC") # start time
-posledni<-as.POSIXct("2019-12-31",tz="UTC") # end time
+posledni<-as.POSIXct("2020-12-31",tz="UTC") # end time
 cas<-seq(from=prvni,to=posledni, by=60*60*24) # generate clear time series
  
 ## cler data frame for joining data together
@@ -45,4 +47,17 @@ for (i in 1:length(files)) {
   airTmean<-merge(airTmean,tms,by="date",all.x = T) # final merge
 }
 
+setwd("d://Git/chmu-process/")
 save(airTmean,file="airTmean_merged.RData")
+fwrite(airTmean,"airTmean.csv",sep=";")
+
+
+airTmean$date<-as.POSIXct(airTmean$date)
+a<-seq(1961,2020,by=1)
+
+jpeg(filename = "airTmean.jpg",
+     width = 2000, height = 500, units = "px",bg = "white",quality = 90)
+image(as.matrix(airTmean[,-1]),axes=F)
+axis(1, at=seq(0,1,length.out = 60), labels=a,las=3)
+dev.off()
+
