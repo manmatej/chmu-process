@@ -15,11 +15,13 @@ To run [Downloading script.R](./downloading_script.R), you need stations ID. By 
 | Sum of daily precipitation       | 718                          |
 | Daily mean air pressure          | 57                           |
 | Total depth of snow              | 707                          |
+| Depth of daily fresh snow        | 705                          |
 | Daily duration of sun shining    | 186                          |
 | Daily mean air temperature       | 296                          |
 | Daily maximal air temperature    | 279                          |
 | Daily minimal air temperature    | 279                          |
 | Daily mean  wind speed           | 250                          |
+| Daily maximal wind speed         | 180                          |
 
 For the list of stations with or without data available for specific element you can check the table: [stanice_data.csv](./stanice_data.csv) or the QGIS file [stanice_data.gpkg](./stanice_data.gpkg) 
 

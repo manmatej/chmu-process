@@ -156,16 +156,49 @@ downed<-data.frame(id=substr(files,10,17), # extract id, add sign of data exists
                    pres=rep("pres",length(files)))
 
 stanice9<-merge(stanice8,downed,by="id",all.x = T) # merge with sttaion data
-stanice9$params<-apply(stanice9[,18:26], MARGIN = 1, function(x) sum(!is.na(x)))
-stanice_sf<-st_as_sf(stanice9,coords = c("X", "Y"), crs = 4326 )
+
+# daily fresh snow
+#############################
+ur<-"https://www.chmi.cz/files/portal/docs/meteo/ok/open_data/RDATA/SNO-07.00/" # url base
+uri<-paste0(ur,id,"_SNO_N.csv.zip") # sign of max temp
+writeClipboard(uri[1]) # test
+nam<-paste0("freshsnow_day_",id2,".zip") # construct dwnload names
+
+safe_download <- purrr::safely(~ download.file(.x , .y, mode = "wb",quiet = T)) # construct envelope to skip broken urls
+purrr::walk2(uri, nam, safe_download) # walk through valid urls and save.
+
+files<-list.files(pattern = "freshsnow_day*") # load downaloded file names
+downed<-data.frame(id=substr(files,15,22), # extract id, add sign of data exists 
+                   fsnow=rep("fsnow",length(files)))
+
+stanice10<-merge(stanice9,downed,by="id",all.x = T) # merge with sttaion data
+
+## maximal daily wind speed
+#############################
+ur<-"https://www.chmi.cz/files/portal/docs/meteo/ok/open_data/RDATA/Fmax-00.00/" # url base
+uri<-paste0(ur,id,"_Fmax_N.csv.zip") # sign of max temp
+writeClipboard(uri[1]) # test
+nam<-paste0("maxwind_day_",id2,".zip") # construct dwnload names
+
+safe_download <- purrr::safely(~ download.file(.x , .y, mode = "wb",quiet = T)) # construct envelope to skip broken urls
+purrr::walk2(uri, nam, safe_download) # walk through valid urls and save.
+
+files<-list.files(pattern = "maxwind_day*") # load downaloded file names
+downed<-data.frame(id=substr(files,13,20), # extract id, add sign of data exists 
+                   maxwind=rep("maxwind",length(files)))
+
+stanice11<-merge(stanice10,downed,by="id",all.x = T) # merge with sttaion data
+
+stanice11$params<-apply(stanice11[,18:28], MARGIN = 1, function(x) sum(!is.na(x)))
+stanice_sf<-st_as_sf(stanice11,coords = c("X", "Y"), crs = 4326 )
 
 setwd("d://Git/chmu-process/")
 write_sf(stanice_sf,"stanice_data.gpkg")
-write.table(stanice9,"stanice_data.csv",sep = ";",col.names = T,row.names = F)
-which(stanice9$params==0) ## incorrect region??
+write.table(stanice11,"stanice_data.csv",sep = ";",col.names = T,row.names = F)
+which(stanice11$params==0) ## total stations, stations with second digit in ID = 4, 
 
 # summary
-su<-unlist(stanice9[,18:26])
+su<-unlist(stanice11[,18:28])
 su<-su[!is.na(su)]
 su<-summary(as.factor(su))
 write.table(su,"clipboard")
