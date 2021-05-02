@@ -7,7 +7,7 @@ https://www.chmi.cz/historicka-data/pocasi/denni-data/Denni-data-dle-z.-123-1998
 To run [Downloading script.R](./downloading_script.R), you need stations ID. By default I prepared table with the IDs [stanice_kraje_ids.csv](./stanice_kraje_ids.csv). In script [poloha_stanic_merge.R](./poloha_stanic_merge.R) you can check Where the station IDs comes from. You can process station IDs yourself or use default. Default will download (I hope) all data. Providing subset of station IDs you can decide which data download specifically. Downloading process result is bunch of zip files on your drive. 
 
 ### 2. Unzip and process data
-[Downloading script.R](./downloading_script.R) will unzip downloaded files and  produce table where rows are days and columns station IDs. Only mean air temperature is provided as an example. You can easily modify for any other variable specifying variable name. Currently there are available:
+[unzip_process.R](./unzip_process.R) will unzip downloaded files and  produce table where rows are days and columns station IDs. Only mean air temperature is provided as an example. You can easily modify for any other variable specifying variable name. Currently there are available:
 
 | climatic element                 | number of stations with data |
 |----------------------------------|------------------------------|
