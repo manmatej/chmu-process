@@ -1,9 +1,8 @@
 # Series of scripts to handle CHMI daily climate historical data
   
-CHMI daily climatic data are currently available from 1961 to 2020 but with many missing data.
+https://www.chmi.cz/historicka-data/pocasi/denni-data/Denni-data-dle-z.-123-1998-Sb CHMI daily climatic data are currently available from 1961 to 2020 but with many missing data.
   
 ### 1. Downloading script
-https://www.chmi.cz/historicka-data/pocasi/denni-data/Denni-data-dle-z.-123-1998-Sb
 [Downloading script.R](./downloading_script.R) will download all available csv files. In 2021 it was 6 292 csv files covering 11 elements. 
 
 ### 2. Unzip and process data
@@ -32,5 +31,5 @@ Y axis shows stations, X axis time.
 
 
 ### Changing station location through time
-Many stations were moved in last 60 years, some of them were moved several times. In the table [coords_time.csv](./coords_time.csv) coordinates are provided together with the time. In case the station was moved, there is new line with station id and time span the station was located at the certain coordinates. There is also [GIS file](./ coords_time.gpkg)  identical with csv table. The table with station coordinates was produced in [poloha_stanic_merge.R](./poloha_stanic_merge.R) script. At the end of the script, there is example how to get the last known coordinates for selected element.   
+Many stations were moved in last 60 years, some of them were moved several times. In the table [coords_time.csv](./coords_time.csv) coordinates are provided together with the time. In case the station was moved, there is new line with station id and time span the station was located at the certain coordinates. There is also [GIS file](./coords_time.gpkg)  identical with csv table. The table with station coordinates was produced in [poloha_stanic_merge.R](./poloha_stanic_merge.R) script. At the end of the script, there is example how to get the last known coordinates for selected element.   
 
