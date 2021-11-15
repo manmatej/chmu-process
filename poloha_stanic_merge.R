@@ -1,84 +1,86 @@
 
-## Use Oto Kalab's script to download station metadata
-## https://github.com/kalab-oto/chmu-poloha-stanic
+loc<-"d:/temp_meteo/unzip/"
+setwd(loc)
 
-## merge into single layer
-
-# stations
-setwd("your\\directory") 
-library(sf)
-sta.layer<-as.list(st_layers("stanice.gpkg")$name) # gpkg layers names
-a<-lapply(sta.layer,st_read,dsn="stanice.gpkg",stringsAsFactors=F) # list all layers
-b<-do.call(rbind,a) # bind together
-
-## remove duplicated ids
-length(unique(b$id))
-length(b$id)
-dupl<-c(which(duplicated(b$id)),which(duplicated(b$id, fromLast=TRUE)))
-b.dupl<-b[dupl,]
-
-b<-b[!duplicated(b$id),]
-stations<-b # without duplicites
+files<-list.files(loc) # load csv files with maximum temperature
+names<-list.files(loc,full.names = F)
+element<-substr(names,10,nchar(names)-4)
+summary(as.factor(element))
 
 
-# elements
-ele.layer<-as.list(st_layers("staniceElement.gpkg")$name) # load all data into list
-elem<-substr(st_layers("staniceElement.gpkg")$name,8,nchar(st_layers("staniceElement.gpkg")$name)-1)
-aa<-lapply(ele.layer,st_read,dsn="staniceElement.gpkg",stringsAsFactors=F) 
+## coordinates and mesuring period metadata 
+lines<-lapply(files, readLines,n=100) # read first 100 lines where metadata must be
+start<-lapply(lines, grep,pattern="METADATA") # find start line of metadata
+start<-unlist(start)+1 
+end<-lapply(lines, grep,pattern="PŘÍSTROJE") # find end line of metadata
+end<-unlist(end)-2
 
-xx<-do.call(rbind,aa) 
-ids<-data.frame(id=unique(xx$id),idx=unique(xx$id),stringsAsFactors = F) # unique ids
-cc<-lapply(aa,subset,select=c("id","ELEMENT")) # id plus element
-dd<-lapply(cc, st_set_geometry,NULL) # remove geometry data
-for (i in 1:8) colnames(dd[[i]])[2]<-elem[i] # naming elements
+# extract all target metadata lines in paralel loop
+library(foreach)
+library(doParallel)
 
-# merge elements together
-for(i in 1:8){
-  m1<-dd[[i]]
-  m1<-m1[!duplicated(m1$id),]
-  ids<-merge(ids,m1,all.x = T)
+cores=detectCores() # detect cores
+cl <- makeCluster(cores[1]-1) # use all cores excpet of one (prevent owerloading)
+registerDoParallel(cl) # register cluster
+
+# dynamic extract of certainlines from metadata and bind into one matrix
+finalMatrix <- foreach(i=1:length(files), .combine=rbind) %dopar% {
+  tempMatrix = read.table(text=unlist(lines[i])[start[i]:end[i]],sep=";",header=T,dec = ",")
+  tempMatrix$element<-rep(element[i],nrow(tempMatrix))
+  tempMatrix #Equivalent to finalMatrix = rbind(finalMatrix, tempMatrix)
 }
 
-final<-merge(stations,ids,all.x=T)
-final<-final[,-8] # remove duplicite column
+stopCluster(cl) #stop cluster
+finalMatrix$Začátek.měření<-as.POSIXct(finalMatrix$Začátek.měření,"%d.%m.%Y", tz = "UTC")
+finalMatrix$Konec.měření<-as.POSIXct(finalMatrix$Konec.měření,"%d.%m.%Y", tz = "UTC")
 
-## write result
-write_sf(final,"2020_04_09_stanice_kalab.gpkg")
-final1<-st_set_geometry(final,NULL)
-write.table(final1,"stanice_ids.csv",sep = ";",col.names = T,row.names = F)
-
-## stations by region ------------------
-## update in download urls with addition of 2020 data
-## region name added
+coordinates<-finalMatrix
+coordinates<-coordinates[!is.na(coordinates$Zeměpisná.šířka),]
+head(coordinates)
 
 setwd("d://Git/chmu-process/")
+saveRDS(coordinates,file = "coords_time.rds")
+write.table(coordinates,col.names = T,row.names = F,sep=",",
+            file = "coords_time.csv")
+st_write(coordinates,"coords_time.gpkg")
 
-library(data.table)
+## visual check - station moving in time
+# devtools::install_github('rstudio/leaflet')
+library(leaflet)
 library(sf)
-stations.tab<-fread("stanice_ids.csv")
-stations<-st_as_sf(stations.tab,coords=c("X","Y"),crs=4326)
-stations$X<-stations.tab$X; stations$Y<-stations.tab$Y
-nut3<-st_read("nuts3_010114.shp")
-nut3wgs<-st_transform(nut3,4326)
+library(randomcoloR)
 
-plot(st_geometry(nut3wgs))
-plot(st_geometry(stations),add=T,pch=".",cex=2)
-inter<-st_intersection(nut3wgs,stations)
 
-# Problems solved by hand
-# Cantoryje outside CZ
-sel<-which(stations.tab$id %in% inter$id==F)
-cantoryje<-stations.tab[sel,] # Moravskoslezsky
-stations.tab[455,]
-cantoryje$nut3<-"Moravskoslezsky"
-inter<-inter[,c(14:28,13)]
-st_geometry(inter)<-NULL
-inter_all<-rbind(inter,cantoryje)
+coo.sf<-st_as_sf(coordinates, coords = c("Zeměpisná.délka","Zeměpisná.šířka"),crs = 4326)
+plot(st_geometry(coo.sf))
+unik<-unique(coo.sf$Stanice.ID)
 
-# Ruzyne not in Stredocesky
-sel<-grep("P1PRUZ01",inter_all$id)
-inter_all[sel,"nut3"]<-"Praha"
+col=colorFactor(sample(colors(),length(unik),replace = T),domain = NULL)
+pop<-paste0(coo.sf$Jméno.stanice," ",coo.sf$element," ",coo.sf$Začátek.měření," ",coo.sf$Konec.měření)
 
-inter_all$nam<-paste0(inter_all$nut3,"/",inter_all$id)
-fwrite(inter_all,"stanice_kraje_ids.csv",sep=";")
+# interactiv map
+leaflet(coo.sf) %>% 
+  addTiles() %>%  
+  addCircleMarkers(popup=pop,color = ~col(Stanice.ID),
+                   stroke = FALSE, fillOpacity = 0.8,radius=4)
+
+
+#### subset coordinates based on time and element ------------
+# example: find all stations measuring continuously mean air temperature from 2017 till 2020
+coordinates<-readRDS("coords_time.rds")
+data<-coordinates[coordinates$element=="T_N",]
+start<-as.POSIXct("2017-01-01")
+end<-as.POSIXct("2020-01-01")
+
+data<-data[data$Začátek.měření<start & data$Konec.měření>end,]
+which(duplicated(data$Stanice.ID))
+head(data)
+
+# example: find last known position of all stations measuring mean air temperature
+data<-coordinates[coordinates$element=="T_N",]
+
+data.ord<-data[order(data[,'Stanice.ID'],data[,"Konec.měření"],decreasing = T),] # sort stations by ID and time
+data.ord<-data.ord[!duplicated(data.ord$Stanice.ID),] # select first record (last known position)
+
+
 
