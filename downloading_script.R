@@ -15,7 +15,10 @@ page.list<-page %>%
   html_elements("a") %>%  # find all links on the page
   html_attr("href")       # get the urls
 
-page.list<-page.list[grep("kraje",page.list)] # select only url containing region names
+page.list<-page.list[grep("html",page.list)] # select only url containing region names
+a<-strsplit(page.list2,"/") # parse result for extracting region names
+
+
 a<-strsplit(page.list,"/") # parse result for extracting element codes
 element<-sapply(a,function(x) x[2]) # extract element codes
 
@@ -67,7 +70,7 @@ nam<-make.names(nam)
 sum(duplicated(nam))
 
 ## Downloading
-
+dir.create("d:/temp_meteo/")
 setwd("d:/temp_meteo/") # where should be zips stored
 
 safe_download <- purrr::safely(~ download.file(.x , .y, mode = "wb",quiet = F)) # construct envelope to skip not existing urls
